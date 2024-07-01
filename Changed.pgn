@@ -1,0 +1,8008 @@
+[Event "Vienna 1860"]
+[White "Hamppe"]
+[Black "Steinitz"]
+[Result "0-1"]
+[FEN "r6r/1pp3k1/1b6/p2P1p2/P1N1pn2/2P2PP1/BP5P/4RR1K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "1"]
+[Termination "Mate"]
+[PlyCount "3"]
+
+1... Rxh2+ 2.Kxh2 Rh8# 0-1
+
+
+[Event "London 1862"]
+[White "Steinitz"]
+[Black "Wilson"]
+[Result "1-0"]
+[FEN "rnb3kr/ppp4p/3b3B/3Pp2n/2BP4/3K1Rp1/PPP3q1/RN1Q4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "2"]
+[Termination "Mate"]
+[PlyCount "5"]
+
+1.Rf8+ Bxf8 2.d6+ Be6 (2... Qd5 3.Bxd5+ Be6 4.Bxe6#) 3.Bxe6# 1-0
+
+
+[Event "London (6) 1862"]
+[White "Steinitz"]
+[Black "Dubois"]
+[Result "*"]
+[FEN "r2q1rk1/pppb1ppp/3b4/4p1P1/4Pn2/2N1B2P/PPPQBP2/2KR3R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "3"]
+[PlyCount "3"]
+
+1.Bxf4 exf4 2.e5 *
+
+
+[Event "London (1) 1864"]
+[White "Green"]
+[Black "Steinitz"]
+[Result "*"]
+[FEN "2kr4/1pp4p/1p1r4/5Pp1/1P2q3/2P1R2P/P3KP2/1Q1R4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "4"]
+[PlyCount "3"]
+
+1... Rd2+ 2.Rxd2 (2.Ke1 Qh1#) Qxb1 *
+
+
+[Event "Dublin (simul) 1865"]
+[White "Steinitz"]
+[Black "Barry"]
+[Result "*"]
+[FEN "rn1qk2r/ppp2ppp/5n2/2b1p3/2B1P1b1/3P1N2/PPP3PP/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "5"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Dundee 1867"]
+[White "Fraser"]
+[Black "Steinitz"]
+[Result "*"]
+[FEN "r2k3r/pp1b3p/1qn1p1p1/1B1pPn2/Q7/P4N2/1P1BNPPP/2R3K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "6"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "London (simul) 1868"]
+[White "Steinitz"]
+[Black "Baker"]
+[Result "*"]
+[FEN "2r1k2r/1b1p2q1/p4p2/4p3/PpB1Pp1p/7P/1PPRQPP1/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "7"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Baden-Baden 1870"]
+[White "Steinitz"]
+[Black "Minckwitz"]
+[Result "*"]
+[FEN "r3k2r/p1ppbppp/1pn1q3/4P3/2BP2n1/5NB1/1PP1Q1PP/R4K1R b kq - 0 1"]
+[Type "Easy"]
+[Puzzle "8"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Vienna 1873"]
+[White "Steinitz"]
+[Black "Fleissig"]
+[Result "*"]
+[FEN "1b6/3n1p2/r1k1p1pp/Pr2P3/1PK2P2/3R4/3B2PP/R7 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "9"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Vienna 1873"]
+[White "Steinitz"]
+[Black "Gelbfuhs"]
+[Result "*"]
+[FEN "2b5/4Q1pp/pp3n1k/3p3q/P2P1P2/BP1B2P1/7P/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "10"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Vienna 1882"]
+[White "Steinitz"]
+[Black "Meitner"]
+[Result "*"]
+[FEN "rn1qk1nr/ppp2ppp/8/2b1p3/2B1P1b1/5N2/PPPP2PP/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "11"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "London 1883"]
+[White "Blackburne"]
+[Black "Steinitz"]
+[Result "*"]
+[FEN "r1n5/pp2q1kp/2ppr1p1/4p1Q1/8/2N4R/PPP3PP/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "12"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "New York (2) 1890"]
+[White "Gunsberg"]
+[Black "Steinitz"]
+[Result "*"]
+[FEN "4rrk1/ppp3pp/3p2n1/3Ppqb1/nPP5/6P1/P1NBQP1P/2R1NRK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "13"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Havana (8) 1892"]
+[White "Steinitz"]
+[Black "Chigorin"]
+[Result "*"]
+[FEN "2kr3r/p4pp1/2p4p/4p3/2n4q/1NPPnP1P/PP2Q2P/R1K2B1R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "14"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Haarlem (simul) 1896"]
+[White "Steinitz"]
+[Black "Van Foreest"]
+[Result "*"]
+[FEN "6k1/5pp1/p1n1r2p/2NQ4/1P1p4/P6P/1B1bqPP1/5RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "15"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Haarlem (simul) 1896"]
+[White "Steinitz"]
+[Black "Reyne"]
+[Result "*"]
+[FEN "r1bqk1nr/pppp3p/2n2p2/b5p1/2BPPp1P/2P2N2/P5P1/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "16"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1896"]
+[White "Steinitz"]
+[Black "Falk"]
+[Result "*"]
+[FEN "2kr1bnr/p1ppqp1p/bpn5/1N4p1/P2PPp2/5N2/1PP2KPP/R1BQ1B1R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "17"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Haarlem (simul) 1896"]
+[White "Steinitz"]
+[Black "Enderle"]
+[Result "*"]
+[FEN "rn1qk1nr/ppp2ppp/8/2b1p3/2B1P1b1/5N2/PPPP2PP/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "18"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Vienna 1898"]
+[White "Showalter"]
+[Black "Steinitz"]
+[Result "*"]
+[FEN "1k2r3/2p3p1/p4p2/1p3q1p/1n6/PQ2P3/1P2B2P/2KR4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "19"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "USA (simul) 1902"]
+[White "Lasker"]
+[Black "McBride"]
+[Result "*"]
+[FEN "r1bqkbnr/pppp3p/2n2p2/6p1/2BPPp2/5N2/PPP3PP/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "20"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Gloucester (simul) 1908"]
+[White "Lasker"]
+[Black "Witchard"]
+[Result "*"]
+[FEN "rnbqkbnr/pppp3p/5p2/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R b KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "21"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Germany 1908"]
+[White "Hartlaub"]
+[Black "Lasker"]
+[Result "*"]
+[FEN "rnbqkb1r/pp1p2pp/2p2p2/4p3/2B5/2P2N2/PPP2PPP/R1BQ1RK1 w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "22"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Berlin (1) 1910"]
+[White "Lasker"]
+[Black "Janowski"]
+[Result "*"]
+[FEN "2r3k1/p3qppp/2pr4/Q2b4/1P2p3/4P3/P3BPPP/2RR2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "23"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Atlantic Ocean 1924"]
+[White "Lasker"]
+[Black "Bogoljubov"]
+[Result "*"]
+[FEN "6k1/2p3pp/q3pn2/1pp1p3/4P3/1P1P1P2/rNP2P1P/1Q3RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "24"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Nottingham 1936"]
+[White "Thomas"]
+[Black "Lasker"]
+[Result "*"]
+[FEN "8/1p3q1k/2p3pp/4P1r1/8/4Q3/PP5P/3R3K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "25"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Schenectady 1909"]
+[White "Capablanca"]
+[Black "Watson"]
+[Result "*"]
+[FEN "r5k1/1b1n2r1/p3n2q/1p1pPRN1/2pP3P/2P3P1/PPBQ4/5R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "26"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Saint Louis (simul) 1909"]
+[White "Capablanca"]
+[Black "Schrader"]
+[Result "*"]
+[FEN "r1b2rk1/p2p1p2/2p5/1p2PPqn/1b1p2N1/1B1P3Q/PPP3PP/R4RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "27"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Saint Louis (simul) 1909"]
+[White "Capablanca"]
+[Black "Pomeroy"]
+[Result "*"]
+[FEN "r5r1/p1p1k3/3q3B/5p2/4p3/1P6/P1P1QPP1/R4RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "28"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Saint Louis (simul) 1909"]
+[White "Capablanca"]
+[Black "Carter"]
+[Result "*"]
+[FEN "6rk/p1q2p2/2p1rb1P/1p2pN2/4P1Q1/2PP4/PPB5/2K4R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "29"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "New York 1910"]
+[White "Capablanca"]
+[Black "Marshall"]
+[Result "*"]
+[FEN "4q1k1/2r3pp/1p6/8/1b2N3/4R1P1/PP3P1P/R5K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "30"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Buenos Aires 1911"]
+[White "Capablanca"]
+[Black "Piazzini"]
+[Result "*"]
+[FEN "4k3/1bp4r/p7/1p1P4/2P3pN/1P2r1P1/1BP2RPK/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "31"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Copenhagen (simul) 1911"]
+[White "Capablanca"]
+[Black "Rasmussen"]
+[Result "*"]
+[FEN "2q4k/5Qp1/4B2p/p1p5/1P6/6PK/r4P1P/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "32"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "New York 1912"]
+[White "Capablanca"]
+[Black "Randolph"]
+[Result "*"]
+[FEN "5Rnk/pp1q4/7p/3p2rN/3Pp1Q1/2P5/PP5P/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "33"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "London (simul) 1913"]
+[White "Capablanca"]
+[Black "Dunkelsbuhler"]
+[Result "*"]
+[FEN "r1bq2k1/pp3rpp/2n2b2/3p1p2/3P4/BQPB1N2/P4PPP/R3R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "34"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "New York 1915"]
+[White "Hodges"]
+[Black "Capablanca"]
+[Result "*"]
+[FEN "2r3k1/pb2bp1p/1p2p1p1/8/q1NPP3/3B4/P3QPPP/3R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "35"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "New York (simul) 1915"]
+[White "Capablanca"]
+[Black "Michelsen"]
+[Result "*"]
+[FEN "6r1/2r1k3/R3p3/p4pPp/1pPK1P2/1P3B1P/P7/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "36"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "New York 1918"]
+[White "Capablanca"]
+[Black "N.N."]
+[Result "*"]
+[FEN "r4r1k/pppqNppp/3p1B2/4p3/3nP3/3P1b2/PPPQ1PPP/R4RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "37"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Glasgow 1919"]
+[White "Capablanca"]
+[Black "Birch"]
+[Result "*"]
+[FEN "3r2k1/2p2pp1/p1Q2n1p/7q/8/1P1N2P1/P1P2P2/R3K3 w Q - 0 1"]
+[Type "Easy"]
+[Puzzle "38"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Thornton Heath 1919"]
+[White "Capablanca"]
+[Black "Hadland"]
+[Result "*"]
+[FEN "r1b2rk1/pp3qpp/2p1p3/2Ppb1PP/5B2/3BP3/PP3Q2/2R1K2R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "39"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "London 1922"]
+[White "Capablanca"]
+[Black "Vidmar"]
+[Result "*"]
+[FEN "2r2rk1/pQ1n1pp1/1p2p2p/3p4/P2P4/4P2P/1qB2PP1/2R2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "40"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "New York (simul) 1922"]
+[White "Capablanca"]
+[Black "Malowan"]
+[Result "*"]
+[FEN "3k4/p1p2prr/1p5N/3PRPP1/b1P5/4B3/P4K2/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "41"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (simul) 1925"]
+[White "Capablanca"]
+[Black "N.N."]
+[Result "*"]
+[FEN "r3k2r/pbp2qb1/1pn1p2p/3nP1pQ/3PNp2/2PB4/PP1N1BPP/R4RK1 w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "42"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bad Kissingen 1928"]
+[White "Capablanca"]
+[Black "Mieses"]
+[Result "*"]
+[FEN "4k3/1r2r1pp/1nR2p2/pp1p4/1N1P2P1/1R2PP2/PP3K1P/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "43"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Budapest 1929"]
+[White "Capablanca"]
+[Black "Vajda"]
+[Result "*"]
+[FEN "7r/1p3pp1/pn1kb2p/3p4/3N1P1P/PP1BP3/3K2P1/2R5 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "44"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Karlsbad 1929"]
+[White "Capablanca"]
+[Black "Becker"]
+[Result "*"]
+[FEN "r3nrk1/1bp2ppp/pp2p3/3q2N1/1b1PNP2/3B2P1/PP2QP1P/2RR2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "45"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Mexico (simul) 1933"]
+[White "Capablanca"]
+[Black "Larrea"]
+[Result "*"]
+[FEN "r1b1k2r/2qp1ppp/ppnbpn2/8/2PNP3/P1N1BP2/1P4PP/2RQKB1R w K - 0 1"]
+[Type "Easy"]
+[Puzzle "46"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Margate 1935"]
+[White "Menchik"]
+[Black "Capablanca"]
+[Result "*"]
+[FEN "4r1k1/6qp/pp4p1/2pP4/4Pp2/1P6/P1R3PP/4Q2K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "47"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1935"]
+[White "Capablanca"]
+[Black "Levenfish"]
+[Result "*"]
+[FEN "2bq1r2/4bpk1/4pp1N/7Q/1p1p4/3B4/PP3PPP/R5K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "48"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1936"]
+[White "Capablanca"]
+[Black "Botvinnik"]
+[Result "*"]
+[FEN "r3r1k1/3b2pp/2p5/p1RpPp2/3Q1P2/1q2P1P1/6BP/R5K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "49"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Buenos Aires (ol) 1939"]
+[White "Capablanca"]
+[Black "Vassaux"]
+[Result "*"]
+[FEN "r3br1k/pp5p/4B1p1/4NpP1/P2Pn3/q1PQ3R/7P/3R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "50"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "corr. 1902"]
+[White "Alekhine"]
+[Black "Petrov"]
+[Result "*"]
+[FEN "5rk1/ppp2ppp/6q1/2b1P3/3r4/2N1BQ1b/PP3PPP/R3R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "51"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "corr. 1906"]
+[White "Viakhirev"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "4r2k/ppp3pp/8/1PPb1p2/3P1P1b/P1Q2p1P/7R/R4KBq b - - 0 1"]
+[Type "Easy"]
+[Puzzle "52"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow (2) 1908"]
+[White "Blumenfeld"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "3r1b1k/pp4p1/2p1Qp2/5N2/PP2Pp2/2Pq4/5PKP/5R2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "53"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "St Petersburg 1909"]
+[White "Goldfarb"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "r1b2rk1/pp4pp/2pb4/3p1pq1/2PP4/1N1BPR2/PPQ3PP/4R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "54"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1909"]
+[White "Alekhine"]
+[Black "Lyubimov"]
+[Result "*"]
+[FEN "q6r/1b4bp/4k1p1/1p2Pn2/2pPp1Q1/2P5/1P1N2PP/2B2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "55"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "St Petersburg 1909"]
+[White "Alekhine"]
+[Black "Izbinsky"]
+[Result "*"]
+[FEN "5rk1/1b1p1ppp/1qr1p3/p2pP3/P4P2/Q2B4/1PP3PP/R4R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "56"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1915"]
+[White "Rozanov/Tselikov"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "5r1k/pp4pp/2p5/8/4n3/5NPQ/P3Bq1P/4R2K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "57"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "London (simul) 1923"]
+[White "Leif-Jones"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "r4rk1/pp2bppp/1qp1p3/4Pb2/Q1P1nB2/2N5/PP1RBPPP/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "58"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Czechoslovakia (simul) 1925"]
+[White "Friedmann"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "2r5/pp1bkp1Q/2nbpq2/3p1p2/3P1Pr1/2NBP1N1/PP4PP/2R2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "59"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Baden-Baden 1925"]
+[White "Alekhine"]
+[Black "Yates"]
+[Result "*"]
+[FEN "r1bqr1k1/1p1nbpp1/p1p3p1/3p4/3P1B2/2NBP2P/PP3PP1/2RQ1RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "60"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Semmering 1926"]
+[White "Vajda"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "3r2k1/q1p1nppp/p3n3/1pb1p3/4P2N/1PP3PP/PBB1QPK1/7R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "61"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "San Remo 1930"]
+[White "Grau"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "1Q6/p4pkp/3p2p1/3P4/q7/P3rBbP/6P1/5R1K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "62"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Banja Luka (simul) 1931"]
+[White "Alekhine"]
+[Black "Vasic"]
+[Result "*"]
+[FEN "r1bqk2r/p1pn1pp1/1p2pn1p/8/3P4/B1PB4/P1P1QPPP/R3K1NR b KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "63"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Sarajevo (simul) 1931"]
+[White "Alekhine"]
+[Black "Rumjancev"]
+[Result "*"]
+[FEN "r2qk2r/1p1b1pp1/p1pBpn1p/2P1N3/1n1P4/3B4/PPQ2PPP/2KR3R w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "64"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Pasadena 1932"]
+[White "Fink"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "1r2r1k1/p1pbqppp/Q2b1n2/3p4/P2P4/2P5/1P2BPPP/R1B1KN1R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "65"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Vienna (simul) 1936"]
+[White "Alekhine"]
+[Black "Jobbahazai"]
+[Result "*"]
+[FEN "1r4k1/pqp2pbp/2Q2np1/1N2p3/8/1P5P/PBP2PP1/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "66"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Plymouth 1938"]
+[White "Alekhine"]
+[Black "Bruce"]
+[Result "*"]
+[FEN "rn1qkb1r/pp3p1b/2p1pnpp/4N3/2B4P/6N1/PPPPQPP1/R1B1K2R w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "67"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Estoril (simul) 1940"]
+[White "Alekhine"]
+[Black "Lopo"]
+[Result "*"]
+[FEN "3n4/2prR1pk/p2r1p1p/1p5P/5P1P/P1B2K2/1PP5/4R3 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "68"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Estoril (simul) 1940"]
+[White "Alekhine"]
+[Black "Aragao"]
+[Result "*"]
+[FEN "6r1/1p2R3/p5k1/2p5/4Nr1P/8/PP5P/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "69"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Madrid (simul) 1941"]
+[White "Alekhine"]
+[Black "Salvatierra"]
+[Result "*"]
+[FEN "r1b2rk1/ppqnbppp/2p1pn2/3p2B1/2PP4/2NBPN2/PPQ2PPP/R3K2R w KQ - 0 1"]
+[Type "Easy"]
+[Puzzle "70"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "San Sebastian (simul) 1944"]
+[White "Alekhine"]
+[Black "De Cossio"]
+[Result "*"]
+[FEN "r1b1qrk1/pppp1ppp/1bn3n1/3Np1BQ/2B1P3/3P1N2/PPP2PPP/R3K2R w KQ - 0 1"]
+[Type "Easy"]
+[Puzzle "71"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Santander (simul) 1945"]
+[White "Alekhine"]
+[Black "Ricondo"]
+[Result "*"]
+[FEN "r2qrbk1/1bp2ppp/p2p1n2/2p2NB1/4P3/2N2Q2/PPP2PPP/R3R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "72"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1920"]
+[White "Euwe"]
+[Black "Wiersma"]
+[Result "*"]
+[FEN "r4r1k/ppn1NBpp/4b3/4P3/3p1R2/1P6/P1P3PP/R5K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "73"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Bromley 1920"]
+[White "Bigelow"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "2r2rk1/pp1bnp2/3q1n1Q/3p1P2/4p2N/1BPP4/P1P3PP/R4RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "74"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Vienna 1921"]
+[White "Gruber"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "5rk1/pbp2ppp/qr6/8/5Q2/1PP5/P4PP1/R1B2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "75"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Maehrisch Ostrau 1923"]
+[White "Euwe"]
+[Black "Bogoljubov"]
+[Result "*"]
+[FEN "r1b2rk1/pp1p1ppp/2n2n2/q7/2P5/P1N2NP1/3QPKBP/R1B4R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "76"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Amsterdam (1) 1924"]
+[White "Euwe"]
+[Black "Davidson"]
+[Result "*"]
+[FEN "3Q4/p4pkp/1p3np1/2q5/4p3/4P1N1/PP3PPP/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "77"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Utrecht 1926"]
+[White "Schelfhout"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "3r4/p2q1pkp/1pn1bnp1/2p1p3/P1N1P3/1PP1Q1PP/5PK1/4RBN1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "78"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "London (ol) 1927"]
+[White "Rasmusson"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "2kr4/p1p2ppp/3rb3/8/2P5/1R1BR3/P4PPP/5K2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "79"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "The Hague 1928"]
+[White "Becker"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "6k1/3q3p/p1p3pQ/1p1p4/3P2RP/1P3P2/r3r1P1/5R1K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "80"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Bern 1932"]
+[White "Colin"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "6k1/6pp/p1p3r1/3p4/P2P1Pq1/1R2PR2/2Q1K1P1/7r b - - 0 1"]
+[Type "Easy"]
+[Puzzle "81"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Netherlands 1932"]
+[White "Van Foreest"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "1r2nrk1/p1p2pp1/4bb1p/3p4/q4B2/P1PB1Q1P/1P2NPP1/1R1R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "82"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Netherlands (23) 1935"]
+[White "Alekhine"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "5rk1/p4ppp/b3p3/2n1N3/Pp2P3/1P1r4/3N1PPP/R2R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "83"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Bad Nauheim 1937"]
+[White "Euwe"]
+[Black "Bogoljubov"]
+[Result "*"]
+[FEN "2r1r2k/p4pp1/2pBnb1p/q1Pp4/3P4/P2R4/2Q1NPPP/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "84"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Beverwijk 1941"]
+[White "Cortlever"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "r1bn1b1r/pp2k1pp/5p2/1B2p3/5B2/5N2/PPP2PPP/2KR3R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "85"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Zurich 1947"]
+[White "Euwe"]
+[Black "Grob"]
+[Result "*"]
+[FEN "2r2rk1/5ppp/p1pp4/2p1n1q1/4P2b/1PN4P/PBPRQPP1/R5K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "86"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1948"]
+[White "Van Scheltinga"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "8/2q3pk/1p2p2p/2n5/2B5/P3PQ2/5PKP/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "87"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Baarn 1949"]
+[White "Visser"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "r7/3k3p/6p1/N1P2p2/1p2p2P/3bPP2/5KP1/R7 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "88"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1954"]
+[White "Euwe"]
+[Black "Cortlever"]
+[Result "*"]
+[FEN "4rrk1/pp2p3/2pqP1p1/4Rp1p/P2P1n1P/6Q1/1P3PP1/1N1R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "89"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Munich (ol) 1958"]
+[White "Euwe"]
+[Black "Cintron"]
+[Result "*"]
+[FEN "3r2k1/2q1b2p/ppnpPpp1/2pB4/2P2PPB/PP1R3P/3Q4/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "90"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Nottingham 1936"]
+[White "Alexander"]
+[Black "Botvinnik"]
+[Result "*"]
+[FEN "3r2k1/p1q2pbp/1pn1p1p1/2p5/4P3/4B1P1/PPP1RPBP/2Q4K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "91"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1945"]
+[White "Lilienthal"]
+[Black "Botvinnik"]
+[Result "*"]
+[FEN "1k6/pp3pp1/rr6/3p2Np/2pPnP2/q1P1P2P/P1R3P1/K1QR4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "92"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1947"]
+[White "Botvinnik"]
+[Black "Pachman"]
+[Result "*"]
+[FEN "r3r1k1/ppp2ppp/2nb1q2/6Rn/2BP4/P1NQBP1P/1P3P2/2KR4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "93"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1966"]
+[White "Botvinnik"]
+[Black "Petrosian"]
+[Result "*"]
+[FEN "7k/p6p/6p1/2b2b2/2P5/2R1pBP1/P2rR1KP/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "94"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Leiden 1970"]
+[White "Larsen"]
+[Black "Botvinnik"]
+[Result "*"]
+[FEN "3q3k/1pp3pp/5p2/1P6/4PQ2/3B2P1/1r3b1P/R6K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "95"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1967"]
+[White "Smyslov"]
+[Black "Govbinder"]
+[Result "*"]
+[FEN "r4rk1/p3qpp1/2p2n2/3pb2p/3Q2B1/1PN1P3/PB3PPP/2R2RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "96"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Riga 1951"]
+[White "Shenreder"]
+[Black "Tal"]
+[Result "*"]
+[FEN "r4rk1/pp1b3p/2p4q/3p1p2/3P2n1/2NBP1PR/PP3PK1/R2Q4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "97"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Munich (ol) 1958"]
+[White "Tal"]
+[Black "Tringov"]
+[Result "*"]
+[FEN "r3kr2/1p1b1pp1/p1n1p2p/8/4q3/1N6/PPP1BKPP/R2Q1R2 b q - 0 1"]
+[Type "Easy"]
+[Puzzle "98"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Portoroz 1958"]
+[White "Rossetto"]
+[Black "Tal"]
+[Result "*"]
+[FEN "4r1k1/5p1p/2Qb2p1/3P4/6Pn/2N1B2P/1P3P1q/3R1K2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "99"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Amsterdam 1964"]
+[White "Tal"]
+[Black "Benko"]
+[Result "*"]
+[FEN "r1b1k2r/1p3pp1/p3pn2/2p1q1N1/8/1B2P3/PPP1Q2P/2KR3R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "100"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Poti 1970"]
+[White "Tal"]
+[Black "Levin"]
+[Result "*"]
+[FEN "6k1/1pqrnp2/3p2p1/2pn2b1/P1Q3Pp/2B4P/1PP1RP2/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "101"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Riga 1971"]
+[White "Shmit"]
+[Black "Tal"]
+[Result "*"]
+[FEN "6k1/1p3pp1/p7/P2n1PQ1/8/8/1r3r1P/3R3K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "102"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Novi Sad 1974"]
+[White "Tal"]
+[Black "Kirov"]
+[Result "*"]
+[FEN "1r4k1/2qpn1pp/p1p1pr2/2b5/2P2P2/3B4/PP4PP/R1BQ1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "103"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tallinn 1979"]
+[White "Tal"]
+[Black "Rantanen"]
+[Result "*"]
+[FEN "1rq1r2k/5Rbp/p2p1p1B/2p1p3/2P1P2Q/1P6/P5PP/3b2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "104"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Yerevan 1980"]
+[White "Tal"]
+[Black "Grigorian"]
+[Result "*"]
+[FEN "5bk1/p2Q1p2/q4p2/4r2p/3pr3/8/PPRRNPPP/5K2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "105"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Sochi 1986"]
+[White "Meduna"]
+[Black "Tal"]
+[Result "*"]
+[FEN "6k1/q4pp1/4p2p/1p1r4/1PpPQ3/r1P1R1P1/4RP1P/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "106"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Boston (simul) 1988"]
+[White "Tal"]
+[Black "Conway"]
+[Result "*"]
+[FEN "r2qk2r/pp1n1ppb/2pbpn1p/4N3/2BP1P1P/6N1/PPP1Q1P1/R1B1K2R b kq - 0 1"]
+[Type "Easy"]
+[Puzzle "107"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Germany 1990"]
+[White "Maus"]
+[Black "Tal"]
+[Result "*"]
+[FEN "1r4k1/5n1p/5qp1/1p6/3Q4/1P4PP/P3rPB1/R2R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "108"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1947"]
+[White "Petrosian"]
+[Black "Konstantinopolsky"]
+[Result "*"]
+[FEN "r3r1k1/1p5p/p1pqn1p1/3p1p2/PP1P1P2/1Q1RP3/4B1PP/1R4K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "109"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tbilisi 1949"]
+[White "Petrosian"]
+[Black "Kasparian"]
+[Result "*"]
+[FEN "3r2k1/p2r1p2/4b1p1/qPp1R2p/P1p4P/8/5PP1/Q3RBK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "110"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1950"]
+[White "Petrosian"]
+[Black "Geller"]
+[Result "*"]
+[FEN "3r2k1/5qpp/pp2r3/2p2b2/nPPp1PP1/P4Q2/3N3P/R3RBK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "111"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1951"]
+[White "Poliak"]
+[Black "Petrosian"]
+[Result "*"]
+[FEN "6k1/1q1rbpp1/7p/1p1p1P2/1P2p1P1/P1Q5/4B2P/3R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "112"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1951"]
+[White "Petrosian"]
+[Black "Koliakov"]
+[Result "*"]
+[FEN "2r1b1k1/r1N2p1p/1p2p1pn/p2pP3/1b1P2P1/1P3N1P/P1R2P2/2R2BK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "113"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Saltsjobaden 1952"]
+[White "Petrosian"]
+[Black "Barcza"]
+[Result "*"]
+[FEN "r4rk1/2n1q2p/b1n1p1p1/pp1pPpN1/P1pP1N1P/2P3P1/1P3PB1/R2QR1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "114"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1960"]
+[White "Nei"]
+[Black "Petrosian"]
+[Result "*"]
+[FEN "3r1n1k/3P3p/pp3q2/2pQp3/P1P3B1/3b2R1/1P5P/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "115"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (10) 1966"]
+[White "Petrosian"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "6k1/5r1p/p2N4/nppP2q1/2P5/1P2N3/PQ5P/7K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "116"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Vinkovci 1970"]
+[White "Petrosian"]
+[Black "Tomic"]
+[Result "*"]
+[FEN "Q7/2r2rpk/2p4p/7N/3PpN2/1p2P3/1K4R1/5q2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "117"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Lone Pine 1978"]
+[White "Janosevic"]
+[Black "Petrosian"]
+[Result "*"]
+[FEN "6rk/p3p2p/1p2Pp2/2p2P2/2P1nBr1/1P6/P6P/3R1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "118"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Teslic 1979"]
+[White "Petrosian"]
+[Black "Ivkov"]
+[Result "*"]
+[FEN "8/pr1r3p/6p1/2p1pk2/3b2N1/1P4P1/P2R1PKP/4R3 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "119"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Niksic 1983"]
+[White "Petrosian"]
+[Black "Ljubojevic"]
+[Result "*"]
+[FEN "r5k1/pp1b2pp/4q3/n7/3Rp3/P7/5QPP/2B2RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "120"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Antwerp 1955"]
+[White "Purdy"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2ppbp/2n3p1/2pn4/3p1P2/NP2PN2/PBPPB1PP/3RQRK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "121"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1961"]
+[White "Averbakh"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "8/4r1k1/4qp2/1p6/3R4/P1N2QPp/1PP2K1P/4r3 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "122"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Leningrad 1962"]
+[White "Spassky"]
+[Black "Shofman"]
+[Result "*"]
+[FEN "2kr3r/pbpq4/1p5p/4PpP1/P2p4/2P2Q2/2P2P2/R1B1KB1R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "123"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Yerevan 1962"]
+[White "Spassky"]
+[Black "Korelov"]
+[Result "*"]
+[FEN "8/4r1p1/p2k1p1p/1bNp3P/3P1K2/2P2P2/6P1/1R6 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "124"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1964"]
+[White "Spassky"]
+[Black "Vranesic"]
+[Result "*"]
+[FEN "4kb1r/1br4p/p3p1p1/1p3R2/1n2p3/PNN1B3/1PP3PP/2R3K1 w k - 0 1"]
+[Type "Easy"]
+[Puzzle "125"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Santa Monica 1966"]
+[White "Ivkov"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "8/4k1p1/1p2pp1p/p6P/2n1PN2/4qPP1/1P4K1/3Q4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "126"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Kiev 1968"]
+[White "Spassky"]
+[Black "Korchnoi"]
+[Result "*"]
+[FEN "8/5r1k/p3Npp1/4p3/3nP3/4QP2/PP2q1P1/1KR5 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "127"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1970"]
+[White "Hartoch"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "3Rb3/6kp/6p1/3P1p2/3q4/Q5PP/P1r1r1B1/6RK w - - 0 1"]
+[Type "Easy"]
+[Puzzle "128"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Geneva 1977"]
+[White "Spassky"]
+[Black "Portisch"]
+[Result "*"]
+[FEN "2r2nk1/p2q1pp1/1p2b2p/3p4/3P1P2/4R1P1/PP1Q3P/1B2R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "129"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Lugano 1982"]
+[White "Spassky"]
+[Black "Hoffmann"]
+[Result "*"]
+[FEN "b2r4/p4Brk/1pqp1Qp1/2p2pPp/5P2/3P4/PP5P/2B1RRK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "130"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Zurich 1984"]
+[White "Spassky"]
+[Black "Dueckstein"]
+[Result "*"]
+[FEN "2kn3r/pp1b4/2n1p1p1/q2pP1P1/2pN1P2/P1P3K1/2PB4/R2Q3B b - - 0 1"]
+[Type "Easy"]
+[Puzzle "131"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Montpellier 1985"]
+[White "Ribli"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "7k/8/7P/6K1/6Q1/6P1/7q/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "132"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Montpellier 1991"]
+[White "Spassky"]
+[Black "Santo-Roman"]
+[Result "*"]
+[FEN "r4rk1/pp5p/2pp4/2n3q1/2b2p1R/2N3P1/PP1QPPB1/2KR4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "133"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "USA 1957"]
+[White "Fischer"]
+[Black "Bennett"]
+[Result "*"]
+[FEN "2q4k/p6p/6p1/5p2/5P1P/1Bb2QP1/Pr6/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "134"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Milwaukee 1957"]
+[White "Buerger"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "3r2k1/5rbp/pp3np1/3P4/1B1N1R2/8/P5PP/5RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "135"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Leipzig (ol) 1960"]
+[White "Ghitescu"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "r1bqr1k1/p1p2ppp/3b1n2/2P3B1/8/2NQ1N2/PP3PPP/R4RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "136"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Los Angeles 1961"]
+[White "Reshevsky"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "r4rk1/2p3b1/3p2qp/p1PPp3/4Rn2/P5Q1/3B1NPP/2R3K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "137"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Varna (ol) 1962"]
+[White "Fischer"]
+[Black "Purevzhav"]
+[Result "*"]
+[FEN "2rq1rk1/pp3pb1/3p2pB/n4P2/4pP2/1BNQ4/PKP3P1/3R3R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "138"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Stockholm 1962"]
+[White "Bertok"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "rr4k1/1q3p2/4b2p/p2n2p1/2B5/Q3P3/PP1R1PPP/3R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "139"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bay City 1963"]
+[White "Fischer"]
+[Black "Fuller"]
+[Result "*"]
+[FEN "3r1rk1/ppp1qpp1/2p1b2p/4P3/3nNQ1P/5N2/PPP2PP1/R4RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "140"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Detroit (simul) 1964"]
+[White "Fischer"]
+[Black "Richburg"]
+[Result "*"]
+[FEN "2brrbk1/2q2p1p/p4np1/1ppPp3/4P3/BP2N1P1/P3QPBP/2RR2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "141"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "New York 1965"]
+[White "Fischer"]
+[Black "Byrne"]
+[Result "*"]
+[FEN "r4rk1/ppp1bppp/2N2n2/7q/6b1/2P5/PP1NBPPP/R1B1QRK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "142"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Zagreb 1970"]
+[White "Fischer"]
+[Black "Gligoric"]
+[Result "*"]
+[FEN "r1nq1n2/3b2k1/p2p1p1R/Pp1Pp1p1/1Pp1P1P1/2P1BPN1/2BQ2K1/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "143"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Palma de Mallorca 1970"]
+[White "Reshevsky"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "4rbk1/3Q1ppp/3p4/3P4/5q2/B7/P5PP/5RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "144"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Palma de Mallorca 1970"]
+[White "Gligoric"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "r1b5/5pk1/1p1p3p/3Pq1p1/PQ2Pn2/5P2/5RPP/3R3K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "145"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Rostov on Don 1971"]
+[White "Peresipkin"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "6rk/7p/p2Q4/1p2r3/8/4NP1q/PPP4P/5R1K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "146"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Hastings 1972"]
+[White "Karpov"]
+[Black "Franklin"]
+[Result "*"]
+[FEN "1r2b1k1/R4nqp/4p3/1pR5/1P1P1r2/5N2/1Q2B1P1/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "147"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Skopje (ol) 1972"]
+[White "Saren"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "2rb1qk1/1b4pp/3p4/1P2pr2/2n2PB1/2NQ2P1/P1N4P/R2R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "148"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1976"]
+[White "Karpov"]
+[Black "Kupreichik"]
+[Result "*"]
+[FEN "8/2b2k1p/pp1P3r/2p3p1/6P1/1P2R2P/5P2/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "149"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1977"]
+[White "Portisch"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "r3rnk1/1N3ppp/1p6/p1Pp2q1/8/6P1/PP2PPBP/2R1Q1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "150"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Leningrad 1977"]
+[White "Karpov"]
+[Black "Taimanov"]
+[Result "*"]
+[FEN "8/6k1/1P1p2p1/3Ppn2/3q4/8/6PP/rR2QB1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "151"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Baguio City (17) 1978"]
+[White "Korchnoi"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "8/7R/2r5/8/P3n3/8/3nk1PP/R5K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "152"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1983"]
+[White "Karpov"]
+[Black "Geller"]
+[Result "*"]
+[FEN "3rrk2/R4ppB/7p/1p2N1q1/nPbP1p2/2PQ1P2/6PP/4R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "153"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Oslo 1984"]
+[White "Karpov"]
+[Black "Agdestein"]
+[Result "*"]
+[FEN "5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK1P/3R4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "154"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Brussels 1986"]
+[White "Karpov"]
+[Black "Miles"]
+[Result "*"]
+[FEN "3rrnk1/1bq2pp1/ppnppb1p/8/2P1PPQ1/1PN2N2/PB4PP/1B1R1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "155"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1988"]
+[White "Karpov"]
+[Black "Gavrikov"]
+[Result "*"]
+[FEN "1n3rk1/p2pQpp1/4q2p/1r6/4B3/4P1P1/P4P1P/2RR2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "156"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Linares (7) 1992"]
+[White "Karpov"]
+[Black "Short"]
+[Result "*"]
+[FEN "4R3/p4pk1/5qpp/1PnP4/3Q3P/6P1/r1r1BPK1/3R4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "157"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tilburg 1992"]
+[White "Chernin"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "4rrk1/1p1n1pb1/2ppq1p1/p3p1Bp/P1P1P2P/2NP2P1/1P2QPK1/3R1R2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "158"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Linares 1993"]
+[White "Karpov"]
+[Black "Salov"]
+[Result "*"]
+[FEN "r3rbk1/1b3Npp/1q1p2n1/2pP4/5R2/1PN3Q1/4P1BP/5R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "159"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Monte Carlo 1997"]
+[White "Karpov"]
+[Black "Van Wely"]
+[Result "*"]
+[FEN "5nk1/1b1qQpp1/p3p3/3pP1N1/3P3P/1p1B4/1P3PP1/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "160"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Frankfurt 1997"]
+[White "Karpov"]
+[Black "Lobron"]
+[Result "*"]
+[FEN "4r2k/3n2bB/2p1NqQ1/2Pp4/5B2/r6P/5PP1/4R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "161"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Cap dâAgde 2000"]
+[White "Karpov"]
+[Black "Gurevich"]
+[Result "*"]
+[FEN "2b4k/p3q2p/2p1p3/2PpPpr1/3P3Q/4P2B/3b1B1P/R6K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "162"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Bastia (rapid) 2003"]
+[White "Karpov"]
+[Black "Shirov"]
+[Result "*"]
+[FEN "7r/3b1pk1/2p2qp1/8/1P1bNP2/r2B4/3Q2PP/2R2R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "163"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bucharest (rapid) 2005"]
+[White "Istratescu"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "1r1r4/5ppk/1p5p/2b1Pp1Q/8/q7/3B1PPP/2RR2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "164"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Tallinn (rapid) 2006"]
+[White "Karpov"]
+[Black "Shirov"]
+[Result "*"]
+[FEN "4kr2/p1Bbpp2/1p4p1/n6p/2B1P2P/2K2P2/P2R2P1/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "165"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Tallinn (rapid) 2006"]
+[White "Karpov"]
+[Black "Agrest"]
+[Result "*"]
+[FEN "2n2k2/2b2pp1/2p1pnp1/2Pp2N1/3P1PP1/3BP2P/3BK3/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "166"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Teheran 2009"]
+[White "Karpov"]
+[Black "Ghaem Maghami"]
+[Result "*"]
+[FEN "r5k1/pb1p1Rpq/2n1p1Q1/1p2P3/3P2P1/P7/1P1K4/5R2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "167"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Baku 1980"]
+[White "Kasparov"]
+[Black "Antoshin"]
+[Result "*"]
+[FEN "1k1r1q1r/2p2ppp/Qp6/3b1N2/8/P5P1/1P3P1P/2R2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "168"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Frunze 1981"]
+[White "Tukmakov"]
+[Black "Kasparov"]
+[Result "*"]
+[FEN "6k1/4qp2/1B4pp/2R1b3/P2Nb3/1P2Q3/r4PPP/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "169"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Hamburg 1985"]
+[White "Kasparov"]
+[Black "Comp Mephisto"]
+[Result "*"]
+[FEN "R3n1k1/7p/3prppB/1p2p3/1P2P2Q/7P/5PPK/1q6 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "170"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Linares 1990"]
+[White "Portisch"]
+[Black "Kasparov"]
+[Result "*"]
+[FEN "2rr4/pp4kp/6p1/3nNp2/2B5/2n3P1/P2R1PKP/R7 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "171"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Baden-Baden 1992"]
+[White "Kasparov"]
+[Black "Wahls"]
+[Result "*"]
+[FEN "5rk1/ppr2Npp/2q1Pp2/3n4/8/6Q1/P5PP/3R1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "172"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Katowice (simul) 1993"]
+[White "Kasparov"]
+[Black "Dubiel"]
+[Result "*"]
+[FEN "r7/5kpp/2p1pq2/1bP2p2/p4Q2/5BP1/PP3P1P/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "173"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Zurich 2001"]
+[White "Pelletier"]
+[Black "Kasparov"]
+[Result "*"]
+[FEN "8/1p3pkp/pb2p1p1/8/4P2P/1N4P1/P1R1KP2/7r b - - 0 1"]
+[Type "Easy"]
+[Puzzle "174"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Astana 2001"]
+[White "Kasparov"]
+[Black "Shirov"]
+[Result "*"]
+[FEN "2r5/pp1b4/4p3/3pPk2/5P2/8/1K6/3R2R1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "175"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Minsk 1986"]
+[White "Anastasian"]
+[Black "Khalifman"]
+[Result "*"]
+[FEN "r2r2k1/1p1n1bpp/1pp1pp2/8/Pb1PP1P1/1BNRBP1P/1P3K2/2R5 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "176"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Rakvere 1993"]
+[White "Ehlvest"]
+[Black "Khalifman"]
+[Result "*"]
+[FEN "8/1R3pbp/4p1k1/5p2/8/2N2P2/1P1r1P1P/4K3 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "177"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1995"]
+[White "Khalifman"]
+[Black "Rashkovsky"]
+[Result "*"]
+[FEN "5k1r/ppq3b1/8/3Pp2p/3n4/7Q/PP3PPP/3RR1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "178"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "St Petersburg 1997"]
+[White "Khalifman"]
+[Black "Sosonko"]
+[Result "*"]
+[FEN "r3qn1k/pp3pp1/2b1p2p/4P1BP/2B3Q1/8/PPP3P1/2K1R3 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "179"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Stockholm 1997"]
+[White "Ptacnikova"]
+[Black "Khalifman"]
+[Result "*"]
+[FEN "3r2k1/1b3p1p/pp4p1/4PqP1/3NpP2/1P2Q2P/P6K/2R5 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "180"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Stockholm 1997"]
+[White "Khalifman"]
+[Black "Kupreichik"]
+[Result "*"]
+[FEN "4r1rk/p3q2p/3p1n1Q/3P4/Pp1n1P2/3BN2R/1PPK1P2/R7 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "181"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bad Wiessee 1998"]
+[White "Khalifman"]
+[Black "Gabriel"]
+[Result "*"]
+[FEN "2kr3r/1pq3p1/p1p3Qp/P1n1p3/8/RbN1P1P1/1P2P1BP/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "182"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Germany 1999"]
+[White "Slobodjan"]
+[Black "Khalifman"]
+[Result "*"]
+[FEN "2rq1rk1/1p4bp/4p1p1/p2p1bP1/P2N4/2PnB3/QP4BP/R5RK b - - 0 1"]
+[Type "Easy"]
+[Puzzle "183"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 2011"]
+[White "Khalifman"]
+[Black "Bukavshin"]
+[Result "*"]
+[FEN "2k4r/pp3p2/1np3q1/2Q3p1/3R4/1P2P1P1/P4PB1/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "184"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Wijk aan Zee (blitz) 1999"]
+[White "Kramnik"]
+[Black "Reinderman"]
+[Result "*"]
+[FEN "r1b2rk1/p1q2n1p/6p1/2Ppp3/8/2Q2NPP/P4PB1/1R3RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "185"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (blitz) 2007"]
+[White "Kramnik"]
+[Black "Bacrot"]
+[Result "*"]
+[FEN "1r6/RP5p/P1kp4/2n2p2/8/4PKP1/5P1P/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "186"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (blitz) 2009"]
+[White "Kramnik"]
+[Black "Aronian"]
+[Result "*"]
+[FEN "r2qk2r/3bb1pp/5p2/1p1Q4/1pNP4/4P3/PB4PP/R4RK1 w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "187"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Leuven (blitz) 2016"]
+[White "Kramnik"]
+[Black "Giri"]
+[Result "*"]
+[FEN "r3k1r1/p4p1p/3bpBp1/3p1b2/5P2/3BP2P/PP4P1/1K1R3R w q - 0 1"]
+[Type "Easy"]
+[Puzzle "188"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Dortmund 1996"]
+[White "Anand"]
+[Black "Lobron"]
+[Result "*"]
+[FEN "4r2k/6b1/8/p2R3p/1pP1p1Nq/8/PP3P1P/3Q3K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "189"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Mainz 2002"]
+[White "Anand"]
+[Black "Ponomariov"]
+[Result "*"]
+[FEN "2r4k/2q4p/p2bPp2/1p6/6QP/3B4/PPP5/1K4R1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "190"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Calvia (ol) 2004"]
+[White "Anand"]
+[Black "Charbonneau"]
+[Result "*"]
+[FEN "3n4/2p2pk1/3r2p1/6Np/1P1q3P/4QR2/5PP1/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "191"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Reykjavik (blitz) 2006"]
+[White "Carlsen"]
+[Black "Anand"]
+[Result "*"]
+[FEN "r1q2rk1/3bpp1p/3p2p1/3P4/Pnn1P3/2N2NP1/1R1Q1PB1/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "192"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bastia 2014"]
+[White "Skomorokhin"]
+[Black "Anand"]
+[Result "*"]
+[FEN "2r2rk1/p4ppp/1p6/2b5/5Pn1/1Q2PR1P/P5P1/R1B1qBK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "193"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Stavanger 2015"]
+[White "Anand"]
+[Black "Hammer"]
+[Result "*"]
+[FEN "5r1k/2p5/5qp1/1Pb1p2p/4B2P/3P2P1/4QPK1/5R2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "194"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Torshavn 2000"]
+[White "Ponomariov"]
+[Black "Conquest"]
+[Result "*"]
+[FEN "2kB2r1/p3R3/q1p3r1/bp2Qp2/2PP3p/1P4P1/P4P2/5K2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "195"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow (4) 2001"]
+[White "Ponomariov"]
+[Black "Bareev"]
+[Result "*"]
+[FEN "1r3k2/2p3Rp/2b5/p1Pp2p1/P2B1pq1/2PB2P1/7P/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "196"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (blitz) 2010"]
+[White "Grachev"]
+[Black "Ponomariov"]
+[Result "*"]
+[FEN "6k1/5rpp/4Qn2/3p4/1q1P4/1p2P2P/6P1/3B1RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "197"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Khanty-Mansiysk (2) 2011"]
+[White "Ponomariov"]
+[Black "Ivanchuk"]
+[Result "*"]
+[FEN "6rk/7p/8/1p3R2/pN6/P1n2B1P/4brPK/4R3 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "198"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Khanty-Mansiysk (blitz) 2013"]
+[White "Ponomariov"]
+[Black "Rublevsky"]
+[Result "*"]
+[FEN "2r3k1/p2b2pp/1pqr4/2p1R3/4P3/P1Q3PP/1P4BK/3R4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "199"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tashkent 1993"]
+[White "Kasimdzhanov"]
+[Black "Kaiumov"]
+[Result "*"]
+[FEN "r3r1k1/p2q1pbp/6p1/3Q2B1/8/5P2/PP4PP/R2R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "200"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tashkent 1993"]
+[White "Kasimdzhanov"]
+[Black "Grinshpun"]
+[Result "*"]
+[FEN "3r2k1/pp4qn/3p1ppQ/2pPp3/4P1N1/1P2P2R/1PP3PP/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "201"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Szeged 1994"]
+[White "Matikozian"]
+[Black "Kasimdzhanov"]
+[Result "*"]
+[FEN "4r2k/p4rp1/1pb3qp/3NB3/2P1Q2n/1P1R4/1P4PP/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "202"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Macau 1996"]
+[White "Kasimdzhanov"]
+[Black "Kalandar Khaled"]
+[Result "*"]
+[FEN "2b3k1/r2r1pp1/p3p2p/1pq1P3/4B2Q/2P5/P4PPP/3RR1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "203"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Teheran 1998"]
+[White "Kasimdzhanov"]
+[Black "Al Modiahki"]
+[Result "*"]
+[FEN "2r5/R2b1pk1/3q1bpp/1p1Pp3/4P3/3P3P/1Q1NBPP1/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "204"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Germany 2002"]
+[White "Kasimdzhanov"]
+[Black "Golubev"]
+[Result "*"]
+[FEN "r6k/7p/1Qp2rpq/p3p3/2B1P3/2B2P1n/P5PK/1R6 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "205"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Germany 2003"]
+[White "Kasimdzhanov"]
+[Black "Volokitin"]
+[Result "*"]
+[FEN "6rk/p6n/3p4/2pPb2q/4N3/P2BQPp1/6K1/7R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "206"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Baku 2005"]
+[White "Kasimdzhanov"]
+[Black "Mamedyarov"]
+[Result "*"]
+[FEN "5rk1/p4qp1/2p4p/1p2Pn2/2pP2Q1/2P4P/P2B3K/5R2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "207"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Karjakin â Kasimdzhanov. Tashkent 2014"]
+[White "Karjakin"]
+[Black "Kasimdzhanov. Tashkent 2014"]
+[Result "*"]
+[FEN "1r3qbk/1p2rpp1/p1p2n1p/PnN1NP2/1P2PQ2/3P1B1P/7K/1R4R1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "208"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Sarajevo 1999"]
+[White "Timman"]
+[Black "Topalov"]
+[Result "*"]
+[FEN "4r1k1/2BR3p/8/5Rp1/4n1K1/4P1P1/1P2P2P/5r2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "209"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Cala Galdana 1999"]
+[White "Topalov"]
+[Black "Illescas"]
+[Result "*"]
+[FEN "4rrk1/p2pB1pp/2p5/2P1R3/3QN3/Pq2n3/1P4PP/2KR4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "210"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Dortmund 2005"]
+[White "Topalov"]
+[Black "Naiditsch"]
+[Result "*"]
+[FEN "1n3q1k/r2r3p/p3Q3/1p6/8/2P3R1/P4PPP/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "211"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Nice (blindfold) 2009"]
+[White "Kamsky"]
+[Black "Topalov"]
+[Result "*"]
+[FEN "1qr1r1k1/2b2ppp/Bpb1p3/4n3/P7/2N1BP2/1PP3PP/3RR1QK w - - 0 1"]
+[Type "Easy"]
+[Puzzle "212"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Hoogeveen 2004"]
+[White "Sokolov"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "2rb2k1/5pp1/2p1pn1p/2P5/1N1Pp3/4P1BP/5PP1/1R4K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "213"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Khanty-Mansiysk (2) 2005"]
+[White "Kamsky"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "5r1k/q3bQpp/2B5/1P2p3/4P3/p1P5/5PPP/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "214"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Reykjavik (blitz) 2006"]
+[White "Stefansson"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "2r3k1/4bpp1/4pn1p/1p6/q1r5/2BR1BP1/PQ2PPKP/3R4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "215"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Reykjavik (blitz) 2006"]
+[White "Erenburg"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "4r1k1/5p2/p5pp/P1p2q2/3Nr3/3Q4/5PPP/1RR3K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "216"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Internet 2006"]
+[White "Todorovic"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "2r3k1/5p2/p3bBp1/1p5p/4P3/1P4qP/P5P1/1B1RR2K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "217"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Cap dâAgde 2006"]
+[White "Carlsen"]
+[Black "Fressinet"]
+[Result "*"]
+[FEN "1r5k/6pp/2p1r3/1R1p4/pn1P1q2/3Q1P2/PP3BPP/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "218"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Monte Carlo (blindfold) 2011"]
+[White "Ivanchuk"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "r2r2k1/1bqp1ppp/ppnbpn2/8/2PNP3/P1N1BP2/1P2B1PP/2RQ1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "219"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Shamkir 2014"]
+[White "Caruana"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "2k1r3/p1pbbpp1/1p5p/2pNP3/2P3P1/1P3PBP/P5K1/3R4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "220"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Wijk aan Zee 2015"]
+[White "Carlsen"]
+[Black "Radjabov"]
+[Result "*"]
+[FEN "4r1qk/2p4n/1b3pQB/p1p5/2P1P3/1P1R3P/P5P1/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "221"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "New York (rapid 4) 2016"]
+[White "Carlsen"]
+[Black "Karjakin"]
+[Result "*"]
+[FEN "2R5/4bppk/1p1p4/5R1P/4PQ2/5P2/r4q1P/7K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "222"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Vienna 1860"]
+[White "Hamppe"]
+[Black "Steinitz"]
+[Result "0-1"]
+[FEN "r6r/1pp3k1/1b6/p2P1p2/P1N1pn2/2P2PP1/BP5P/4RR1K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "1"]
+[Termination "Mate"]
+[PlyCount "3"]
+
+1... Rxh2+ 2.Kxh2 Rh8# 0-1
+
+
+[Event "London 1862"]
+[White "Steinitz"]
+[Black "Wilson"]
+[Result "1-0"]
+[FEN "rnb3kr/ppp4p/3b3B/3Pp2n/2BP4/3K1Rp1/PPP3q1/RN1Q4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "2"]
+[Termination "Mate"]
+[PlyCount "5"]
+
+1.Rf8+ Bxf8 2.d6+ Be6 (2... Qd5 3.Bxd5+ Be6 4.Bxe6#) 3.Bxe6# 1-0
+
+
+[Event "London (6) 1862"]
+[White "Steinitz"]
+[Black "Dubois"]
+[Result "*"]
+[FEN "r2q1rk1/pppb1ppp/3b4/4p1P1/4Pn2/2N1B2P/PPPQBP2/2KR3R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "3"]
+[PlyCount "3"]
+
+1.Bxf4 exf4 2.e5 *
+
+
+[Event "London (1) 1864"]
+[White "Green"]
+[Black "Steinitz"]
+[Result "*"]
+[FEN "2kr4/1pp4p/1p1r4/5Pp1/1P2q3/2P1R2P/P3KP2/1Q1R4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "4"]
+[PlyCount "3"]
+
+1... Rd2+ 2.Rxd2 (2.Ke1 Qh1#) Qxb1 *
+
+
+[Event "Dublin (simul) 1865"]
+[White "Steinitz"]
+[Black "Barry"]
+[Result "*"]
+[FEN "rn1qk2r/ppp2ppp/5n2/2b1p3/2B1P1b1/3P1N2/PPP3PP/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "5"]
+[PlyCount "3"]
+
+1.Bxf7+ Kxf7 2.Nxe5+ *
+
+
+[Event "Dundee 1867"]
+[White "Fraser"]
+[Black "Steinitz"]
+[FEN "r2k3r/pp1b3p/1qn1p1p1/1B1pPn2/Q7/P4N2/1P1BNPPP/2R3K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "6"]
+[PlyCount "5"]
+
+1.Rxc6 Bxc6 2.Ba5 Bxb5 3.Bxb6+ *
+
+
+[Event "London (simul) 1868"]
+[White "Steinitz"]
+[Black "Baker"]
+[FEN "2r1k2r/1b1p2q1/p4p2/4p3/PpB1Pp1p/7P/1PPRQPP1/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "7"]
+[PlyCount "3"]
+
+1... f3 2.Qxf3 Rxc4 *
+
+
+[Event "Baden-Baden 1870"]
+[White "Steinitz"]
+[Black "Minckwitz"]
+[Result "*"]
+[FEN "r3k2r/p1ppbppp/1pn1q3/4P3/2BP2n1/5NB1/1PP1Q1PP/R4K1R b kq - 0 1"]
+[Type "Easy"]
+[Puzzle "8"]
+[PlyCount "3"]
+
+1... Qxc4 2.Qxc4 Ne3+ *
+
+
+[Event "Vienna 1873"]
+[White "Steinitz"]
+[Black "Fleissig"]
+[Result "*"]
+[FEN "1b6/3n1p2/r1k1p1pp/Pr2P3/1PK2P2/3R4/3B2PP/R7 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "9"]
+[PlyCount "3"]
+
+1.Rxd7 Kxd7 2.Kxb5 *
+
+
+[Event "Vienna 1873"]
+[White "Steinitz"]
+[Black "Gelbfuhs"]
+[Result "1-0"]
+[FEN "2b5/4Q1pp/pp3n1k/3p3q/P2P1P2/BP1B2P1/7P/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "10"]
+[Termination "Mate"]
+[PlyCount "3"]
+
+1.Qxf6+ gxf6 2.Bf8# 1-0
+
+
+[Event "Vienna 1882"]
+[White "Steinitz"]
+[Black "Meitner"]
+[Result "*"]
+[FEN "rn1qk1nr/ppp2ppp/8/2b1p3/2B1P1b1/5N2/PPPP2PP/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "11"]
+[PlyCount "5"]
+
+1.Bxf7+ Kxf7 2.Nxe5+ Ke8 3.Qxg4 *
+
+
+[Event "London 1883"]
+[White "Blackburne"]
+[Black "Steinitz"]
+[Result "1-0"]
+[FEN "r1n5/pp2q1kp/2ppr1p1/4p1Q1/8/2N4R/PPP3PP/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "12"]
+[Termination "Mate"]
+[PlyCount "5"]
+
+1.Qh6+ Kg8 2.Rf8+ Qxf8 3.Qxh7# 1-0
+
+
+[Event "New York (2) 1890"]
+[White "Gunsberg"]
+[Black "Steinitz"]
+[Result "*"]
+[FEN "4rrk1/ppp3pp/3p2n1/3Ppqb1/nPP5/6P1/P1NBQP1P/2R1NRK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "13"]
+[PlyCount "3"]
+
+1... Nc3 2.Bxc3 Bxc1 *
+
+
+[Event "Havana (8) 1892"]
+[White "Steinitz"]
+[Black "Chigorin"]
+[Result "*"]
+[FEN "2kr3r/p4pp1/2p4p/4p3/2n4q/1NPPnP1P/PP2Q2P/R1K2B1R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "14"]
+[Termination "Mate"]
+[PlyCount "10"]
+
+1... Rxd3 2.Kb1 Rhd8 3.a3 Rd2 4.Nxd2 Rxd2 5.Qxd2 Nxd2+ 6.Ka2 *
+
+
+[Event "Haarlem (simul) 1896"]
+[White "Steinitz"]
+[Black "Van Foreest"]
+[Result "0-1"]
+[FEN "6k1/5pp1/p1n1r2p/2NQ4/1P1p4/P6P/1B1bqPP1/5RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "15"]
+[Termination "Mate"]
+[PlyCount "3"]
+
+1... Qxf1+ 2.Kxf1 Re1# 0-1
+
+
+[Event "Haarlem (simul) 1896"]
+[White "Steinitz"]
+[Black "Reyne"]
+[Result "*"]
+[FEN "r1bqk1nr/pppp3p/2n2p2/b5p1/2BPPp1P/2P2N2/P5P1/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "16"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1896"]
+[White "Steinitz"]
+[Black "Falk"]
+[Result "*"]
+[FEN "2kr1bnr/p1ppqp1p/bpn5/1N4p1/P2PPp2/5N2/1PP2KPP/R1BQ1B1R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "17"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Haarlem (simul) 1896"]
+[White "Steinitz"]
+[Black "Enderle"]
+[Result "*"]
+[FEN "rn1qk1nr/ppp2ppp/8/2b1p3/2B1P1b1/5N2/PPPP2PP/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "18"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Vienna 1898"]
+[White "Showalter"]
+[Black "Steinitz"]
+[Result "*"]
+[FEN "1k2r3/2p3p1/p4p2/1p3q1p/1n6/PQ2P3/1P2B2P/2KR4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "19"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "USA (simul) 1902"]
+[White "Lasker"]
+[Black "McBride"]
+[Result "*"]
+[FEN "r1bqkbnr/pppp3p/2n2p2/6p1/2BPPp2/5N2/PPP3PP/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "20"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Gloucester (simul) 1908"]
+[White "Lasker"]
+[Black "Witchard"]
+[Result "*"]
+[FEN "rnbqkbnr/pppp3p/5p2/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R b KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "21"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Germany 1908"]
+[White "Hartlaub"]
+[Black "Lasker"]
+[Result "*"]
+[FEN "rnbqkb1r/pp1p2pp/2p2p2/4p3/2B5/2P2N2/PPP2PPP/R1BQ1RK1 w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "22"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Berlin (1) 1910"]
+[White "Lasker"]
+[Black "Janowski"]
+[Result "*"]
+[FEN "2r3k1/p3qppp/2pr4/Q2b4/1P2p3/4P3/P3BPPP/2RR2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "23"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Atlantic Ocean 1924"]
+[White "Lasker"]
+[Black "Bogoljubov"]
+[Result "*"]
+[FEN "6k1/2p3pp/q3pn2/1pp1p3/4P3/1P1P1P2/rNP2P1P/1Q3RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "24"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Nottingham 1936"]
+[White "Thomas"]
+[Black "Lasker"]
+[Result "*"]
+[FEN "8/1p3q1k/2p3pp/4P1r1/8/4Q3/PP5P/3R3K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "25"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Schenectady 1909"]
+[White "Capablanca"]
+[Black "Watson"]
+[Result "*"]
+[FEN "r5k1/1b1n2r1/p3n2q/1p1pPRN1/2pP3P/2P3P1/PPBQ4/5R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "26"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Saint Louis (simul) 1909"]
+[White "Capablanca"]
+[Black "Schrader"]
+[Result "*"]
+[FEN "r1b2rk1/p2p1p2/2p5/1p2PPqn/1b1p2N1/1B1P3Q/PPP3PP/R4RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "27"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Saint Louis (simul) 1909"]
+[White "Capablanca"]
+[Black "Pomeroy"]
+[Result "*"]
+[FEN "r5r1/p1p1k3/3q3B/5p2/4p3/1P6/P1P1QPP1/R4RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "28"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Saint Louis (simul) 1909"]
+[White "Capablanca"]
+[Black "Carter"]
+[Result "*"]
+[FEN "6rk/p1q2p2/2p1rb1P/1p2pN2/4P1Q1/2PP4/PPB5/2K4R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "29"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "New York 1910"]
+[White "Capablanca"]
+[Black "Marshall"]
+[Result "*"]
+[FEN "4q1k1/2r3pp/1p6/8/1b2N3/4R1P1/PP3P1P/R5K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "30"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Buenos Aires 1911"]
+[White "Capablanca"]
+[Black "Piazzini"]
+[Result "*"]
+[FEN "4k3/1bp4r/p7/1p1P4/2P3pN/1P2r1P1/1BP2RPK/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "31"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Copenhagen (simul) 1911"]
+[White "Capablanca"]
+[Black "Rasmussen"]
+[Result "*"]
+[FEN "2q4k/5Qp1/4B2p/p1p5/1P6/6PK/r4P1P/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "32"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "New York 1912"]
+[White "Capablanca"]
+[Black "Randolph"]
+[Result "*"]
+[FEN "5Rnk/pp1q4/7p/3p2rN/3Pp1Q1/2P5/PP5P/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "33"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "London (simul) 1913"]
+[White "Capablanca"]
+[Black "Dunkelsbuhler"]
+[Result "*"]
+[FEN "r1bq2k1/pp3rpp/2n2b2/3p1p2/3P4/BQPB1N2/P4PPP/R3R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "34"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "New York 1915"]
+[White "Hodges"]
+[Black "Capablanca"]
+[Result "*"]
+[FEN "2r3k1/pb2bp1p/1p2p1p1/8/q1NPP3/3B4/P3QPPP/3R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "35"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "New York (simul) 1915"]
+[White "Capablanca"]
+[Black "Michelsen"]
+[Result "*"]
+[FEN "6r1/2r1k3/R3p3/p4pPp/1pPK1P2/1P3B1P/P7/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "36"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "New York 1918"]
+[White "Capablanca"]
+[Black "N.N."]
+[Result "*"]
+[FEN "r4r1k/pppqNppp/3p1B2/4p3/3nP3/3P1b2/PPPQ1PPP/R4RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "37"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Glasgow 1919"]
+[White "Capablanca"]
+[Black "Birch"]
+[Result "*"]
+[FEN "3r2k1/2p2pp1/p1Q2n1p/7q/8/1P1N2P1/P1P2P2/R3K3 w Q - 0 1"]
+[Type "Easy"]
+[Puzzle "38"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Thornton Heath 1919"]
+[White "Capablanca"]
+[Black "Hadland"]
+[Result "*"]
+[FEN "r1b2rk1/pp3qpp/2p1p3/2Ppb1PP/5B2/3BP3/PP3Q2/2R1K2R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "39"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "London 1922"]
+[White "Capablanca"]
+[Black "Vidmar"]
+[Result "*"]
+[FEN "2r2rk1/pQ1n1pp1/1p2p2p/3p4/P2P4/4P2P/1qB2PP1/2R2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "40"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "New York (simul) 1922"]
+[White "Capablanca"]
+[Black "Malowan"]
+[Result "*"]
+[FEN "3k4/p1p2prr/1p5N/3PRPP1/b1P5/4B3/P4K2/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "41"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (simul) 1925"]
+[White "Capablanca"]
+[Black "N.N."]
+[Result "*"]
+[FEN "r3k2r/pbp2qb1/1pn1p2p/3nP1pQ/3PNp2/2PB4/PP1N1BPP/R4RK1 w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "42"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bad Kissingen 1928"]
+[White "Capablanca"]
+[Black "Mieses"]
+[Result "*"]
+[FEN "4k3/1r2r1pp/1nR2p2/pp1p4/1N1P2P1/1R2PP2/PP3K1P/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "43"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Budapest 1929"]
+[White "Capablanca"]
+[Black "Vajda"]
+[Result "*"]
+[FEN "7r/1p3pp1/pn1kb2p/3p4/3N1P1P/PP1BP3/3K2P1/2R5 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "44"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Karlsbad 1929"]
+[White "Capablanca"]
+[Black "Becker"]
+[Result "*"]
+[FEN "r3nrk1/1bp2ppp/pp2p3/3q2N1/1b1PNP2/3B2P1/PP2QP1P/2RR2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "45"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Mexico (simul) 1933"]
+[White "Capablanca"]
+[Black "Larrea"]
+[Result "*"]
+[FEN "r1b1k2r/2qp1ppp/ppnbpn2/8/2PNP3/P1N1BP2/1P4PP/2RQKB1R w K - 0 1"]
+[Type "Easy"]
+[Puzzle "46"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Margate 1935"]
+[White "Menchik"]
+[Black "Capablanca"]
+[Result "*"]
+[FEN "4r1k1/6qp/pp4p1/2pP4/4Pp2/1P6/P1R3PP/4Q2K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "47"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1935"]
+[White "Capablanca"]
+[Black "Levenfish"]
+[Result "*"]
+[FEN "2bq1r2/4bpk1/4pp1N/7Q/1p1p4/3B4/PP3PPP/R5K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "48"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1936"]
+[White "Capablanca"]
+[Black "Botvinnik"]
+[Result "*"]
+[FEN "r3r1k1/3b2pp/2p5/p1RpPp2/3Q1P2/1q2P1P1/6BP/R5K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "49"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Buenos Aires (ol) 1939"]
+[White "Capablanca"]
+[Black "Vassaux"]
+[Result "*"]
+[FEN "r3br1k/pp5p/4B1p1/4NpP1/P2Pn3/q1PQ3R/7P/3R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "50"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "corr. 1902"]
+[White "Alekhine"]
+[Black "Petrov"]
+[Result "*"]
+[FEN "5rk1/ppp2ppp/6q1/2b1P3/3r4/2N1BQ1b/PP3PPP/R3R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "51"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "corr. 1906"]
+[White "Viakhirev"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "4r2k/ppp3pp/8/1PPb1p2/3P1P1b/P1Q2p1P/7R/R4KBq b - - 0 1"]
+[Type "Easy"]
+[Puzzle "52"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow (2) 1908"]
+[White "Blumenfeld"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "3r1b1k/pp4p1/2p1Qp2/5N2/PP2Pp2/2Pq4/5PKP/5R2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "53"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "St Petersburg 1909"]
+[White "Goldfarb"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "r1b2rk1/pp4pp/2pb4/3p1pq1/2PP4/1N1BPR2/PPQ3PP/4R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "54"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1909"]
+[White "Alekhine"]
+[Black "Lyubimov"]
+[Result "*"]
+[FEN "q6r/1b4bp/4k1p1/1p2Pn2/2pPp1Q1/2P5/1P1N2PP/2B2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "55"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "St Petersburg 1909"]
+[White "Alekhine"]
+[Black "Izbinsky"]
+[Result "*"]
+[FEN "5rk1/1b1p1ppp/1qr1p3/p2pP3/P4P2/Q2B4/1PP3PP/R4R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "56"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1915"]
+[White "Rozanov/Tselikov"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "5r1k/pp4pp/2p5/8/4n3/5NPQ/P3Bq1P/4R2K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "57"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "London (simul) 1923"]
+[White "Leif-Jones"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "r4rk1/pp2bppp/1qp1p3/4Pb2/Q1P1nB2/2N5/PP1RBPPP/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "58"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Czechoslovakia (simul) 1925"]
+[White "Friedmann"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "2r5/pp1bkp1Q/2nbpq2/3p1p2/3P1Pr1/2NBP1N1/PP4PP/2R2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "59"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Baden-Baden 1925"]
+[White "Alekhine"]
+[Black "Yates"]
+[Result "*"]
+[FEN "r1bqr1k1/1p1nbpp1/p1p3p1/3p4/3P1B2/2NBP2P/PP3PP1/2RQ1RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "60"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Semmering 1926"]
+[White "Vajda"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "3r2k1/q1p1nppp/p3n3/1pb1p3/4P2N/1PP3PP/PBB1QPK1/7R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "61"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "San Remo 1930"]
+[White "Grau"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "1Q6/p4pkp/3p2p1/3P4/q7/P3rBbP/6P1/5R1K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "62"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Banja Luka (simul) 1931"]
+[White "Alekhine"]
+[Black "Vasic"]
+[Result "*"]
+[FEN "r1bqk2r/p1pn1pp1/1p2pn1p/8/3P4/B1PB4/P1P1QPPP/R3K1NR b KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "63"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Sarajevo (simul) 1931"]
+[White "Alekhine"]
+[Black "Rumjancev"]
+[Result "*"]
+[FEN "r2qk2r/1p1b1pp1/p1pBpn1p/2P1N3/1n1P4/3B4/PPQ2PPP/2KR3R w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "64"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Pasadena 1932"]
+[White "Fink"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "1r2r1k1/p1pbqppp/Q2b1n2/3p4/P2P4/2P5/1P2BPPP/R1B1KN1R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "65"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Vienna (simul) 1936"]
+[White "Alekhine"]
+[Black "Jobbahazai"]
+[Result "*"]
+[FEN "1r4k1/pqp2pbp/2Q2np1/1N2p3/8/1P5P/PBP2PP1/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "66"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Plymouth 1938"]
+[White "Alekhine"]
+[Black "Bruce"]
+[Result "*"]
+[FEN "rn1qkb1r/pp3p1b/2p1pnpp/4N3/2B4P/6N1/PPPPQPP1/R1B1K2R w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "67"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Estoril (simul) 1940"]
+[White "Alekhine"]
+[Black "Lopo"]
+[Result "*"]
+[FEN "3n4/2prR1pk/p2r1p1p/1p5P/5P1P/P1B2K2/1PP5/4R3 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "68"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Estoril (simul) 1940"]
+[White "Alekhine"]
+[Black "Aragao"]
+[Result "*"]
+[FEN "6r1/1p2R3/p5k1/2p5/4Nr1P/8/PP5P/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "69"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Madrid (simul) 1941"]
+[White "Alekhine"]
+[Black "Salvatierra"]
+[Result "*"]
+[FEN "r1b2rk1/ppqnbppp/2p1pn2/3p2B1/2PP4/2NBPN2/PPQ2PPP/R3K2R w KQ - 0 1"]
+[Type "Easy"]
+[Puzzle "70"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "San Sebastian (simul) 1944"]
+[White "Alekhine"]
+[Black "De Cossio"]
+[Result "*"]
+[FEN "r1b1qrk1/pppp1ppp/1bn3n1/3Np1BQ/2B1P3/3P1N2/PPP2PPP/R3K2R w KQ - 0 1"]
+[Type "Easy"]
+[Puzzle "71"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Santander (simul) 1945"]
+[White "Alekhine"]
+[Black "Ricondo"]
+[Result "*"]
+[FEN "r2qrbk1/1bp2ppp/p2p1n2/2p2NB1/4P3/2N2Q2/PPP2PPP/R3R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "72"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1920"]
+[White "Euwe"]
+[Black "Wiersma"]
+[Result "*"]
+[FEN "r4r1k/ppn1NBpp/4b3/4P3/3p1R2/1P6/P1P3PP/R5K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "73"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Bromley 1920"]
+[White "Bigelow"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "2r2rk1/pp1bnp2/3q1n1Q/3p1P2/4p2N/1BPP4/P1P3PP/R4RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "74"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Vienna 1921"]
+[White "Gruber"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "5rk1/pbp2ppp/qr6/8/5Q2/1PP5/P4PP1/R1B2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "75"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Maehrisch Ostrau 1923"]
+[White "Euwe"]
+[Black "Bogoljubov"]
+[Result "*"]
+[FEN "r1b2rk1/pp1p1ppp/2n2n2/q7/2P5/P1N2NP1/3QPKBP/R1B4R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "76"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Amsterdam (1) 1924"]
+[White "Euwe"]
+[Black "Davidson"]
+[Result "*"]
+[FEN "3Q4/p4pkp/1p3np1/2q5/4p3/4P1N1/PP3PPP/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "77"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Utrecht 1926"]
+[White "Schelfhout"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "3r4/p2q1pkp/1pn1bnp1/2p1p3/P1N1P3/1PP1Q1PP/5PK1/4RBN1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "78"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "London (ol) 1927"]
+[White "Rasmusson"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "2kr4/p1p2ppp/3rb3/8/2P5/1R1BR3/P4PPP/5K2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "79"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "The Hague 1928"]
+[White "Becker"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "6k1/3q3p/p1p3pQ/1p1p4/3P2RP/1P3P2/r3r1P1/5R1K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "80"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Bern 1932"]
+[White "Colin"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "6k1/6pp/p1p3r1/3p4/P2P1Pq1/1R2PR2/2Q1K1P1/7r b - - 0 1"]
+[Type "Easy"]
+[Puzzle "81"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Netherlands 1932"]
+[White "Van Foreest"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "1r2nrk1/p1p2pp1/4bb1p/3p4/q4B2/P1PB1Q1P/1P2NPP1/1R1R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "82"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Netherlands (23) 1935"]
+[White "Alekhine"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "5rk1/p4ppp/b3p3/2n1N3/Pp2P3/1P1r4/3N1PPP/R2R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "83"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Bad Nauheim 1937"]
+[White "Euwe"]
+[Black "Bogoljubov"]
+[Result "*"]
+[FEN "2r1r2k/p4pp1/2pBnb1p/q1Pp4/3P4/P2R4/2Q1NPPP/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "84"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Beverwijk 1941"]
+[White "Cortlever"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "r1bn1b1r/pp2k1pp/5p2/1B2p3/5B2/5N2/PPP2PPP/2KR3R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "85"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Zurich 1947"]
+[White "Euwe"]
+[Black "Grob"]
+[Result "*"]
+[FEN "2r2rk1/5ppp/p1pp4/2p1n1q1/4P2b/1PN4P/PBPRQPP1/R5K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "86"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1948"]
+[White "Van Scheltinga"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "8/2q3pk/1p2p2p/2n5/2B5/P3PQ2/5PKP/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "87"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Baarn 1949"]
+[White "Visser"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "r7/3k3p/6p1/N1P2p2/1p2p2P/3bPP2/5KP1/R7 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "88"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1954"]
+[White "Euwe"]
+[Black "Cortlever"]
+[Result "*"]
+[FEN "4rrk1/pp2p3/2pqP1p1/4Rp1p/P2P1n1P/6Q1/1P3PP1/1N1R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "89"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Munich (ol) 1958"]
+[White "Euwe"]
+[Black "Cintron"]
+[Result "*"]
+[FEN "3r2k1/2q1b2p/ppnpPpp1/2pB4/2P2PPB/PP1R3P/3Q4/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "90"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Nottingham 1936"]
+[White "Alexander"]
+[Black "Botvinnik"]
+[Result "*"]
+[FEN "3r2k1/p1q2pbp/1pn1p1p1/2p5/4P3/4B1P1/PPP1RPBP/2Q4K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "91"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1945"]
+[White "Lilienthal"]
+[Black "Botvinnik"]
+[Result "*"]
+[FEN "1k6/pp3pp1/rr6/3p2Np/2pPnP2/q1P1P2P/P1R3P1/K1QR4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "92"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1947"]
+[White "Botvinnik"]
+[Black "Pachman"]
+[Result "*"]
+[FEN "r3r1k1/ppp2ppp/2nb1q2/6Rn/2BP4/P1NQBP1P/1P3P2/2KR4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "93"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1966"]
+[White "Botvinnik"]
+[Black "Petrosian"]
+[Result "*"]
+[FEN "7k/p6p/6p1/2b2b2/2P5/2R1pBP1/P2rR1KP/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "94"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Leiden 1970"]
+[White "Larsen"]
+[Black "Botvinnik"]
+[Result "*"]
+[FEN "3q3k/1pp3pp/5p2/1P6/4PQ2/3B2P1/1r3b1P/R6K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "95"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1967"]
+[White "Smyslov"]
+[Black "Govbinder"]
+[Result "*"]
+[FEN "r4rk1/p3qpp1/2p2n2/3pb2p/3Q2B1/1PN1P3/PB3PPP/2R2RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "96"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Riga 1951"]
+[White "Shenreder"]
+[Black "Tal"]
+[Result "*"]
+[FEN "r4rk1/pp1b3p/2p4q/3p1p2/3P2n1/2NBP1PR/PP3PK1/R2Q4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "97"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Munich (ol) 1958"]
+[White "Tal"]
+[Black "Tringov"]
+[Result "*"]
+[FEN "r3kr2/1p1b1pp1/p1n1p2p/8/4q3/1N6/PPP1BKPP/R2Q1R2 b q - 0 1"]
+[Type "Easy"]
+[Puzzle "98"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Portoroz 1958"]
+[White "Rossetto"]
+[Black "Tal"]
+[Result "*"]
+[FEN "4r1k1/5p1p/2Qb2p1/3P4/6Pn/2N1B2P/1P3P1q/3R1K2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "99"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Amsterdam 1964"]
+[White "Tal"]
+[Black "Benko"]
+[Result "*"]
+[FEN "r1b1k2r/1p3pp1/p3pn2/2p1q1N1/8/1B2P3/PPP1Q2P/2KR3R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "100"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Poti 1970"]
+[White "Tal"]
+[Black "Levin"]
+[Result "*"]
+[FEN "6k1/1pqrnp2/3p2p1/2pn2b1/P1Q3Pp/2B4P/1PP1RP2/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "101"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Riga 1971"]
+[White "Shmit"]
+[Black "Tal"]
+[Result "*"]
+[FEN "6k1/1p3pp1/p7/P2n1PQ1/8/8/1r3r1P/3R3K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "102"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Novi Sad 1974"]
+[White "Tal"]
+[Black "Kirov"]
+[Result "*"]
+[FEN "1r4k1/2qpn1pp/p1p1pr2/2b5/2P2P2/3B4/PP4PP/R1BQ1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "103"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tallinn 1979"]
+[White "Tal"]
+[Black "Rantanen"]
+[Result "*"]
+[FEN "1rq1r2k/5Rbp/p2p1p1B/2p1p3/2P1P2Q/1P6/P5PP/3b2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "104"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Yerevan 1980"]
+[White "Tal"]
+[Black "Grigorian"]
+[Result "*"]
+[FEN "5bk1/p2Q1p2/q4p2/4r2p/3pr3/8/PPRRNPPP/5K2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "105"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Sochi 1986"]
+[White "Meduna"]
+[Black "Tal"]
+[Result "*"]
+[FEN "6k1/q4pp1/4p2p/1p1r4/1PpPQ3/r1P1R1P1/4RP1P/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "106"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Boston (simul) 1988"]
+[White "Tal"]
+[Black "Conway"]
+[Result "*"]
+[FEN "r2qk2r/pp1n1ppb/2pbpn1p/4N3/2BP1P1P/6N1/PPP1Q1P1/R1B1K2R b kq - 0 1"]
+[Type "Easy"]
+[Puzzle "107"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Germany 1990"]
+[White "Maus"]
+[Black "Tal"]
+[Result "*"]
+[FEN "1r4k1/5n1p/5qp1/1p6/3Q4/1P4PP/P3rPB1/R2R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "108"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1947"]
+[White "Petrosian"]
+[Black "Konstantinopolsky"]
+[Result "*"]
+[FEN "r3r1k1/1p5p/p1pqn1p1/3p1p2/PP1P1P2/1Q1RP3/4B1PP/1R4K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "109"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tbilisi 1949"]
+[White "Petrosian"]
+[Black "Kasparian"]
+[Result "*"]
+[FEN "3r2k1/p2r1p2/4b1p1/qPp1R2p/P1p4P/8/5PP1/Q3RBK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "110"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1950"]
+[White "Petrosian"]
+[Black "Geller"]
+[Result "*"]
+[FEN "3r2k1/5qpp/pp2r3/2p2b2/nPPp1PP1/P4Q2/3N3P/R3RBK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "111"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1951"]
+[White "Poliak"]
+[Black "Petrosian"]
+[Result "*"]
+[FEN "6k1/1q1rbpp1/7p/1p1p1P2/1P2p1P1/P1Q5/4B2P/3R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "112"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1951"]
+[White "Petrosian"]
+[Black "Koliakov"]
+[Result "*"]
+[FEN "2r1b1k1/r1N2p1p/1p2p1pn/p2pP3/1b1P2P1/1P3N1P/P1R2P2/2R2BK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "113"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Saltsjobaden 1952"]
+[White "Petrosian"]
+[Black "Barcza"]
+[Result "*"]
+[FEN "r4rk1/2n1q2p/b1n1p1p1/pp1pPpN1/P1pP1N1P/2P3P1/1P3PB1/R2QR1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "114"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1960"]
+[White "Nei"]
+[Black "Petrosian"]
+[Result "*"]
+[FEN "3r1n1k/3P3p/pp3q2/2pQp3/P1P3B1/3b2R1/1P5P/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "115"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (10) 1966"]
+[White "Petrosian"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "6k1/5r1p/p2N4/nppP2q1/2P5/1P2N3/PQ5P/7K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "116"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Vinkovci 1970"]
+[White "Petrosian"]
+[Black "Tomic"]
+[Result "*"]
+[FEN "Q7/2r2rpk/2p4p/7N/3PpN2/1p2P3/1K4R1/5q2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "117"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Lone Pine 1978"]
+[White "Janosevic"]
+[Black "Petrosian"]
+[Result "*"]
+[FEN "6rk/p3p2p/1p2Pp2/2p2P2/2P1nBr1/1P6/P6P/3R1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "118"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Teslic 1979"]
+[White "Petrosian"]
+[Black "Ivkov"]
+[Result "*"]
+[FEN "8/pr1r3p/6p1/2p1pk2/3b2N1/1P4P1/P2R1PKP/4R3 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "119"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Niksic 1983"]
+[White "Petrosian"]
+[Black "Ljubojevic"]
+[Result "*"]
+[FEN "r5k1/pp1b2pp/4q3/n7/3Rp3/P7/5QPP/2B2RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "120"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Antwerp 1955"]
+[White "Purdy"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2ppbp/2n3p1/2pn4/3p1P2/NP2PN2/PBPPB1PP/3RQRK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "121"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1961"]
+[White "Averbakh"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "8/4r1k1/4qp2/1p6/3R4/P1N2QPp/1PP2K1P/4r3 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "122"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Leningrad 1962"]
+[White "Spassky"]
+[Black "Shofman"]
+[Result "*"]
+[FEN "2kr3r/pbpq4/1p5p/4PpP1/P2p4/2P2Q2/2P2P2/R1B1KB1R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "123"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Yerevan 1962"]
+[White "Spassky"]
+[Black "Korelov"]
+[Result "*"]
+[FEN "8/4r1p1/p2k1p1p/1bNp3P/3P1K2/2P2P2/6P1/1R6 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "124"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1964"]
+[White "Spassky"]
+[Black "Vranesic"]
+[Result "*"]
+[FEN "4kb1r/1br4p/p3p1p1/1p3R2/1n2p3/PNN1B3/1PP3PP/2R3K1 w k - 0 1"]
+[Type "Easy"]
+[Puzzle "125"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Santa Monica 1966"]
+[White "Ivkov"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "8/4k1p1/1p2pp1p/p6P/2n1PN2/4qPP1/1P4K1/3Q4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "126"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Kiev 1968"]
+[White "Spassky"]
+[Black "Korchnoi"]
+[Result "*"]
+[FEN "8/5r1k/p3Npp1/4p3/3nP3/4QP2/PP2q1P1/1KR5 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "127"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1970"]
+[White "Hartoch"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "3Rb3/6kp/6p1/3P1p2/3q4/Q5PP/P1r1r1B1/6RK w - - 0 1"]
+[Type "Easy"]
+[Puzzle "128"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Geneva 1977"]
+[White "Spassky"]
+[Black "Portisch"]
+[Result "*"]
+[FEN "2r2nk1/p2q1pp1/1p2b2p/3p4/3P1P2/4R1P1/PP1Q3P/1B2R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "129"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Lugano 1982"]
+[White "Spassky"]
+[Black "Hoffmann"]
+[Result "*"]
+[FEN "b2r4/p4Brk/1pqp1Qp1/2p2pPp/5P2/3P4/PP5P/2B1RRK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "130"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Zurich 1984"]
+[White "Spassky"]
+[Black "Dueckstein"]
+[Result "*"]
+[FEN "2kn3r/pp1b4/2n1p1p1/q2pP1P1/2pN1P2/P1P3K1/2PB4/R2Q3B b - - 0 1"]
+[Type "Easy"]
+[Puzzle "131"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Montpellier 1985"]
+[White "Ribli"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "7k/8/7P/6K1/6Q1/6P1/7q/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "132"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Montpellier 1991"]
+[White "Spassky"]
+[Black "Santo-Roman"]
+[Result "*"]
+[FEN "r4rk1/pp5p/2pp4/2n3q1/2b2p1R/2N3P1/PP1QPPB1/2KR4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "133"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "USA 1957"]
+[White "Fischer"]
+[Black "Bennett"]
+[Result "*"]
+[FEN "2q4k/p6p/6p1/5p2/5P1P/1Bb2QP1/Pr6/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "134"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Milwaukee 1957"]
+[White "Buerger"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "3r2k1/5rbp/pp3np1/3P4/1B1N1R2/8/P5PP/5RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "135"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Leipzig (ol) 1960"]
+[White "Ghitescu"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "r1bqr1k1/p1p2ppp/3b1n2/2P3B1/8/2NQ1N2/PP3PPP/R4RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "136"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Los Angeles 1961"]
+[White "Reshevsky"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "r4rk1/2p3b1/3p2qp/p1PPp3/4Rn2/P5Q1/3B1NPP/2R3K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "137"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Varna (ol) 1962"]
+[White "Fischer"]
+[Black "Purevzhav"]
+[Result "*"]
+[FEN "2rq1rk1/pp3pb1/3p2pB/n4P2/4pP2/1BNQ4/PKP3P1/3R3R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "138"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Stockholm 1962"]
+[White "Bertok"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "rr4k1/1q3p2/4b2p/p2n2p1/2B5/Q3P3/PP1R1PPP/3R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "139"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bay City 1963"]
+[White "Fischer"]
+[Black "Fuller"]
+[Result "*"]
+[FEN "3r1rk1/ppp1qpp1/2p1b2p/4P3/3nNQ1P/5N2/PPP2PP1/R4RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "140"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Detroit (simul) 1964"]
+[White "Fischer"]
+[Black "Richburg"]
+[Result "*"]
+[FEN "2brrbk1/2q2p1p/p4np1/1ppPp3/4P3/BP2N1P1/P3QPBP/2RR2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "141"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "New York 1965"]
+[White "Fischer"]
+[Black "Byrne"]
+[Result "*"]
+[FEN "r4rk1/ppp1bppp/2N2n2/7q/6b1/2P5/PP1NBPPP/R1B1QRK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "142"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Zagreb 1970"]
+[White "Fischer"]
+[Black "Gligoric"]
+[Result "*"]
+[FEN "r1nq1n2/3b2k1/p2p1p1R/Pp1Pp1p1/1Pp1P1P1/2P1BPN1/2BQ2K1/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "143"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Palma de Mallorca 1970"]
+[White "Reshevsky"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "4rbk1/3Q1ppp/3p4/3P4/5q2/B7/P5PP/5RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "144"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Palma de Mallorca 1970"]
+[White "Gligoric"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "r1b5/5pk1/1p1p3p/3Pq1p1/PQ2Pn2/5P2/5RPP/3R3K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "145"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Rostov on Don 1971"]
+[White "Peresipkin"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "6rk/7p/p2Q4/1p2r3/8/4NP1q/PPP4P/5R1K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "146"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Hastings 1972"]
+[White "Karpov"]
+[Black "Franklin"]
+[Result "*"]
+[FEN "1r2b1k1/R4nqp/4p3/1pR5/1P1P1r2/5N2/1Q2B1P1/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "147"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Skopje (ol) 1972"]
+[White "Saren"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "2rb1qk1/1b4pp/3p4/1P2pr2/2n2PB1/2NQ2P1/P1N4P/R2R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "148"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1976"]
+[White "Karpov"]
+[Black "Kupreichik"]
+[Result "*"]
+[FEN "8/2b2k1p/pp1P3r/2p3p1/6P1/1P2R2P/5P2/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "149"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1977"]
+[White "Portisch"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "r3rnk1/1N3ppp/1p6/p1Pp2q1/8/6P1/PP2PPBP/2R1Q1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "150"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Leningrad 1977"]
+[White "Karpov"]
+[Black "Taimanov"]
+[Result "*"]
+[FEN "8/6k1/1P1p2p1/3Ppn2/3q4/8/6PP/rR2QB1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "151"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Baguio City (17) 1978"]
+[White "Korchnoi"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "8/7R/2r5/8/P3n3/8/3nk1PP/R5K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "152"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1983"]
+[White "Karpov"]
+[Black "Geller"]
+[Result "*"]
+[FEN "3rrk2/R4ppB/7p/1p2N1q1/nPbP1p2/2PQ1P2/6PP/4R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "153"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Oslo 1984"]
+[White "Karpov"]
+[Black "Agdestein"]
+[Result "*"]
+[FEN "5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK1P/3R4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "154"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Brussels 1986"]
+[White "Karpov"]
+[Black "Miles"]
+[Result "*"]
+[FEN "3rrnk1/1bq2pp1/ppnppb1p/8/2P1PPQ1/1PN2N2/PB4PP/1B1R1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "155"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1988"]
+[White "Karpov"]
+[Black "Gavrikov"]
+[Result "*"]
+[FEN "1n3rk1/p2pQpp1/4q2p/1r6/4B3/4P1P1/P4P1P/2RR2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "156"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Linares (7) 1992"]
+[White "Karpov"]
+[Black "Short"]
+[Result "*"]
+[FEN "4R3/p4pk1/5qpp/1PnP4/3Q3P/6P1/r1r1BPK1/3R4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "157"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tilburg 1992"]
+[White "Chernin"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "4rrk1/1p1n1pb1/2ppq1p1/p3p1Bp/P1P1P2P/2NP2P1/1P2QPK1/3R1R2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "158"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Linares 1993"]
+[White "Karpov"]
+[Black "Salov"]
+[Result "*"]
+[FEN "r3rbk1/1b3Npp/1q1p2n1/2pP4/5R2/1PN3Q1/4P1BP/5R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "159"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Monte Carlo 1997"]
+[White "Karpov"]
+[Black "Van Wely"]
+[Result "*"]
+[FEN "5nk1/1b1qQpp1/p3p3/3pP1N1/3P3P/1p1B4/1P3PP1/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "160"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Frankfurt 1997"]
+[White "Karpov"]
+[Black "Lobron"]
+[Result "*"]
+[FEN "4r2k/3n2bB/2p1NqQ1/2Pp4/5B2/r6P/5PP1/4R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "161"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Cap dâAgde 2000"]
+[White "Karpov"]
+[Black "Gurevich"]
+[Result "*"]
+[FEN "2b4k/p3q2p/2p1p3/2PpPpr1/3P3Q/4P2B/3b1B1P/R6K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "162"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Bastia (rapid) 2003"]
+[White "Karpov"]
+[Black "Shirov"]
+[Result "*"]
+[FEN "7r/3b1pk1/2p2qp1/8/1P1bNP2/r2B4/3Q2PP/2R2R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "163"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bucharest (rapid) 2005"]
+[White "Istratescu"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "1r1r4/5ppk/1p5p/2b1Pp1Q/8/q7/3B1PPP/2RR2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "164"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Tallinn (rapid) 2006"]
+[White "Karpov"]
+[Black "Shirov"]
+[Result "*"]
+[FEN "4kr2/p1Bbpp2/1p4p1/n6p/2B1P2P/2K2P2/P2R2P1/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "165"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Tallinn (rapid) 2006"]
+[White "Karpov"]
+[Black "Agrest"]
+[Result "*"]
+[FEN "2n2k2/2b2pp1/2p1pnp1/2Pp2N1/3P1PP1/3BP2P/3BK3/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "166"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Teheran 2009"]
+[White "Karpov"]
+[Black "Ghaem Maghami"]
+[Result "*"]
+[FEN "r5k1/pb1p1Rpq/2n1p1Q1/1p2P3/3P2P1/P7/1P1K4/5R2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "167"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Baku 1980"]
+[White "Kasparov"]
+[Black "Antoshin"]
+[Result "*"]
+[FEN "1k1r1q1r/2p2ppp/Qp6/3b1N2/8/P5P1/1P3P1P/2R2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "168"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Frunze 1981"]
+[White "Tukmakov"]
+[Black "Kasparov"]
+[Result "*"]
+[FEN "6k1/4qp2/1B4pp/2R1b3/P2Nb3/1P2Q3/r4PPP/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "169"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Hamburg 1985"]
+[White "Kasparov"]
+[Black "Comp Mephisto"]
+[Result "*"]
+[FEN "R3n1k1/7p/3prppB/1p2p3/1P2P2Q/7P/5PPK/1q6 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "170"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Linares 1990"]
+[White "Portisch"]
+[Black "Kasparov"]
+[Result "*"]
+[FEN "2rr4/pp4kp/6p1/3nNp2/2B5/2n3P1/P2R1PKP/R7 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "171"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Baden-Baden 1992"]
+[White "Kasparov"]
+[Black "Wahls"]
+[Result "*"]
+[FEN "5rk1/ppr2Npp/2q1Pp2/3n4/8/6Q1/P5PP/3R1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "172"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Katowice (simul) 1993"]
+[White "Kasparov"]
+[Black "Dubiel"]
+[Result "*"]
+[FEN "r7/5kpp/2p1pq2/1bP2p2/p4Q2/5BP1/PP3P1P/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "173"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Zurich 2001"]
+[White "Pelletier"]
+[Black "Kasparov"]
+[Result "*"]
+[FEN "8/1p3pkp/pb2p1p1/8/4P2P/1N4P1/P1R1KP2/7r b - - 0 1"]
+[Type "Easy"]
+[Puzzle "174"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Astana 2001"]
+[White "Kasparov"]
+[Black "Shirov"]
+[Result "*"]
+[FEN "2r5/pp1b4/4p3/3pPk2/5P2/8/1K6/3R2R1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "175"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Minsk 1986"]
+[White "Anastasian"]
+[Black "Khalifman"]
+[Result "*"]
+[FEN "r2r2k1/1p1n1bpp/1pp1pp2/8/Pb1PP1P1/1BNRBP1P/1P3K2/2R5 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "176"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Rakvere 1993"]
+[White "Ehlvest"]
+[Black "Khalifman"]
+[Result "*"]
+[FEN "8/1R3pbp/4p1k1/5p2/8/2N2P2/1P1r1P1P/4K3 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "177"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1995"]
+[White "Khalifman"]
+[Black "Rashkovsky"]
+[Result "*"]
+[FEN "5k1r/ppq3b1/8/3Pp2p/3n4/7Q/PP3PPP/3RR1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "178"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "St Petersburg 1997"]
+[White "Khalifman"]
+[Black "Sosonko"]
+[Result "*"]
+[FEN "r3qn1k/pp3pp1/2b1p2p/4P1BP/2B3Q1/8/PPP3P1/2K1R3 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "179"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Stockholm 1997"]
+[White "Ptacnikova"]
+[Black "Khalifman"]
+[Result "*"]
+[FEN "3r2k1/1b3p1p/pp4p1/4PqP1/3NpP2/1P2Q2P/P6K/2R5 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "180"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Stockholm 1997"]
+[White "Khalifman"]
+[Black "Kupreichik"]
+[Result "*"]
+[FEN "4r1rk/p3q2p/3p1n1Q/3P4/Pp1n1P2/3BN2R/1PPK1P2/R7 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "181"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bad Wiessee 1998"]
+[White "Khalifman"]
+[Black "Gabriel"]
+[Result "*"]
+[FEN "2kr3r/1pq3p1/p1p3Qp/P1n1p3/8/RbN1P1P1/1P2P1BP/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "182"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Germany 1999"]
+[White "Slobodjan"]
+[Black "Khalifman"]
+[Result "*"]
+[FEN "2rq1rk1/1p4bp/4p1p1/p2p1bP1/P2N4/2PnB3/QP4BP/R5RK b - - 0 1"]
+[Type "Easy"]
+[Puzzle "183"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 2011"]
+[White "Khalifman"]
+[Black "Bukavshin"]
+[Result "*"]
+[FEN "2k4r/pp3p2/1np3q1/2Q3p1/3R4/1P2P1P1/P4PB1/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "184"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Wijk aan Zee (blitz) 1999"]
+[White "Kramnik"]
+[Black "Reinderman"]
+[Result "*"]
+[FEN "r1b2rk1/p1q2n1p/6p1/2Ppp3/8/2Q2NPP/P4PB1/1R3RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "185"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (blitz) 2007"]
+[White "Kramnik"]
+[Black "Bacrot"]
+[Result "*"]
+[FEN "1r6/RP5p/P1kp4/2n2p2/8/4PKP1/5P1P/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "186"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (blitz) 2009"]
+[White "Kramnik"]
+[Black "Aronian"]
+[Result "*"]
+[FEN "r2qk2r/3bb1pp/5p2/1p1Q4/1pNP4/4P3/PB4PP/R4RK1 w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "187"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Leuven (blitz) 2016"]
+[White "Kramnik"]
+[Black "Giri"]
+[Result "*"]
+[FEN "r3k1r1/p4p1p/3bpBp1/3p1b2/5P2/3BP2P/PP4P1/1K1R3R w q - 0 1"]
+[Type "Easy"]
+[Puzzle "188"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Dortmund 1996"]
+[White "Anand"]
+[Black "Lobron"]
+[Result "*"]
+[FEN "4r2k/6b1/8/p2R3p/1pP1p1Nq/8/PP3P1P/3Q3K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "189"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Mainz 2002"]
+[White "Anand"]
+[Black "Ponomariov"]
+[Result "*"]
+[FEN "2r4k/2q4p/p2bPp2/1p6/6QP/3B4/PPP5/1K4R1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "190"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Calvia (ol) 2004"]
+[White "Anand"]
+[Black "Charbonneau"]
+[Result "*"]
+[FEN "3n4/2p2pk1/3r2p1/6Np/1P1q3P/4QR2/5PP1/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "191"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Reykjavik (blitz) 2006"]
+[White "Carlsen"]
+[Black "Anand"]
+[Result "*"]
+[FEN "r1q2rk1/3bpp1p/3p2p1/3P4/Pnn1P3/2N2NP1/1R1Q1PB1/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "192"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bastia 2014"]
+[White "Skomorokhin"]
+[Black "Anand"]
+[Result "*"]
+[FEN "2r2rk1/p4ppp/1p6/2b5/5Pn1/1Q2PR1P/P5P1/R1B1qBK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "193"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Stavanger 2015"]
+[White "Anand"]
+[Black "Hammer"]
+[Result "*"]
+[FEN "5r1k/2p5/5qp1/1Pb1p2p/4B2P/3P2P1/4QPK1/5R2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "194"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Torshavn 2000"]
+[White "Ponomariov"]
+[Black "Conquest"]
+[Result "*"]
+[FEN "2kB2r1/p3R3/q1p3r1/bp2Qp2/2PP3p/1P4P1/P4P2/5K2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "195"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow (4) 2001"]
+[White "Ponomariov"]
+[Black "Bareev"]
+[Result "*"]
+[FEN "1r3k2/2p3Rp/2b5/p1Pp2p1/P2B1pq1/2PB2P1/7P/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "196"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (blitz) 2010"]
+[White "Grachev"]
+[Black "Ponomariov"]
+[Result "*"]
+[FEN "6k1/5rpp/4Qn2/3p4/1q1P4/1p2P2P/6P1/3B1RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "197"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Khanty-Mansiysk (2) 2011"]
+[White "Ponomariov"]
+[Black "Ivanchuk"]
+[Result "*"]
+[FEN "6rk/7p/8/1p3R2/pN6/P1n2B1P/4brPK/4R3 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "198"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Khanty-Mansiysk (blitz) 2013"]
+[White "Ponomariov"]
+[Black "Rublevsky"]
+[Result "*"]
+[FEN "2r3k1/p2b2pp/1pqr4/2p1R3/4P3/P1Q3PP/1P4BK/3R4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "199"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tashkent 1993"]
+[White "Kasimdzhanov"]
+[Black "Kaiumov"]
+[Result "*"]
+[FEN "r3r1k1/p2q1pbp/6p1/3Q2B1/8/5P2/PP4PP/R2R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "200"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tashkent 1993"]
+[White "Kasimdzhanov"]
+[Black "Grinshpun"]
+[Result "*"]
+[FEN "3r2k1/pp4qn/3p1ppQ/2pPp3/4P1N1/1P2P2R/1PP3PP/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "201"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Szeged 1994"]
+[White "Matikozian"]
+[Black "Kasimdzhanov"]
+[Result "*"]
+[FEN "4r2k/p4rp1/1pb3qp/3NB3/2P1Q2n/1P1R4/1P4PP/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "202"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Macau 1996"]
+[White "Kasimdzhanov"]
+[Black "Kalandar Khaled"]
+[Result "*"]
+[FEN "2b3k1/r2r1pp1/p3p2p/1pq1P3/4B2Q/2P5/P4PPP/3RR1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "203"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Teheran 1998"]
+[White "Kasimdzhanov"]
+[Black "Al Modiahki"]
+[Result "*"]
+[FEN "2r5/R2b1pk1/3q1bpp/1p1Pp3/4P3/3P3P/1Q1NBPP1/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "204"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Germany 2002"]
+[White "Kasimdzhanov"]
+[Black "Golubev"]
+[Result "*"]
+[FEN "r6k/7p/1Qp2rpq/p3p3/2B1P3/2B2P1n/P5PK/1R6 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "205"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Germany 2003"]
+[White "Kasimdzhanov"]
+[Black "Volokitin"]
+[Result "*"]
+[FEN "6rk/p6n/3p4/2pPb2q/4N3/P2BQPp1/6K1/7R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "206"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Baku 2005"]
+[White "Kasimdzhanov"]
+[Black "Mamedyarov"]
+[Result "*"]
+[FEN "5rk1/p4qp1/2p4p/1p2Pn2/2pP2Q1/2P4P/P2B3K/5R2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "207"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Karjakin â Kasimdzhanov. Tashkent 2014"]
+[White "Karjakin"]
+[Black "Kasimdzhanov. Tashkent 2014"]
+[Result "*"]
+[FEN "1r3qbk/1p2rpp1/p1p2n1p/PnN1NP2/1P2PQ2/3P1B1P/7K/1R4R1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "208"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Sarajevo 1999"]
+[White "Timman"]
+[Black "Topalov"]
+[Result "*"]
+[FEN "4r1k1/2BR3p/8/5Rp1/4n1K1/4P1P1/1P2P2P/5r2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "209"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Cala Galdana 1999"]
+[White "Topalov"]
+[Black "Illescas"]
+[Result "*"]
+[FEN "4rrk1/p2pB1pp/2p5/2P1R3/3QN3/Pq2n3/1P4PP/2KR4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "210"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Dortmund 2005"]
+[White "Topalov"]
+[Black "Naiditsch"]
+[Result "*"]
+[FEN "1n3q1k/r2r3p/p3Q3/1p6/8/2P3R1/P4PPP/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "211"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Nice (blindfold) 2009"]
+[White "Kamsky"]
+[Black "Topalov"]
+[Result "*"]
+[FEN "1qr1r1k1/2b2ppp/Bpb1p3/4n3/P7/2N1BP2/1PP3PP/3RR1QK w - - 0 1"]
+[Type "Easy"]
+[Puzzle "212"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Hoogeveen 2004"]
+[White "Sokolov"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "2rb2k1/5pp1/2p1pn1p/2P5/1N1Pp3/4P1BP/5PP1/1R4K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "213"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Khanty-Mansiysk (2) 2005"]
+[White "Kamsky"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "5r1k/q3bQpp/2B5/1P2p3/4P3/p1P5/5PPP/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "214"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Reykjavik (blitz) 2006"]
+[White "Stefansson"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "2r3k1/4bpp1/4pn1p/1p6/q1r5/2BR1BP1/PQ2PPKP/3R4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "215"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Reykjavik (blitz) 2006"]
+[White "Erenburg"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "4r1k1/5p2/p5pp/P1p2q2/3Nr3/3Q4/5PPP/1RR3K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "216"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Internet 2006"]
+[White "Todorovic"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "2r3k1/5p2/p3bBp1/1p5p/4P3/1P4qP/P5P1/1B1RR2K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "217"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Cap dâAgde 2006"]
+[White "Carlsen"]
+[Black "Fressinet"]
+[Result "*"]
+[FEN "1r5k/6pp/2p1r3/1R1p4/pn1P1q2/3Q1P2/PP3BPP/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "218"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Monte Carlo (blindfold) 2011"]
+[White "Ivanchuk"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "r2r2k1/1bqp1ppp/ppnbpn2/8/2PNP3/P1N1BP2/1P2B1PP/2RQ1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "219"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Shamkir 2014"]
+[White "Caruana"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "2k1r3/p1pbbpp1/1p5p/2pNP3/2P3P1/1P3PBP/P5K1/3R4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "220"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Wijk aan Zee 2015"]
+[White "Carlsen"]
+[Black "Radjabov"]
+[Result "*"]
+[FEN "4r1qk/2p4n/1b3pQB/p1p5/2P1P3/1P1R3P/P5P1/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "221"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "New York (rapid 4) 2016"]
+[White "Carlsen"]
+[Black "Karjakin"]
+[Result "*"]
+[FEN "2R5/4bppk/1p1p4/5R1P/4PQ2/5P2/r4q1P/7K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "222"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Vienna 1860"]
+[White "Hamppe"]
+[Black "Steinitz"]
+[Result "0-1"]
+[FEN "r6r/1pp3k1/1b6/p2P1p2/P1N1pn2/2P2PP1/BP5P/4RR1K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "1"]
+[Termination "Mate"]
+[PlyCount "3"]
+
+1... Rxh2+ 2.Kxh2 Rh8# 0-1
+
+
+[Event "London 1862"]
+[White "Steinitz"]
+[Black "Wilson"]
+[Result "1-0"]
+[FEN "rnb3kr/ppp4p/3b3B/3Pp2n/2BP4/3K1Rp1/PPP3q1/RN1Q4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "2"]
+[Termination "Mate"]
+[PlyCount "5"]
+
+1.Rf8+ Bxf8 2.d6+ Be6 (2... Qd5 3.Bxd5+ Be6 4.Bxe6#) 3.Bxe6# 1-0
+
+
+[Event "London (6) 1862"]
+[White "Steinitz"]
+[Black "Dubois"]
+[Result "*"]
+[FEN "r2q1rk1/pppb1ppp/3b4/4p1P1/4Pn2/2N1B2P/PPPQBP2/2KR3R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "3"]
+[PlyCount "3"]
+
+1.Bxf4 exf4 2.e5 *
+
+
+[Event "London (1) 1864"]
+[White "Green"]
+[Black "Steinitz"]
+[Result "*"]
+[FEN "2kr4/1pp4p/1p1r4/5Pp1/1P2q3/2P1R2P/P3KP2/1Q1R4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "4"]
+[PlyCount "3"]
+
+1... Rd2+ 2.Rxd2 (2.Ke1 Qh1#) Qxb1 *
+
+
+[Event "Dublin (simul) 1865"]
+[White "Steinitz"]
+[Black "Barry"]
+[Result "*"]
+[FEN "rn1qk2r/ppp2ppp/5n2/2b1p3/2B1P1b1/3P1N2/PPP3PP/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "5"]
+[PlyCount "3"]
+
+1.Bxf7+ Kxf7 2.Nxe5+ *
+
+
+[Event "Dundee 1867"]
+[White "Fraser"]
+[Black "Steinitz"]
+[FEN "r2k3r/pp1b3p/1qn1p1p1/1B1pPn2/Q7/P4N2/1P1BNPPP/2R3K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "6"]
+[PlyCount "5"]
+
+1.Rxc6 Bxc6 2.Ba5 Bxb5 3.Bxb6+ *
+
+
+[Event "London (simul) 1868"]
+[White "Steinitz"]
+[Black "Baker"]
+[FEN "2r1k2r/1b1p2q1/p4p2/4p3/PpB1Pp1p/7P/1PPRQPP1/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "7"]
+[PlyCount "3"]
+
+1... f3 2.Qxf3 Rxc4 *
+
+
+[Event "Baden-Baden 1870"]
+[White "Steinitz"]
+[Black "Minckwitz"]
+[Result "*"]
+[FEN "r3k2r/p1ppbppp/1pn1q3/4P3/2BP2n1/5NB1/1PP1Q1PP/R4K1R b kq - 0 1"]
+[Type "Easy"]
+[Puzzle "8"]
+[PlyCount "3"]
+
+1... Qxc4 2.Qxc4 Ne3+ *
+
+
+[Event "Vienna 1873"]
+[White "Steinitz"]
+[Black "Fleissig"]
+[Result "*"]
+[FEN "1b6/3n1p2/r1k1p1pp/Pr2P3/1PK2P2/3R4/3B2PP/R7 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "9"]
+[PlyCount "3"]
+
+1.Rxd7 Kxd7 2.Kxb5 *
+
+
+[Event "Vienna 1873"]
+[White "Steinitz"]
+[Black "Gelbfuhs"]
+[Result "1-0"]
+[FEN "2b5/4Q1pp/pp3n1k/3p3q/P2P1P2/BP1B2P1/7P/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "10"]
+[Termination "Mate"]
+[PlyCount "3"]
+
+1.Qxf6+ gxf6 2.Bf8# 1-0
+
+
+[Event "Vienna 1882"]
+[White "Steinitz"]
+[Black "Meitner"]
+[Result "*"]
+[FEN "rn1qk1nr/ppp2ppp/8/2b1p3/2B1P1b1/5N2/PPPP2PP/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "11"]
+[PlyCount "5"]
+
+1.Bxf7+ Kxf7 2.Nxe5+ Ke8 3.Qxg4 *
+
+
+[Event "London 1883"]
+[White "Blackburne"]
+[Black "Steinitz"]
+[Result "1-0"]
+[FEN "r1n5/pp2q1kp/2ppr1p1/4p1Q1/8/2N4R/PPP3PP/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "12"]
+[Termination "Mate"]
+[PlyCount "5"]
+
+1.Qh6+ Kg8 2.Rf8+ Qxf8 3.Qxh7# 1-0
+
+
+[Event "New York (2) 1890"]
+[White "Gunsberg"]
+[Black "Steinitz"]
+[Result "*"]
+[FEN "4rrk1/ppp3pp/3p2n1/3Ppqb1/nPP5/6P1/P1NBQP1P/2R1NRK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "13"]
+[PlyCount "3"]
+
+1... Nc3 2.Bxc3 Bxc1 *
+
+
+[Event "Havana (8) 1892"]
+[White "Steinitz"]
+[Black "Chigorin"]
+[Result "*"]
+[FEN "2kr3r/p4pp1/2p4p/4p3/2n4q/1NPPnP1P/PP2Q2P/R1K2B1R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "14"]
+[Termination "Mate"]
+[PlyCount "10"]
+
+1... Rxd3 2.Kb1 Rhd8 3.a3 Rd2 4.Nxd2 Rxd2 5.Qxd2 Nxd2+ 6.Ka2 *
+
+
+[Event "Haarlem (simul) 1896"]
+[White "Steinitz"]
+[Black "Van Foreest"]
+[Result "0-1"]
+[FEN "6k1/5pp1/p1n1r2p/2NQ4/1P1p4/P6P/1B1bqPP1/5RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "15"]
+[Termination "Mate"]
+[PlyCount "3"]
+
+1... Qxf1+ 2.Kxf1 Re1# 0-1
+
+
+[Event "Haarlem (simul) 1896"]
+[White "Steinitz"]
+[Black "Reyne"]
+[Result "1-0"]
+[FEN "r1bqk1nr/pppp3p/2n2p2/b5p1/2BPPp1P/2P2N2/P5P1/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "16"]
+[Termination "Mate"]
+[PlyCount "13"]
+
+1.Nxg5 fxg5 2.Qh5+ Ke7 3.Qf7+ Kd6 4.e5+ Nxe5 5.dxe5+ Kxe5 6.Qd5+ Kf6 7.Qxg5# 1-0
+
+
+[Event "Moscow 1896"]
+[White "Steinitz"]
+[Black "Falk"]
+[Result "*"]
+[FEN "2kr1bnr/p1ppqp1p/bpn5/1N4p1/P2PPp2/5N2/1PP2KPP/R1BQ1B1R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "17"]
+[PlyCount "3"]
+
+1.Nxa7+ Nxa7 2.Bxa6+ *
+
+
+[Event "Haarlem (simul) 1896"]
+[White "Steinitz"]
+[Black "Enderle"]
+[Result "*"]
+[FEN "rn1qk1nr/ppp2ppp/8/2b1p3/2B1P1b1/5N2/PPPP2PP/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "18"]
+[PlyCount "5"]
+
+1.Bxf7+ Kxf7 2.Nxe5+ Ke8 3.Nxg4 *
+
+
+[Event "Vienna 1898"]
+[White "Showalter"]
+[Black "Steinitz"]
+[Result "*"]
+[FEN "1k2r3/2p3p1/p4p2/1p3q1p/1n6/PQ2P3/1P2B2P/2KR4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "19"]
+[Termination "Mate"]
+[PlyCount "3"]
+
+1... Rxe3 2.Qxb4 Rxe2 *
+
+
+[Event "USA (simul) 1902"]
+[White "Lasker"]
+[Black "McBride"]
+[Result "1-0"]
+[FEN "r1bqkbnr/pppp3p/2n2p2/6p1/2BPPp2/5N2/PPP3PP/RNBQK2R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "20"]
+[Termination "Mate"]
+[PlyCount "11"]
+
+1.Nxg5 fxg5 2.Qh5+ Ke7 3.Qf7+ Kd6 4.e5+ Nxe5 5.Qd5+ Ke7 6.Qxe5# 1-0
+
+
+[Event "Gloucester (simul) 1908"]
+[White "Lasker"]
+[Black "Witchard"]
+[Result "*"]
+[FEN "rnbqkbnr/pppp3p/5p2/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R w KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "21"]
+[PlyCount "7"]
+
+1.Nxg5 fxg5 2.Qh5+ Ke7 3.Qxg5+ Ke8 4.Qe5+ *
+
+
+[Event "Germany 1908"]
+[White "Hartlaub"]
+[Black "Lasker"]
+[Result "*"]
+[FEN "rnbqkb1r/pp1p2pp/2p2p2/4p3/2B5/2P2N2/PPP2PPP/R1BQ1RK1 w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "22"]
+[PlyCount "11"]
+
+1.Nxe5 d5 2.Qh5+ g6 3.Nxg6 hxg6 4.Qxh8 dxc4 5.Re1+ Kf7 6.Bh6 *
+
+
+[Event "Berlin (1) 1910"]
+[White "Lasker"]
+[Black "Janowski"]
+[Result "*"]
+[FEN "2r3k1/p3qppp/2pr4/Q2b4/1P2p3/4P3/P3BPPP/2RR2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "23"]
+[PlyCount "3"]
+
+1.Rxd5 Rxd5 2.Qxd5 *
+
+
+[Event "Atlantic Ocean 1924"]
+[White "Lasker"]
+[Black "Bogoljubov"]
+[Result "*"]
+[FEN "6k1/2p3pp/q3pn2/1pp1p3/4P3/1P1P1P2/rNP2P1P/1Q3RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "24"]
+[PlyCount "5"]
+
+1.Na4 Ra3 2.Qb2 b4 3.Qxe5 *
+
+
+[Event "Nottingham 1936"]
+[White "Thomas"]
+[Black "Lasker"]
+[FEN "8/1p3q1k/2p3pp/4P1r1/8/4Q3/PP5P/3R3K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "25"]
+[PlyCount "5"]
+
+1... Rxe5 2.Qxe5 Qf3+ 3.Kg1 Qxd1+ *
+
+
+[Event "Schenectady 1909"]
+[White "Capablanca"]
+[Black "Watson"]
+[Result "*"]
+[FEN "r5k1/1b1n2r1/p3n2q/1p1pPRN1/2pP3P/2P3P1/PPBQ4/5R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "26"]
+[PlyCount "7"]
+
+1.Rf6 Nxf6 2.Rxf6 Qh5 3.Bd1 Qe8 4.Rxe6 *
+
+
+[Event "Saint Louis (simul) 1909"]
+[White "Capablanca"]
+[Black "Schrader"]
+[Result "*"]
+[FEN "r1b2rk1/p2p1p2/2p5/1p2PPqn/1b1p2N1/1B1P3Q/PPP3PP/R4RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "27"]
+[PlyCount "3"]
+
+1.Qxh5 Qxh5 2.Nf6+ *
+
+
+[Event "Saint Louis (simul) 1909"]
+[White "Capablanca"]
+[Black "Pomeroy"]
+[Result "0-1"]
+[FEN "r5r1/p1p1k3/3q3B/5p2/4p3/1P6/P1P1QPP1/R4RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "28"]
+[Termination "Mate"]
+[PlyCount "7"]
+
+1... Rxg2+ 2.Kxg2 Rg8+ 3.Kh1 Qxh6+ 4.Qh5 Qxh5# 0-1
+
+
+[Event "Saint Louis (simul) 1909"]
+[White "Capablanca"]
+[Black "Carter"]
+[Result "1-0"]
+[FEN "6rk/p1q2p2/2p1rb1P/1p2pN2/4P1Q1/2PP4/PPB5/2K4R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "29"]
+[Termination "Mate"]
+[PlyCount "5"]
+
+1.Qg7+ Rxg7 2.hxg7+ Kg8 3.Rh8# 1-0
+
+
+[Event "New York 1910"]
+[White "Capablanca"]
+[Black "Marshall"]
+[FEN "4q1k1/2r3pp/1p6/8/1b2N3/4R1P1/PP3P1P/R5K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "30"]
+[PlyCount "3"]
+
+1.Nf6+ gxf6 2.Rxe8+ *
+
+
+[Event "Buenos Aires 1911"]
+[White "Capablanca"]
+[Black "Piazzini"]
+[FEN "4k3/1bp4r/p7/1p1P4/2P3pN/1P2r1P1/1BP2RPK/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "31"]
+[PlyCount "5"]
+
+1... Rxh4+ 2.gxh4 g3+ 3.Kg1 gxf2+ *
+
+
+[Event "Copenhagen (simul) 1911"]
+[White "Capablanca"]
+[Black "Rasmussen"]
+[Result "*"]
+[FEN "2q4k/5Qp1/4B2p/p1p5/1P6/6PK/r4P1P/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "32"]
+[PlyCount "3"]
+
+1... Rxf2 2.Qxf2 Qxe6+ *
+
+
+[Event "New York 1912"]
+[White "Capablanca"]
+[Black "Randolph"]
+[FEN "5Rnk/pp1q4/7p/3p2rN/3Pp1Q1/2P5/PP5P/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "33"]
+[PlyCount "3"]
+
+1.Rxg8+ Kxg8 2.Nf6+ *
+
+
+[Event "London (simul) 1913"]
+[White "Capablanca"]
+[Black "Dunkelsbuhler"]
+[Result "1-0"]
+[FEN "r1bq2k1/pp3rpp/2n2b2/3p1p2/3P4/BQPB1N2/P4PPP/R3R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "34"]
+[Termination "Mate"]
+[PlyCount "5"]
+
+1.Qxd5 Qxd5 2.Re8+ Rf8 3.Rxf8# 1-0
+
+
+[Event "New York 1915"]
+[White "Hodges"]
+[Black "Capablanca"]
+[Result "*"]
+[FEN "2r3k1/pb2bp1p/1p2p1p1/8/q1NPP3/3B4/P3QPPP/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "35"]
+[PlyCount "3"]
+
+1... Bxe4 2.Bxe4 Rxc4 *
+
+
+[Event "New York (simul) 1915"]
+[White "Capablanca"]
+[Black "Michelsen"]
+[Result "*"]
+[FEN "6r1/2r1k3/R3p3/p4pPp/1pPK1P2/1P3B1P/P7/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "36"]
+[PlyCount "11"]
+
+1.Rxe6+ Kxe6 2.Bd5+ Kd6 3.Bxg8 Re7 4.c5+ Kc6 5.Bd5+ Kb5 6.g6 *
+
+
+[Event "New York 1918"]
+[White "Capablanca"]
+[Black "N.N."]
+[Result "1-0"]
+[FEN "r4r1k/pppqNppp/3p1B2/4p3/3nP3/3P1b2/PPPQ1PPP/R4RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "37"]
+[Termination "Mate"]
+[PlyCount "5"]
+
+1.Bxg7+ Kxg7 2.Qg5+ Kh8 3.Qf6# 1-0
+
+
+[Event "Glasgow 1919"]
+[White "Capablanca"]
+[Black "Birch"]
+[Result "*"]
+[FEN "3r2k1/2p2pp1/p1Q2n1p/7q/8/1P1N2P1/P1P2P2/R3K3 b Q - 0 1"]
+[Type "Easy"]
+[Puzzle "38"]
+[PlyCount "5"]
+
+1... Rxd3 2.cxd3 Qe5+ 3.Kd2 Qxa1 *
+
+
+[Event "Thornton Heath 1919"]
+[White "Capablanca"]
+[Black "Hadland"]
+[Result "1-0"]
+[FEN "r1b2rk1/pp3qpp/2p1p3/2Ppb1PP/5B2/3BP3/PP3Q2/2R1K2R w K - 0 1"]
+[Type "Easy"]
+[Puzzle "39"]
+[Termination "Mate"]
+[PlyCount "19"]
+
+1.Bxh7+ Kxh7 2.g6+ Kg8 3.gxf7+ Kxf7 4.Bxe5+ Kg8 5.Qg3 Kf7 6.O-O+ Ke8 7.Qg6+ Ke7
+8.Qxg7+ Rf7 9.Qxf7+ Kd8 10.Bc7# 1-0
+
+
+[Event "London 1922"]
+[White "Capablanca"]
+[Black "Vidmar"]
+[Result "*"]
+[FEN "2r2rk1/pQ1n1pp1/1p2p2p/3p4/P2P4/4P2P/1qB2PP1/2R2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "40"]
+[PlyCount "5"]
+
+1.Bh7+ Kxh7 2.Rxc8 Rxc8 3.Qxc8 *
+
+
+[Event "New York (simul) 1922"]
+[White "Capablanca"]
+[Black "Malowan"]
+[Result "*"]
+[FEN "3k4/p1p2prr/1p5N/3PRPP1/b1P5/4B3/P4K2/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "41"]
+[PlyCount "3"]
+
+1.f6 Rg6 2.Bf4 *
+
+
+[Event "Moscow (simul) 1925"]
+[White "Capablanca"]
+[Black "N.N."]
+[Result "*"]
+[FEN "r3k2r/pbp2qb1/1pn1p2p/3nP1pQ/3PNp2/2PB4/PP1N1BPP/R4RK1 w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "42"]
+[PlyCount "3"]
+
+1.Nd6+ cxd6 2.Bg6 *
+
+
+[Event "Bad Kissingen 1928"]
+[White "Capablanca"]
+[Black "Mieses"]
+[Result "*"]
+[FEN "4k3/1r2r1pp/1nR2p2/pp1p4/1N1P2P1/1R2PP2/PP3K1P/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "43"]
+[PlyCount "5"]
+
+1.Rxb6 axb4 2.Rxb7 Rxb7 3.Rxb4 *
+
+
+[Event "Budapest 1929"]
+[White "Capablanca"]
+[Black "Vajda"]
+[Result "*"]
+[FEN "7r/1p3pp1/pn1kb2p/3p4/3N1P1P/PP1BP3/3K2P1/2R5 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "44"]
+[PlyCount "5"]
+
+1.Bxa6 bxa6 2.Rc6+ Ke7 3.Rxb6 *
+
+
+[Event "Karlsbad 1929"]
+[White "Capablanca"]
+[Black "Becker"]
+[Result "*"]
+[FEN "r3nrk1/1bp2ppp/pp2p3/3q2N1/1b1PNP2/3B2P1/PP2QP1P/2RR2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "45"]
+[PlyCount "5"]
+
+1.Nxh7 f5 2.Nhg5 fxe4 3.Bxe4 *
+
+
+[Event "Mexico (simul) 1933"]
+[White "Capablanca"]
+[Black "Larrea"]
+[Result "*"]
+[FEN "r1b1k2r/2qp1ppp/ppnbpn2/8/2PNP3/P1N1BP2/1P4PP/2RQKB1R w K - 0 1"]
+[Type "Easy"]
+[Puzzle "46"]
+[PlyCount "7"]
+
+1.Ndb5 axb5 2.Nxb5 Bg3+ 3.hxg3 Qxg3+ 4.Bf2 *
+
+
+[Event "Margate 1935"]
+[White "Menchik"]
+[Black "Capablanca"]
+[Result "0-1"]
+[FEN "4r1k1/6qp/pp4p1/2pP4/4Pp2/1P6/P1R3PP/4Q2K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "47"]
+[Termination "Mate"]
+[PlyCount "7"]
+
+1... Rxe4 2.Qxe4 Qa1+ 3.Rc1 Qxc1+ 4.Qe1 Qxe1# 0-1
+
+
+[Event "Moscow 1935"]
+[White "Capablanca"]
+[Black "Levenfish"]
+[Result "1-0"]
+[FEN "2bq1r2/4bpk1/4pp1N/7Q/1p1p4/3B4/PP3PPP/R5K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "48"]
+[Termination "Mate"]
+[PlyCount "5"]
+
+1.Nxf7 Rxf7 2.Qh7+ Kf8 3.Qh8# 1-0
+
+
+[Event "Moscow 1936"]
+[White "Capablanca"]
+[Black "Botvinnik"]
+[Result "*"]
+[FEN "r3r1k1/3b2pp/2p5/p1RpPp2/3Q1P2/1q2P1P1/6BP/R5K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "49"]
+[PlyCount "3"]
+
+1.Rxd5 cxd5 2.Bxd5+ *
+
+
+[Event "Buenos Aires (ol) 1939"]
+[White "Capablanca"]
+[Black "Vassaux"]
+[Result "1-0"]
+[FEN "r3br1k/pp5p/4B1p1/4NpP1/P2Pn3/q1PQ3R/7P/3R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "50"]
+[Termination "Mate"]
+[PlyCount "5"]
+
+1.Rxh7+ Kxh7 2.Qh3+ Kg7 3.Qh6# 1-0
+
+
+[Event "corr. 1902"]
+[White "Alekhine"]
+[Black "Petrov"]
+[Result "*"]
+[FEN "5rk1/ppp2ppp/6q1/2b1P3/3r4/2N1BQ1b/PP3PPP/R3R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "51"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "corr. 1906"]
+[White "Viakhirev"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "4r2k/ppp3pp/8/1PPb1p2/3P1P1b/P1Q2p1P/7R/R4KBq b - - 0 1"]
+[Type "Easy"]
+[Puzzle "52"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow (2) 1908"]
+[White "Blumenfeld"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "3r1b1k/pp4p1/2p1Qp2/5N2/PP2Pp2/2Pq4/5PKP/5R2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "53"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "St Petersburg 1909"]
+[White "Goldfarb"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "r1b2rk1/pp4pp/2pb4/3p1pq1/2PP4/1N1BPR2/PPQ3PP/4R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "54"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1909"]
+[White "Alekhine"]
+[Black "Lyubimov"]
+[Result "*"]
+[FEN "q6r/1b4bp/4k1p1/1p2Pn2/2pPp1Q1/2P5/1P1N2PP/2B2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "55"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "St Petersburg 1909"]
+[White "Alekhine"]
+[Black "Izbinsky"]
+[Result "*"]
+[FEN "5rk1/1b1p1ppp/1qr1p3/p2pP3/P4P2/Q2B4/1PP3PP/R4R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "56"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1915"]
+[White "Rozanov/Tselikov"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "5r1k/pp4pp/2p5/8/4n3/5NPQ/P3Bq1P/4R2K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "57"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "London (simul) 1923"]
+[White "Leif-Jones"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "r4rk1/pp2bppp/1qp1p3/4Pb2/Q1P1nB2/2N5/PP1RBPPP/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "58"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Czechoslovakia (simul) 1925"]
+[White "Friedmann"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "2r5/pp1bkp1Q/2nbpq2/3p1p2/3P1Pr1/2NBP1N1/PP4PP/2R2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "59"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Baden-Baden 1925"]
+[White "Alekhine"]
+[Black "Yates"]
+[Result "*"]
+[FEN "r1bqr1k1/1p1nbpp1/p1p3p1/3p4/3P1B2/2NBP2P/PP3PP1/2RQ1RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "60"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Semmering 1926"]
+[White "Vajda"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "3r2k1/q1p1nppp/p3n3/1pb1p3/4P2N/1PP3PP/PBB1QPK1/7R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "61"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "San Remo 1930"]
+[White "Grau"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "1Q6/p4pkp/3p2p1/3P4/q7/P3rBbP/6P1/5R1K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "62"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Banja Luka (simul) 1931"]
+[White "Alekhine"]
+[Black "Vasic"]
+[Result "*"]
+[FEN "r1bqk2r/p1pn1pp1/1p2pn1p/8/3P4/B1PB4/P1P1QPPP/R3K1NR b KQkq - 0 1"]
+[Type "Easy"]
+[Puzzle "63"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Sarajevo (simul) 1931"]
+[White "Alekhine"]
+[Black "Rumjancev"]
+[Result "*"]
+[FEN "r2qk2r/1p1b1pp1/p1pBpn1p/2P1N3/1n1P4/3B4/PPQ2PPP/2KR3R w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "64"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Pasadena 1932"]
+[White "Fink"]
+[Black "Alekhine"]
+[Result "*"]
+[FEN "1r2r1k1/p1pbqppp/Q2b1n2/3p4/P2P4/2P5/1P2BPPP/R1B1KN1R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "65"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Vienna (simul) 1936"]
+[White "Alekhine"]
+[Black "Jobbahazai"]
+[Result "*"]
+[FEN "1r4k1/pqp2pbp/2Q2np1/1N2p3/8/1P5P/PBP2PP1/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "66"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Plymouth 1938"]
+[White "Alekhine"]
+[Black "Bruce"]
+[Result "*"]
+[FEN "rn1qkb1r/pp3p1b/2p1pnpp/4N3/2B4P/6N1/PPPPQPP1/R1B1K2R w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "67"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Estoril (simul) 1940"]
+[White "Alekhine"]
+[Black "Lopo"]
+[Result "*"]
+[FEN "3n4/2prR1pk/p2r1p1p/1p5P/5P1P/P1B2K2/1PP5/4R3 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "68"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Estoril (simul) 1940"]
+[White "Alekhine"]
+[Black "Aragao"]
+[Result "*"]
+[FEN "6r1/1p2R3/p5k1/2p5/4Nr1P/8/PP5P/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "69"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Madrid (simul) 1941"]
+[White "Alekhine"]
+[Black "Salvatierra"]
+[Result "*"]
+[FEN "r1b2rk1/ppqnbppp/2p1pn2/3p2B1/2PP4/2NBPN2/PPQ2PPP/R3K2R w KQ - 0 1"]
+[Type "Easy"]
+[Puzzle "70"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "San Sebastian (simul) 1944"]
+[White "Alekhine"]
+[Black "De Cossio"]
+[Result "*"]
+[FEN "r1b1qrk1/pppp1ppp/1bn3n1/3Np1BQ/2B1P3/3P1N2/PPP2PPP/R3K2R w KQ - 0 1"]
+[Type "Easy"]
+[Puzzle "71"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Santander (simul) 1945"]
+[White "Alekhine"]
+[Black "Ricondo"]
+[Result "*"]
+[FEN "r2qrbk1/1bp2ppp/p2p1n2/2p2NB1/4P3/2N2Q2/PPP2PPP/R3R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "72"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1920"]
+[White "Euwe"]
+[Black "Wiersma"]
+[Result "*"]
+[FEN "r4r1k/ppn1NBpp/4b3/4P3/3p1R2/1P6/P1P3PP/R5K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "73"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Bromley 1920"]
+[White "Bigelow"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "2r2rk1/pp1bnp2/3q1n1Q/3p1P2/4p2N/1BPP4/P1P3PP/R4RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "74"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Vienna 1921"]
+[White "Gruber"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "5rk1/pbp2ppp/qr6/8/5Q2/1PP5/P4PP1/R1B2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "75"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Maehrisch Ostrau 1923"]
+[White "Euwe"]
+[Black "Bogoljubov"]
+[Result "*"]
+[FEN "r1b2rk1/pp1p1ppp/2n2n2/q7/2P5/P1N2NP1/3QPKBP/R1B4R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "76"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Amsterdam (1) 1924"]
+[White "Euwe"]
+[Black "Davidson"]
+[Result "*"]
+[FEN "3Q4/p4pkp/1p3np1/2q5/4p3/4P1N1/PP3PPP/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "77"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Utrecht 1926"]
+[White "Schelfhout"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "3r4/p2q1pkp/1pn1bnp1/2p1p3/P1N1P3/1PP1Q1PP/5PK1/4RBN1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "78"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "London (ol) 1927"]
+[White "Rasmusson"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "2kr4/p1p2ppp/3rb3/8/2P5/1R1BR3/P4PPP/5K2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "79"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "The Hague 1928"]
+[White "Becker"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "6k1/3q3p/p1p3pQ/1p1p4/3P2RP/1P3P2/r3r1P1/5R1K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "80"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Bern 1932"]
+[White "Colin"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "6k1/6pp/p1p3r1/3p4/P2P1Pq1/1R2PR2/2Q1K1P1/7r b - - 0 1"]
+[Type "Easy"]
+[Puzzle "81"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Netherlands 1932"]
+[White "Van Foreest"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "1r2nrk1/p1p2pp1/4bb1p/3p4/q4B2/P1PB1Q1P/1P2NPP1/1R1R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "82"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Netherlands (23) 1935"]
+[White "Alekhine"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "5rk1/p4ppp/b3p3/2n1N3/Pp2P3/1P1r4/3N1PPP/R2R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "83"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Bad Nauheim 1937"]
+[White "Euwe"]
+[Black "Bogoljubov"]
+[Result "*"]
+[FEN "2r1r2k/p4pp1/2pBnb1p/q1Pp4/3P4/P2R4/2Q1NPPP/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "84"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Beverwijk 1941"]
+[White "Cortlever"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "r1bn1b1r/pp2k1pp/5p2/1B2p3/5B2/5N2/PPP2PPP/2KR3R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "85"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Zurich 1947"]
+[White "Euwe"]
+[Black "Grob"]
+[Result "*"]
+[FEN "2r2rk1/5ppp/p1pp4/2p1n1q1/4P2b/1PN4P/PBPRQPP1/R5K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "86"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1948"]
+[White "Van Scheltinga"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "8/2q3pk/1p2p2p/2n5/2B5/P3PQ2/5PKP/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "87"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Baarn 1949"]
+[White "Visser"]
+[Black "Euwe"]
+[Result "*"]
+[FEN "r7/3k3p/6p1/N1P2p2/1p2p2P/3bPP2/5KP1/R7 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "88"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1954"]
+[White "Euwe"]
+[Black "Cortlever"]
+[Result "*"]
+[FEN "4rrk1/pp2p3/2pqP1p1/4Rp1p/P2P1n1P/6Q1/1P3PP1/1N1R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "89"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Munich (ol) 1958"]
+[White "Euwe"]
+[Black "Cintron"]
+[Result "*"]
+[FEN "3r2k1/2q1b2p/ppnpPpp1/2pB4/2P2PPB/PP1R3P/3Q4/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "90"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Nottingham 1936"]
+[White "Alexander"]
+[Black "Botvinnik"]
+[Result "*"]
+[FEN "3r2k1/p1q2pbp/1pn1p1p1/2p5/4P3/4B1P1/PPP1RPBP/2Q4K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "91"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1945"]
+[White "Lilienthal"]
+[Black "Botvinnik"]
+[Result "*"]
+[FEN "1k6/pp3pp1/rr6/3p2Np/2pPnP2/q1P1P2P/P1R3P1/K1QR4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "92"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1947"]
+[White "Botvinnik"]
+[Black "Pachman"]
+[Result "*"]
+[FEN "r3r1k1/ppp2ppp/2nb1q2/6Rn/2BP4/P1NQBP1P/1P3P2/2KR4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "93"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1966"]
+[White "Botvinnik"]
+[Black "Petrosian"]
+[Result "*"]
+[FEN "7k/p6p/6p1/2b2b2/2P5/2R1pBP1/P2rR1KP/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "94"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Leiden 1970"]
+[White "Larsen"]
+[Black "Botvinnik"]
+[Result "*"]
+[FEN "3q3k/1pp3pp/5p2/1P6/4PQ2/3B2P1/1r3b1P/R6K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "95"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1967"]
+[White "Smyslov"]
+[Black "Govbinder"]
+[Result "*"]
+[FEN "r4rk1/p3qpp1/2p2n2/3pb2p/3Q2B1/1PN1P3/PB3PPP/2R2RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "96"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Riga 1951"]
+[White "Shenreder"]
+[Black "Tal"]
+[Result "*"]
+[FEN "r4rk1/pp1b3p/2p4q/3p1p2/3P2n1/2NBP1PR/PP3PK1/R2Q4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "97"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Munich (ol) 1958"]
+[White "Tal"]
+[Black "Tringov"]
+[Result "*"]
+[FEN "r3kr2/1p1b1pp1/p1n1p2p/8/4q3/1N6/PPP1BKPP/R2Q1R2 b q - 0 1"]
+[Type "Easy"]
+[Puzzle "98"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Portoroz 1958"]
+[White "Rossetto"]
+[Black "Tal"]
+[Result "*"]
+[FEN "4r1k1/5p1p/2Qb2p1/3P4/6Pn/2N1B2P/1P3P1q/3R1K2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "99"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Amsterdam 1964"]
+[White "Tal"]
+[Black "Benko"]
+[Result "*"]
+[FEN "r1b1k2r/1p3pp1/p3pn2/2p1q1N1/8/1B2P3/PPP1Q2P/2KR3R w - - 0 1"]
+[Type "Easy"]
+[Puzzle "100"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Poti 1970"]
+[White "Tal"]
+[Black "Levin"]
+[Result "*"]
+[FEN "6k1/1pqrnp2/3p2p1/2pn2b1/P1Q3Pp/2B4P/1PP1RP2/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "101"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Riga 1971"]
+[White "Shmit"]
+[Black "Tal"]
+[Result "*"]
+[FEN "6k1/1p3pp1/p7/P2n1PQ1/8/8/1r3r1P/3R3K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "102"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Novi Sad 1974"]
+[White "Tal"]
+[Black "Kirov"]
+[Result "*"]
+[FEN "1r4k1/2qpn1pp/p1p1pr2/2b5/2P2P2/3B4/PP4PP/R1BQ1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "103"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tallinn 1979"]
+[White "Tal"]
+[Black "Rantanen"]
+[Result "*"]
+[FEN "1rq1r2k/5Rbp/p2p1p1B/2p1p3/2P1P2Q/1P6/P5PP/3b2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "104"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Yerevan 1980"]
+[White "Tal"]
+[Black "Grigorian"]
+[Result "*"]
+[FEN "5bk1/p2Q1p2/q4p2/4r2p/3pr3/8/PPRRNPPP/5K2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "105"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Sochi 1986"]
+[White "Meduna"]
+[Black "Tal"]
+[Result "*"]
+[FEN "6k1/q4pp1/4p2p/1p1r4/1PpPQ3/r1P1R1P1/4RP1P/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "106"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Boston (simul) 1988"]
+[White "Tal"]
+[Black "Conway"]
+[Result "*"]
+[FEN "r2qk2r/pp1n1ppb/2pbpn1p/4N3/2BP1P1P/6N1/PPP1Q1P1/R1B1K2R b kq - 0 1"]
+[Type "Easy"]
+[Puzzle "107"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Germany 1990"]
+[White "Maus"]
+[Black "Tal"]
+[Result "*"]
+[FEN "1r4k1/5n1p/5qp1/1p6/3Q4/1P4PP/P3rPB1/R2R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "108"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1947"]
+[White "Petrosian"]
+[Black "Konstantinopolsky"]
+[Result "*"]
+[FEN "r3r1k1/1p5p/p1pqn1p1/3p1p2/PP1P1P2/1Q1RP3/4B1PP/1R4K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "109"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tbilisi 1949"]
+[White "Petrosian"]
+[Black "Kasparian"]
+[Result "*"]
+[FEN "3r2k1/p2r1p2/4b1p1/qPp1R2p/P1p4P/8/5PP1/Q3RBK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "110"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1950"]
+[White "Petrosian"]
+[Black "Geller"]
+[Result "*"]
+[FEN "3r2k1/5qpp/pp2r3/2p2b2/nPPp1PP1/P4Q2/3N3P/R3RBK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "111"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1951"]
+[White "Poliak"]
+[Black "Petrosian"]
+[Result "*"]
+[FEN "6k1/1q1rbpp1/7p/1p1p1P2/1P2p1P1/P1Q5/4B2P/3R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "112"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1951"]
+[White "Petrosian"]
+[Black "Koliakov"]
+[Result "*"]
+[FEN "2r1b1k1/r1N2p1p/1p2p1pn/p2pP3/1b1P2P1/1P3N1P/P1R2P2/2R2BK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "113"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Saltsjobaden 1952"]
+[White "Petrosian"]
+[Black "Barcza"]
+[Result "*"]
+[FEN "r4rk1/2n1q2p/b1n1p1p1/pp1pPpN1/P1pP1N1P/2P3P1/1P3PB1/R2QR1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "114"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1960"]
+[White "Nei"]
+[Black "Petrosian"]
+[Result "*"]
+[FEN "3r1n1k/3P3p/pp3q2/2pQp3/P1P3B1/3b2R1/1P5P/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "115"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (10) 1966"]
+[White "Petrosian"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "6k1/5r1p/p2N4/nppP2q1/2P5/1P2N3/PQ5P/7K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "116"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Vinkovci 1970"]
+[White "Petrosian"]
+[Black "Tomic"]
+[Result "*"]
+[FEN "Q7/2r2rpk/2p4p/7N/3PpN2/1p2P3/1K4R1/5q2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "117"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Lone Pine 1978"]
+[White "Janosevic"]
+[Black "Petrosian"]
+[Result "*"]
+[FEN "6rk/p3p2p/1p2Pp2/2p2P2/2P1nBr1/1P6/P6P/3R1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "118"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Teslic 1979"]
+[White "Petrosian"]
+[Black "Ivkov"]
+[Result "*"]
+[FEN "8/pr1r3p/6p1/2p1pk2/3b2N1/1P4P1/P2R1PKP/4R3 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "119"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Niksic 1983"]
+[White "Petrosian"]
+[Black "Ljubojevic"]
+[Result "*"]
+[FEN "r5k1/pp1b2pp/4q3/n7/3Rp3/P7/5QPP/2B2RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "120"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Antwerp 1955"]
+[White "Purdy"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2ppbp/2n3p1/2pn4/3p1P2/NP2PN2/PBPPB1PP/3RQRK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "121"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1961"]
+[White "Averbakh"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "8/4r1k1/4qp2/1p6/3R4/P1N2QPp/1PP2K1P/4r3 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "122"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Leningrad 1962"]
+[White "Spassky"]
+[Black "Shofman"]
+[Result "*"]
+[FEN "2kr3r/pbpq4/1p5p/4PpP1/P2p4/2P2Q2/2P2P2/R1B1KB1R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "123"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Yerevan 1962"]
+[White "Spassky"]
+[Black "Korelov"]
+[Result "*"]
+[FEN "8/4r1p1/p2k1p1p/1bNp3P/3P1K2/2P2P2/6P1/1R6 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "124"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1964"]
+[White "Spassky"]
+[Black "Vranesic"]
+[Result "*"]
+[FEN "4kb1r/1br4p/p3p1p1/1p3R2/1n2p3/PNN1B3/1PP3PP/2R3K1 w k - 0 1"]
+[Type "Easy"]
+[Puzzle "125"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Santa Monica 1966"]
+[White "Ivkov"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "8/4k1p1/1p2pp1p/p6P/2n1PN2/4qPP1/1P4K1/3Q4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "126"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Kiev 1968"]
+[White "Spassky"]
+[Black "Korchnoi"]
+[Result "*"]
+[FEN "8/5r1k/p3Npp1/4p3/3nP3/4QP2/PP2q1P1/1KR5 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "127"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Amsterdam 1970"]
+[White "Hartoch"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "3Rb3/6kp/6p1/3P1p2/3q4/Q5PP/P1r1r1B1/6RK w - - 0 1"]
+[Type "Easy"]
+[Puzzle "128"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Geneva 1977"]
+[White "Spassky"]
+[Black "Portisch"]
+[Result "*"]
+[FEN "2r2nk1/p2q1pp1/1p2b2p/3p4/3P1P2/4R1P1/PP1Q3P/1B2R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "129"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Lugano 1982"]
+[White "Spassky"]
+[Black "Hoffmann"]
+[Result "*"]
+[FEN "b2r4/p4Brk/1pqp1Qp1/2p2pPp/5P2/3P4/PP5P/2B1RRK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "130"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Zurich 1984"]
+[White "Spassky"]
+[Black "Dueckstein"]
+[Result "*"]
+[FEN "2kn3r/pp1b4/2n1p1p1/q2pP1P1/2pN1P2/P1P3K1/2PB4/R2Q3B b - - 0 1"]
+[Type "Easy"]
+[Puzzle "131"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Montpellier 1985"]
+[White "Ribli"]
+[Black "Spassky"]
+[Result "*"]
+[FEN "7k/8/7P/6K1/6Q1/6P1/7q/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "132"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Montpellier 1991"]
+[White "Spassky"]
+[Black "Santo-Roman"]
+[Result "*"]
+[FEN "r4rk1/pp5p/2pp4/2n3q1/2b2p1R/2N3P1/PP1QPPB1/2KR4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "133"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "USA 1957"]
+[White "Fischer"]
+[Black "Bennett"]
+[Result "*"]
+[FEN "2q4k/p6p/6p1/5p2/5P1P/1Bb2QP1/Pr6/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "134"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Milwaukee 1957"]
+[White "Buerger"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "3r2k1/5rbp/pp3np1/3P4/1B1N1R2/8/P5PP/5RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "135"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Leipzig (ol) 1960"]
+[White "Ghitescu"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "r1bqr1k1/p1p2ppp/3b1n2/2P3B1/8/2NQ1N2/PP3PPP/R4RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "136"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Los Angeles 1961"]
+[White "Reshevsky"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "r4rk1/2p3b1/3p2qp/p1PPp3/4Rn2/P5Q1/3B1NPP/2R3K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "137"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Varna (ol) 1962"]
+[White "Fischer"]
+[Black "Purevzhav"]
+[Result "*"]
+[FEN "2rq1rk1/pp3pb1/3p2pB/n4P2/4pP2/1BNQ4/PKP3P1/3R3R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "138"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Stockholm 1962"]
+[White "Bertok"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "rr4k1/1q3p2/4b2p/p2n2p1/2B5/Q3P3/PP1R1PPP/3R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "139"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bay City 1963"]
+[White "Fischer"]
+[Black "Fuller"]
+[Result "*"]
+[FEN "3r1rk1/ppp1qpp1/2p1b2p/4P3/3nNQ1P/5N2/PPP2PP1/R4RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "140"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Detroit (simul) 1964"]
+[White "Fischer"]
+[Black "Richburg"]
+[Result "*"]
+[FEN "2brrbk1/2q2p1p/p4np1/1ppPp3/4P3/BP2N1P1/P3QPBP/2RR2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "141"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "New York 1965"]
+[White "Fischer"]
+[Black "Byrne"]
+[Result "*"]
+[FEN "r4rk1/ppp1bppp/2N2n2/7q/6b1/2P5/PP1NBPPP/R1B1QRK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "142"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Zagreb 1970"]
+[White "Fischer"]
+[Black "Gligoric"]
+[Result "*"]
+[FEN "r1nq1n2/3b2k1/p2p1p1R/Pp1Pp1p1/1Pp1P1P1/2P1BPN1/2BQ2K1/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "143"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Palma de Mallorca 1970"]
+[White "Reshevsky"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "4rbk1/3Q1ppp/3p4/3P4/5q2/B7/P5PP/5RK1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "144"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Palma de Mallorca 1970"]
+[White "Gligoric"]
+[Black "Fischer"]
+[Result "*"]
+[FEN "r1b5/5pk1/1p1p3p/3Pq1p1/PQ2Pn2/5P2/5RPP/3R3K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "145"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Rostov on Don 1971"]
+[White "Peresipkin"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "6rk/7p/p2Q4/1p2r3/8/4NP1q/PPP4P/5R1K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "146"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Hastings 1972"]
+[White "Karpov"]
+[Black "Franklin"]
+[Result "*"]
+[FEN "1r2b1k1/R4nqp/4p3/1pR5/1P1P1r2/5N2/1Q2B1P1/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "147"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Skopje (ol) 1972"]
+[White "Saren"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "2rb1qk1/1b4pp/3p4/1P2pr2/2n2PB1/2NQ2P1/P1N4P/R2R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "148"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1976"]
+[White "Karpov"]
+[Black "Kupreichik"]
+[Result "*"]
+[FEN "8/2b2k1p/pp1P3r/2p3p1/6P1/1P2R2P/5P2/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "149"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1977"]
+[White "Portisch"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "r3rnk1/1N3ppp/1p6/p1Pp2q1/8/6P1/PP2PPBP/2R1Q1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "150"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Leningrad 1977"]
+[White "Karpov"]
+[Black "Taimanov"]
+[Result "*"]
+[FEN "8/6k1/1P1p2p1/3Ppn2/3q4/8/6PP/rR2QB1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "151"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Baguio City (17) 1978"]
+[White "Korchnoi"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "8/7R/2r5/8/P3n3/8/3nk1PP/R5K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "152"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1983"]
+[White "Karpov"]
+[Black "Geller"]
+[Result "*"]
+[FEN "3rrk2/R4ppB/7p/1p2N1q1/nPbP1p2/2PQ1P2/6PP/4R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "153"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Oslo 1984"]
+[White "Karpov"]
+[Black "Agdestein"]
+[Result "*"]
+[FEN "5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK1P/3R4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "154"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Brussels 1986"]
+[White "Karpov"]
+[Black "Miles"]
+[Result "*"]
+[FEN "3rrnk1/1bq2pp1/ppnppb1p/8/2P1PPQ1/1PN2N2/PB4PP/1B1R1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "155"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow 1988"]
+[White "Karpov"]
+[Black "Gavrikov"]
+[Result "*"]
+[FEN "1n3rk1/p2pQpp1/4q2p/1r6/4B3/4P1P1/P4P1P/2RR2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "156"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Linares (7) 1992"]
+[White "Karpov"]
+[Black "Short"]
+[Result "*"]
+[FEN "4R3/p4pk1/5qpp/1PnP4/3Q3P/6P1/r1r1BPK1/3R4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "157"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tilburg 1992"]
+[White "Chernin"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "4rrk1/1p1n1pb1/2ppq1p1/p3p1Bp/P1P1P2P/2NP2P1/1P2QPK1/3R1R2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "158"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Linares 1993"]
+[White "Karpov"]
+[Black "Salov"]
+[Result "*"]
+[FEN "r3rbk1/1b3Npp/1q1p2n1/2pP4/5R2/1PN3Q1/4P1BP/5R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "159"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Monte Carlo 1997"]
+[White "Karpov"]
+[Black "Van Wely"]
+[Result "*"]
+[FEN "5nk1/1b1qQpp1/p3p3/3pP1N1/3P3P/1p1B4/1P3PP1/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "160"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Frankfurt 1997"]
+[White "Karpov"]
+[Black "Lobron"]
+[Result "*"]
+[FEN "4r2k/3n2bB/2p1NqQ1/2Pp4/5B2/r6P/5PP1/4R1K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "161"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Cap dâAgde 2000"]
+[White "Karpov"]
+[Black "Gurevich"]
+[Result "*"]
+[FEN "2b4k/p3q2p/2p1p3/2PpPpr1/3P3Q/4P2B/3b1B1P/R6K b - - 0 1"]
+[Type "Easy"]
+[Puzzle "162"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Bastia (rapid) 2003"]
+[White "Karpov"]
+[Black "Shirov"]
+[Result "*"]
+[FEN "7r/3b1pk1/2p2qp1/8/1P1bNP2/r2B4/3Q2PP/2R2R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "163"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bucharest (rapid) 2005"]
+[White "Istratescu"]
+[Black "Karpov"]
+[Result "*"]
+[FEN "1r1r4/5ppk/1p5p/2b1Pp1Q/8/q7/3B1PPP/2RR2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "164"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Tallinn (rapid) 2006"]
+[White "Karpov"]
+[Black "Shirov"]
+[Result "*"]
+[FEN "4kr2/p1Bbpp2/1p4p1/n6p/2B1P2P/2K2P2/P2R2P1/8 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "165"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Tallinn (rapid) 2006"]
+[White "Karpov"]
+[Black "Agrest"]
+[Result "*"]
+[FEN "2n2k2/2b2pp1/2p1pnp1/2Pp2N1/3P1PP1/3BP2P/3BK3/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "166"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Teheran 2009"]
+[White "Karpov"]
+[Black "Ghaem Maghami"]
+[Result "*"]
+[FEN "r5k1/pb1p1Rpq/2n1p1Q1/1p2P3/3P2P1/P7/1P1K4/5R2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "167"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Baku 1980"]
+[White "Kasparov"]
+[Black "Antoshin"]
+[Result "*"]
+[FEN "1k1r1q1r/2p2ppp/Qp6/3b1N2/8/P5P1/1P3P1P/2R2RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "168"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Frunze 1981"]
+[White "Tukmakov"]
+[Black "Kasparov"]
+[Result "*"]
+[FEN "6k1/4qp2/1B4pp/2R1b3/P2Nb3/1P2Q3/r4PPP/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "169"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Hamburg 1985"]
+[White "Kasparov"]
+[Black "Comp Mephisto"]
+[Result "*"]
+[FEN "R3n1k1/7p/3prppB/1p2p3/1P2P2Q/7P/5PPK/1q6 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "170"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Linares 1990"]
+[White "Portisch"]
+[Black "Kasparov"]
+[Result "*"]
+[FEN "2rr4/pp4kp/6p1/3nNp2/2B5/2n3P1/P2R1PKP/R7 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "171"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Baden-Baden 1992"]
+[White "Kasparov"]
+[Black "Wahls"]
+[Result "*"]
+[FEN "5rk1/ppr2Npp/2q1Pp2/3n4/8/6Q1/P5PP/3R1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "172"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Katowice (simul) 1993"]
+[White "Kasparov"]
+[Black "Dubiel"]
+[Result "*"]
+[FEN "r7/5kpp/2p1pq2/1bP2p2/p4Q2/5BP1/PP3P1P/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "173"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Zurich 2001"]
+[White "Pelletier"]
+[Black "Kasparov"]
+[Result "*"]
+[FEN "8/1p3pkp/pb2p1p1/8/4P2P/1N4P1/P1R1KP2/7r b - - 0 1"]
+[Type "Easy"]
+[Puzzle "174"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Astana 2001"]
+[White "Kasparov"]
+[Black "Shirov"]
+[Result "*"]
+[FEN "2r5/pp1b4/4p3/3pPk2/5P2/8/1K6/3R2R1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "175"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Minsk 1986"]
+[White "Anastasian"]
+[Black "Khalifman"]
+[Result "*"]
+[FEN "r2r2k1/1p1n1bpp/1pp1pp2/8/Pb1PP1P1/1BNRBP1P/1P3K2/2R5 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "176"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Rakvere 1993"]
+[White "Ehlvest"]
+[Black "Khalifman"]
+[Result "*"]
+[FEN "8/1R3pbp/4p1k1/5p2/8/2N2P2/1P1r1P1P/4K3 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "177"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 1995"]
+[White "Khalifman"]
+[Black "Rashkovsky"]
+[Result "*"]
+[FEN "5k1r/ppq3b1/8/3Pp2p/3n4/7Q/PP3PPP/3RR1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "178"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "St Petersburg 1997"]
+[White "Khalifman"]
+[Black "Sosonko"]
+[Result "*"]
+[FEN "r3qn1k/pp3pp1/2b1p2p/4P1BP/2B3Q1/8/PPP3P1/2K1R3 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "179"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Stockholm 1997"]
+[White "Ptacnikova"]
+[Black "Khalifman"]
+[Result "*"]
+[FEN "3r2k1/1b3p1p/pp4p1/4PqP1/3NpP2/1P2Q2P/P6K/2R5 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "180"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Stockholm 1997"]
+[White "Khalifman"]
+[Black "Kupreichik"]
+[Result "*"]
+[FEN "4r1rk/p3q2p/3p1n1Q/3P4/Pp1n1P2/3BN2R/1PPK1P2/R7 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "181"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bad Wiessee 1998"]
+[White "Khalifman"]
+[Black "Gabriel"]
+[Result "*"]
+[FEN "2kr3r/1pq3p1/p1p3Qp/P1n1p3/8/RbN1P1P1/1P2P1BP/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "182"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Germany 1999"]
+[White "Slobodjan"]
+[Black "Khalifman"]
+[Result "*"]
+[FEN "2rq1rk1/1p4bp/4p1p1/p2p1bP1/P2N4/2PnB3/QP4BP/R5RK b - - 0 1"]
+[Type "Easy"]
+[Puzzle "183"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow 2011"]
+[White "Khalifman"]
+[Black "Bukavshin"]
+[Result "*"]
+[FEN "2k4r/pp3p2/1np3q1/2Q3p1/3R4/1P2P1P1/P4PB1/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "184"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Wijk aan Zee (blitz) 1999"]
+[White "Kramnik"]
+[Black "Reinderman"]
+[Result "*"]
+[FEN "r1b2rk1/p1q2n1p/6p1/2Ppp3/8/2Q2NPP/P4PB1/1R3RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "185"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (blitz) 2007"]
+[White "Kramnik"]
+[Black "Bacrot"]
+[Result "*"]
+[FEN "1r6/RP5p/P1kp4/2n2p2/8/4PKP1/5P1P/8 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "186"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (blitz) 2009"]
+[White "Kramnik"]
+[Black "Aronian"]
+[Result "*"]
+[FEN "r2qk2r/3bb1pp/5p2/1p1Q4/1pNP4/4P3/PB4PP/R4RK1 w kq - 0 1"]
+[Type "Easy"]
+[Puzzle "187"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Leuven (blitz) 2016"]
+[White "Kramnik"]
+[Black "Giri"]
+[Result "*"]
+[FEN "r3k1r1/p4p1p/3bpBp1/3p1b2/5P2/3BP2P/PP4P1/1K1R3R w q - 0 1"]
+[Type "Easy"]
+[Puzzle "188"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Dortmund 1996"]
+[White "Anand"]
+[Black "Lobron"]
+[Result "*"]
+[FEN "4r2k/6b1/8/p2R3p/1pP1p1Nq/8/PP3P1P/3Q3K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "189"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Mainz 2002"]
+[White "Anand"]
+[Black "Ponomariov"]
+[Result "*"]
+[FEN "2r4k/2q4p/p2bPp2/1p6/6QP/3B4/PPP5/1K4R1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "190"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Calvia (ol) 2004"]
+[White "Anand"]
+[Black "Charbonneau"]
+[Result "*"]
+[FEN "3n4/2p2pk1/3r2p1/6Np/1P1q3P/4QR2/5PP1/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "191"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Reykjavik (blitz) 2006"]
+[White "Carlsen"]
+[Black "Anand"]
+[Result "*"]
+[FEN "r1q2rk1/3bpp1p/3p2p1/3P4/Pnn1P3/2N2NP1/1R1Q1PB1/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "192"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Bastia 2014"]
+[White "Skomorokhin"]
+[Black "Anand"]
+[Result "*"]
+[FEN "2r2rk1/p4ppp/1p6/2b5/5Pn1/1Q2PR1P/P5P1/R1B1qBK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "193"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Stavanger 2015"]
+[White "Anand"]
+[Black "Hammer"]
+[Result "*"]
+[FEN "5r1k/2p5/5qp1/1Pb1p2p/4B2P/3P2P1/4QPK1/5R2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "194"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Torshavn 2000"]
+[White "Ponomariov"]
+[Black "Conquest"]
+[Result "*"]
+[FEN "2kB2r1/p3R3/q1p3r1/bp2Qp2/2PP3p/1P4P1/P4P2/5K2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "195"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Moscow (4) 2001"]
+[White "Ponomariov"]
+[Black "Bareev"]
+[Result "*"]
+[FEN "1r3k2/2p3Rp/2b5/p1Pp2p1/P2B1pq1/2PB2P1/7P/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "196"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Moscow (blitz) 2010"]
+[White "Grachev"]
+[Black "Ponomariov"]
+[Result "*"]
+[FEN "6k1/5rpp/4Qn2/3p4/1q1P4/1p2P2P/6P1/3B1RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "197"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Khanty-Mansiysk (2) 2011"]
+[White "Ponomariov"]
+[Black "Ivanchuk"]
+[Result "*"]
+[FEN "6rk/7p/8/1p3R2/pN6/P1n2B1P/4brPK/4R3 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "198"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Khanty-Mansiysk (blitz) 2013"]
+[White "Ponomariov"]
+[Black "Rublevsky"]
+[Result "*"]
+[FEN "2r3k1/p2b2pp/1pqr4/2p1R3/4P3/P1Q3PP/1P4BK/3R4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "199"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tashkent 1993"]
+[White "Kasimdzhanov"]
+[Black "Kaiumov"]
+[Result "*"]
+[FEN "r3r1k1/p2q1pbp/6p1/3Q2B1/8/5P2/PP4PP/R2R2K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "200"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Tashkent 1993"]
+[White "Kasimdzhanov"]
+[Black "Grinshpun"]
+[Result "*"]
+[FEN "3r2k1/pp4qn/3p1ppQ/2pPp3/4P1N1/1P2P2R/1PP3PP/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "201"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Szeged 1994"]
+[White "Matikozian"]
+[Black "Kasimdzhanov"]
+[Result "*"]
+[FEN "4r2k/p4rp1/1pb3qp/3NB3/2P1Q2n/1P1R4/1P4PP/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "202"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Macau 1996"]
+[White "Kasimdzhanov"]
+[Black "Kalandar Khaled"]
+[Result "*"]
+[FEN "2b3k1/r2r1pp1/p3p2p/1pq1P3/4B2Q/2P5/P4PPP/3RR1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "203"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Teheran 1998"]
+[White "Kasimdzhanov"]
+[Black "Al Modiahki"]
+[Result "*"]
+[FEN "2r5/R2b1pk1/3q1bpp/1p1Pp3/4P3/3P3P/1Q1NBPP1/6K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "204"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Germany 2002"]
+[White "Kasimdzhanov"]
+[Black "Golubev"]
+[Result "*"]
+[FEN "r6k/7p/1Qp2rpq/p3p3/2B1P3/2B2P1n/P5PK/1R6 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "205"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Germany 2003"]
+[White "Kasimdzhanov"]
+[Black "Volokitin"]
+[Result "*"]
+[FEN "6rk/p6n/3p4/2pPb2q/4N3/P2BQPp1/6K1/7R b - - 0 1"]
+[Type "Easy"]
+[Puzzle "206"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Baku 2005"]
+[White "Kasimdzhanov"]
+[Black "Mamedyarov"]
+[Result "*"]
+[FEN "5rk1/p4qp1/2p4p/1p2Pn2/2pP2Q1/2P4P/P2B3K/5R2 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "207"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Karjakin â Kasimdzhanov. Tashkent 2014"]
+[White "Karjakin"]
+[Black "Kasimdzhanov. Tashkent 2014"]
+[Result "*"]
+[FEN "1r3qbk/1p2rpp1/p1p2n1p/PnN1NP2/1P2PQ2/3P1B1P/7K/1R4R1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "208"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Sarajevo 1999"]
+[White "Timman"]
+[Black "Topalov"]
+[Result "*"]
+[FEN "4r1k1/2BR3p/8/5Rp1/4n1K1/4P1P1/1P2P2P/5r2 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "209"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Cala Galdana 1999"]
+[White "Topalov"]
+[Black "Illescas"]
+[Result "*"]
+[FEN "4rrk1/p2pB1pp/2p5/2P1R3/3QN3/Pq2n3/1P4PP/2KR4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "210"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Dortmund 2005"]
+[White "Topalov"]
+[Black "Naiditsch"]
+[Result "*"]
+[FEN "1n3q1k/r2r3p/p3Q3/1p6/8/2P3R1/P4PPP/4R1K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "211"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Nice (blindfold) 2009"]
+[White "Kamsky"]
+[Black "Topalov"]
+[Result "*"]
+[FEN "1qr1r1k1/2b2ppp/Bpb1p3/4n3/P7/2N1BP2/1PP3PP/3RR1QK w - - 0 1"]
+[Type "Easy"]
+[Puzzle "212"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Hoogeveen 2004"]
+[White "Sokolov"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "2rb2k1/5pp1/2p1pn1p/2P5/1N1Pp3/4P1BP/5PP1/1R4K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "213"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Khanty-Mansiysk (2) 2005"]
+[White "Kamsky"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "5r1k/q3bQpp/2B5/1P2p3/4P3/p1P5/5PPP/5RK1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "214"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Reykjavik (blitz) 2006"]
+[White "Stefansson"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "2r3k1/4bpp1/4pn1p/1p6/q1r5/2BR1BP1/PQ2PPKP/3R4 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "215"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Reykjavik (blitz) 2006"]
+[White "Erenburg"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "4r1k1/5p2/p5pp/P1p2q2/3Nr3/3Q4/5PPP/1RR3K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "216"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Internet 2006"]
+[White "Todorovic"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "2r3k1/5p2/p3bBp1/1p5p/4P3/1P4qP/P5P1/1B1RR2K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "217"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Cap dâAgde 2006"]
+[White "Carlsen"]
+[Black "Fressinet"]
+[Result "*"]
+[FEN "1r5k/6pp/2p1r3/1R1p4/pn1P1q2/3Q1P2/PP3BPP/3R2K1 b - - 0 1"]
+[Type "Easy"]
+[Puzzle "218"]
+[PlyCount "0"]
+
+1... *
+
+
+[Event "Monte Carlo (blindfold) 2011"]
+[White "Ivanchuk"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "r2r2k1/1bqp1ppp/ppnbpn2/8/2PNP3/P1N1BP2/1P2B1PP/2RQ1R1K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "219"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Shamkir 2014"]
+[White "Caruana"]
+[Black "Carlsen"]
+[Result "*"]
+[FEN "2k1r3/p1pbbpp1/1p5p/2pNP3/2P3P1/1P3PBP/P5K1/3R4 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "220"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "Wijk aan Zee 2015"]
+[White "Carlsen"]
+[Black "Radjabov"]
+[Result "*"]
+[FEN "4r1qk/2p4n/1b3pQB/p1p5/2P1P3/1P1R3P/P5P1/6K1 w - - 0 1"]
+[Type "Easy"]
+[Puzzle "221"]
+[PlyCount "0"]
+
+ *
+
+
+[Event "New York (rapid 4) 2016"]
+[White "Carlsen"]
+[Black "Karjakin"]
+[Result "*"]
+[FEN "2R5/4bppk/1p1p4/5R1P/4PQ2/5P2/r4q1P/7K w - - 0 1"]
+[Type "Easy"]
+[Puzzle "222"]
+[PlyCount "0"]
+
+ *

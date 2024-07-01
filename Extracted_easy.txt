@@ -1,0 +1,1097 @@
+1. Carl Hamppe – Wilhelm Steinitz, Vienna 1860
+30...¦xh2†! 31.¢xh2 ¦h8 mate  Black would have been lost without this resource.
+
+
+2. Wilhelm Steinitz – J. Wilson, London 1862
+18.¦f8†! ¥xf8 19.d6† ¥e6 20.¥xe6 mate 
+
+
+3. Wilhelm Steinitz – Serafino Dubois, London (6) 1862
+The bishop on d6 is pinned and Steinitz took advantage of that with 14.¥xf4! exf4 15.e5  
+which won a piece.
+
+
+4. Valentine Green – Wilhelm Steinitz, London 1864
+31...¦d2†!–+  The queen loses its defender.
+
+
+5. Wilhelm Steinitz – George Barry, Dublin (simul) 1865
+7.¥xf7† ¢xf7 8.¤xe5†+–  White has won two pawns after 9.¤xg4.
+
+
+6. George Fraser – Wilhelm Steinitz, Dundee 1867
+19.¦xc6! bxc6 20.¥a5+–  White emerges with a queen and a knight for two rooks.
+
+
+7. Wilhelm Steinitz – Jonathan Baker, London (simul) 1868
+27...f3! The queen is overloaded and White loses the bishop on c4: 28.£xf3 ¦xc4–+  
+ 
+27...¦xc4?! 28.£xc4 f3 29.£f1² is of course not the way to go.
+
+
+8. Wilhelm Steinitz – Johannes Minckwitz, Baden-Baden 1870
+18...£xc4! There is a fork on e3 coming up: 19.£xc4 ¤e3† 20.¢e2 ¤xc4–+ 
+
+
+9. Wilhelm Steinitz – Maximilian Fleissig, Vienna 1873
+39.¦xd7! White wins back the piece with a winning advantage. 39...¢xd7 39...¦xb4† captures 
+a pawn, but the a-pawn still decides after: 40.¥xb4 ¢xd7 41.¢b5+–  40.¢xb5+– 
+
+
+10. Wilhelm Steinitz – Oscar Gelbfuhs, Vienna 1873
+34.£xf6†! Black resigned due to: 34...gxf6 35.¥f8 mate 
+
+
+11. George Mackenzie – Wilhelm Steinitz, Vienna 1882
+34.¥e4! The only drawing move, and easy to find, as Black’s mate threat means White has 
+no other sensible try. 34.¦g1?? loses to everything, but is mated most swiftly by 34...£xg2†!. 
+34...£xe4 Obviously not 34...¦xe4?? 35.£f8 mate. 35.¥f6† ¥xf6 36.£xf6†  ½–½ White 
+has a perpetual on f6 and f7.
+
+
+12. Joseph Blackburne – Wilhelm Steinitz, London 1883
+25.£h6†! ¢g8 26.¦f8†! £xf8 27.£xh7 mate 
+
+
+13. Isidor Gunsberg – Wilhelm Steinitz, New York (2) 1890
+18...¤c3! The queen can’t move and keep the bishop on d2 defended, and 19.¥xc3 ¥xc1–+  
+lost an exchange (0–1, 39 moves).
+
+
+14. Wilhelm Steinitz – Mikhail Chigorin, Havana (8) 1892
+20...¦xd3! Breaking open the king’s position to close out the game. 21.¥g2 Or 21.£xd3 £e1†  
+ 
+with mate on the next move. 21...¦hd8 There is nothing White can do against the threats to 
+penetrate on d1 or d2. The game ended after: 22.a4 ¦d1† 23.¦xd1 ¦xd1† 24.£xd1 ¤xd1 0–1
+
+
+15. Wilhelm Steinitz – Dirk van Foreest, Haarlem (simul) 1896
+38...£xf1†! Steinitz’s previous move, 38.£c4-d5, was a grave blunder. 39.¢xf1 ¦e1 mate
+
+
+16. Wilhelm Steinitz – Reyne, Haarlem (simul) 1896
+9.¤xg5! Not recapturing would be equivalent to resignation, but Black is mated if he takes the 
+knight: 9...fxg5 9...£e7+– and White won after 26 moves. 10.£h5†  ¢e7 There are several 
+ways to mate or pick up material. The quickest mate is: 11.£f7† ¢d6 12.e5† ¤xe5 13.dxe5† 
+¢xe5 14.£d5† ¢f6 15.£xg5 mate
+
+
+17. Wilhelm Steinitz – Falk, Moscow 1896
+10.¤xa7†! White wins an important pawn after: 10...¤xa7 11.¥xa6†  (1–0, 25 moves)
+
+
+18. Wilhelm Steinitz – T.J.D. Enderle, Haarlem (simul) 1896
+6.¥xf7†! Not the only time Steinitz executed this combination. White wins two pawns after: 
+6...¢xf7 7.¤xe5†+– 
+
+
+19. Jackson Showalter – Wilhelm Steinitz, Vienna 1898
+Black is two pawns up, but that doesn’t stop him from being precise: 27...¦xe3! 28.£xb4 
+28.£xe3 £c2 mate  28...¦xe2–+  White resigned five moves later.
+
+
+20. Emanuel Lasker – C.R. McBride, USA (simul) 1902
+6.¤xg5! Black cannot take back: 6...fxg5 Black instead allowed a forced mate after 6...h6. 
+7.£h5†  ¢e7 8.£f7† ¢d6 And for instance: 9.e5† ¤xe5 10.£d5† ¢e7 11.£xe5 mate
+
+
+21. Emanuel Lasker – E.W. Witchard, Gloucester (simul) 1908
+5.¤xg5! fxg5 6.£h5† ¢e7 7.£xg5†  ¢e8 8.£h5†! 
+Imprecise is 8.£e5†?! £e7 9.£xh8 £xe4†+– with some slight counterplay. 8...¢e7 9.£e5†+– 
+White picks up the rook on h8.
+
+
+22. Carl Hartlaub – Emanuel Lasker, Germany 1908
+7.¤xe5! A surprisingly common theme in Lasker’s games. 7...d5 7...fxe5 8.£h5† g6 (8...¢e7 
+9.£xe5 mate) 9.£xe5† £e7 10.£xh8+–  8.£h5† Or just as good is: 8.¦e1 fxe5 9.¦xe5† ¢d7 
+10.¥g5!+– 8...g6 One source gives this game as played in New York 1911, with 8...¢e7 9.¤f7? 
+£e8? 0–1 (??) as the final moves, none of which makes any sense. 9.¤xg6 hxg6 10.£xh8  
+ 
+Or 10.¦e1† first. 10...dxc4 There are many ways to win and you don’t have to decide in advance. 
+Easiest is: 11.¦e1† ¢f7 12.¥h6+–
+
+
+23. Emanuel Lasker – Dawid Janowski, Berlin (1) 1910
+20.¦xd5! ¦xd5 21.£xd5+–  White has won a piece, since Black cannot recapture.
+
+
+24. Emanuel Lasker – Efim Bogoljubov, Atlantic Ocean 1924
+19.¤a4!  The rook is trapped and the c5-pawn is threatened. 19...¦a3 20.£b2 Lasker played 
+20.¤xc5± and won after 22 moves, but the text is better. 20...b4 21.£xe5± Black loses a second 
+pawn.
+
+
+25. George Thomas – Emanuel Lasker, Nottingham 1936
+38...¦xe5! 39.£xe5 £f3† 40.¢g1 £xd1†  41.¢f2 £d7µ It is probably a theoretical draw, 
+but that does not change the verdict during a game between humans (0–1, 55 moves).
+
+
+26. Jose Raul Capablanca – C.E. Watson, Schenectady 1909
+White has a minor piece less, but can more than make up for it with the following double threat: 
+30.¦f6! ¤xf6 31.¦xf6  £h5 32.¥d1 Not necessary, but a luxury White can afford. 32.¤xe6 
+and 32.¦xe6 are also winning. 32...£e8 33.¦xe6+– Black is an exchange up, but since he has no 
+chance against all the pawns and an invasion on the kingside, he resigned now.
+
+
+27. Jose Raul Capablanca – E.B. Schrader, Saint Louis (simul) 1909
+23.£xh5! The fork on f6 gains a piece. 23...£xh5 24.¤f6† ¢h8 25.¤xh5+– 
+
+
+28. Jose Raul Capablanca – D.W. Pomeroy, Saint Louis (simul) 1909
+21...¦xg2†!  White resigned, since he is mated after: 22.¢xg2 ¦g8† Or 22...£g6†. 23.¢h1 
+£xh6† 24.£h5 £xh5 mate
+
+
+29. Jose Raul Capablanca – T.A. Carter, Saint Louis (simul) 1909
+28.£g7†! ¦xg7 29.hxg7† ¢g8 30.¦h8 mate 
+
+
+30. Jose Raul Capablanca – Frank Marshall, New York 1910
+28.¤f6†! Black could have resigned here, but continued until move 43. 28...gxf6 29.¦xe8†+– 
+
+
+31. Jose Raul Capablanca – Luis Piazzini, Buenos Aires 1911
+34...¦xh4†! Black can also start by exchanging on c4. 35.gxh4 g3† 36.¢g1 gxf2†  37.¢xf2–+ 
+ 
+Instead of being an exchange up, Black is a rook up.
+
+
+32. Jose Raul Capablanca – Rasmussen, Copenhagen (simul) 1911
+35...¦xf2! Defending against the double threat and getting a queen ending with two healthy 
+pawns and a safe king. 36.£xf2 £xe6†–+ 
+
+
+33. Jose Raul Capablanca – Will Randolph, New York 1912
+31.£xg5! 31.¦xg8† ¦xg8 32.£xg8† is another way to do the same thing. 31...hxg5 32.¦xg8† 
+Black resigned since he will be a piece down: 32...¢xg8 33.¤f6† ¢f7 34.¤xd7+– 
+
+
+34. Jose Raul Capablanca – F.S. Dunkelsbuhler, London (simul) 1913
+15.£xd5!+– Black resigned, as he is mated after: 15...£xd5 16.¦e8† ¦f8 17.¦xf8 mate 
+
+
+35. Albert Beauregard Hodges – Jose Raul Capablanca, New York 1915
+24...¥xe4! White’s pieces are overloaded and Black won a pawn after: 25.¥xe4 ¦xc4–+ 
+
+
+36. Jose Raul Capablanca – Einar Michelsen, New York (simul) 1915
+35.¦xe6†! ¢xe6 36.¥d5† ¢d6 37.¥xg8+–  Black’s rook is unable to fight against the two 
+passed pawns. The final moves were: 37...¦e7 38.c5† ¢c6 39.¥d5† ¢b5 40.g6 1–0
+
+
+37. Jose Raul Capablanca – N.N., New York 1918
+14.¥xg7†! ¢xg7 15.£g5† ¢h8 16.£f6 mate 
+
+
+38. Jose Raul Capablanca – J. Birch, Glasgow 1919
+31...¦xd3! 31...£h1†?? 32.£xh1 would be a terrible blunder. The game move wins a piece after: 
+32.cxd3 £e5† 33.¢d2 £xa1–+ 
+
+
+39. Jose Raul Capablanca – G.H. Hadland, Thornton Heath 1919
+21.¥xh7†! ¢h8 Or 21...¢xh7 22.g6†+–  with a fork. 22.¥g6 And White won.
+
+
+40. Jose Raul Capablanca – Milan Vidmar, London 1922
+22.¥h7†! 22.£xd7 ¦xc2 is equal. 22...¢xh7 23.¦xc8 ¦xc8 24.£xc8+–  White is an exchange 
+up.
+
+
+41. Jose Raul Capablanca – W. Malowan, New York (simul) 1922
+36.¤xf7†?! looks like a combination and was played in the game, but Black had 36...¦xf7 37.g6 
+¦xf5†! 38.¦xf5 ¦g7 when he collects the g-pawn with a draw. Instead normal moves give two 
+points. A good choice is 36.f6 ¦g6 37.¥f4!+– when Black’s rooks are trapped and he can’t 
+sacrifice the exchange in a good way.
+
+
+42. Jose Raul Capablanca – N.N., Moscow (simul) 1925
+17.¤d6†! Black resigned due to: 17...cxd6 18.¥g6+– 
+
+
+43. Jose Raul Capablanca – Jacques Mieses, Bad Kissingen 1928
+31.¦xb6! Winning a second pawn. 31...axb4 Or 31...¦xb6 32.¤xd5+–  with a fork. 32.¦xb7 
+¦xb7 33.¦xb4 1–0 The endgame is hopeless for Black.
+
+
+44. Jose Raul Capablanca – Arpad Vajda, Budapest 1929
+22.¥xa6! White wins a pawn due to: 22...bxa6 23.¦c6† ¢e7 24.¦xb6+– 
+
+
+45. Jose Raul Capablanca – Albert Becker, Karlsbad 1929
+17.¤xh7! f5 Instead 17...¢xh7 can be met by 18.¤f6†+–  with a discovered check, or 
+18.¤c3†+–. 18.¤hg5 18.¤xf8 fxe4 19.¥c4 is also winning. In the game, Black resigned due 
+to: 18...fxe4 19.¥xe4 The bishop on b7 is doomed. (White could also go for the king with 
+19.¥c4+–, forcing Black to give up his queen.)
+
+
+46. Jose Raul Capablanca – Manuel Larrea, Mexico (simul) 1933
+11.¤db5! 11.¤cb5 is the same. 11...axb5 12.¤xb5 ¥g3† Regaining the pawn does little to 
+alleviate the real problems of the black position – his weaknesses on the dark squares (and the 
+b6-pawn) and lack of development. 13.hxg3 £xg3† 14.¥f2+– 
+
+
+47. Vera Menchik – Jose Raul Capablanca, Margate 1935
+30...¦xe4! 31.£xe4 £a1†  With back-rank mate.
+
+
+48. Jose Raul Capablanca – Grigory Levenfish, Moscow 1935
+25.¤xf7! ¦xf7 26.£h7†! ¢f8 27.£h8 mate 
+
+
+49. Jose Raul Capablanca – Mikhail Botvinnik, Moscow 1936
+34.¦xd5! White wins a pawn, since 34...cxd5 35.¥xd5†+–  is a fork.
+
+
+50. Jose Raul Capablanca – Guillermo Vassaux, Buenos Aires (ol) 1939
+28.¦xh7†! ¢xh7 29.£h3† ¢g7 30.£h6 mate 
+
+
+51. Alexander Alekhine – Sergey Petrov, corr. 1902
+16...¥xg2! Highlighting the usefulness of the active d4-rook. 17.£g3 17.£xg2 ¦g4–+  pins 
+the queen. 17...¦g4  18.¥xc5 ¦xg3 19.fxg3 ¦e8–+
+
+
+52. Apollon Viakhirev – Alexander Alekhine, corr. 1906
+35...£g2†! 36.¦xg2 fxg2 mate 
+
+
+53. Benjamin Blumenfeld – Alexander Alekhine, Moscow (2) 1908
+31...f3† 32.¢g1 £xf1†! 33.¢xf1 ¦d1 mate 
+
+
+54. J. Goldfarb – Alexander Alekhine, St Petersburg 1909
+17...¥xh2†! 18.¢xh2 £h4† 19.¦h3 £xe1µ  Undefended pieces...
+
+
+55. Alexander Alekhine – B. Lyubimov, Moscow 1909
+White reduces the material deficit from a piece to an exchange with: 21.¦xf5! gxf5 22.£xg7±  
+Considering the weak dark squares and exposed king, his position is clearly superior.
+
+
+56. Alexander Alekhine – Stefan Izbinsky, St Petersburg 1909
+19.¥xh7†! Forcing the king to leave the defence of the rook. 19...¢xh7 20.£xf8+– 
+
+
+57. V. Rozanov/N. Tselikov – Alexander Alekhine, Moscow 1915
+27...£xe1†! 27...¦xf3 28.¦f1 £xf1†! (28...£xe2?? 29.£c8† ¦f8 30.£xf8 mate) 29.¥xf1 ¤f2† 
+30.¢g2 ¤xh3 31.¢xf3 ¤g5† is also winning for Black, although it doesn’t look so simple with 
+White’s king active after 32.¢f4 ¤f7 33.¢f5 (one point). 28.¤xe1 ¤f2† 29.¢g2 ¤xh3 30.¤f3 
+30.¢xh3 ¦e8!–+  30...¦xf3 Black could also have achieved a winning position by going for the 
+a-pawn, but this is simple. 31.¥xf3 31.¢xf3 ¤g1†–+  31...¤g5–+  0–1
+
+
+58. Leifchild Leif-Jones – Alexander Alekhine, London (simul) 1923
+15.¤xe4! ¥xe4 16.c5 A discovered attack, winning the bishop. 16...¥xc5 17.£xe4+– 
+
+
+59. O. Friedmann – Alexander Alekhine, Czechoslovakia 1925
+18.¤xf5†! Not 18.¥xf5? ¦h4 (18...¦xg3µ) 19.¤h5 £h8 and Black wins a piece. 18...exf5 
+Instead Alekhine tried 18...¢f8, but White has several ways to win, for instance 19.¤xd6 ¦h4 
+trapping the queen, but to no avail. 20.£xf7† £xf7 21.¤xf7+– White has won three pawns 
+(1–0, 42 moves). 19.¤xd5†+–  It’s a fork.
+
+
+60. Alexander Alekhine – Frederick Yates, Baden-Baden 1925
+15.¤xd5! cxd5? Yates avoided this with 15...¥d6, but after 16.¥xd6  cxd5+– he had no 
+compensation whatsoever for the lost pawn. 16.¥c7+–  The queen is trapped.
+
+
+61. Arpad Vajda – Alexander Alekhine, Semmering 1926
+25...¥xf2!³ White can’t take back due to: 26.£xf2? £xf2† 27.¢xf2 ¦d2† 28.¢e3 ¦xc2–+ 
+
+
+62. Roberto Grau – Alexander Alekhine, San Remo 1930
+37...¦xf3! 38.gxf3 38.¦xf3 £d1† 39.¦f1 £xf1 mate  38...£c2  0–1 There is no defence 
+against the mate.
+
+
+63. Alexander Alekhine – Vasic, Banja Luka (simul) 1931
+10.£xe6†! fxe6 11.¥g6 mate 
+
+
+64. Alexander Alekhine – Rumjancev, Sarajevo (simul) 1931
+19.¥g6! fxg6 19...£a5 avoids mate, but Black is completely lost after 20.¥xf7† ¢d8 followed by 
+any decent queen move. 20.£xg6 mate 
+
+
+65. Adolf Fink – Alexander Alekhine, Pasadena 1932
+14...¥b5! 15.axb5 £xe2 mate 
+
+
+66. Alexander Alekhine – Jobbahazai, Vienna (simul) 1936
+20.¦d8†! 20.£xb7 ¦xb7 21.¥xe5 is also good (White will soon be two pawns up) but only 
+the game move forces resignation. Note that after 20.£xb7 ¦xb7 White should avoid pinning 
+the bishop with 21.¦d8† ¥f8 22.¥a3 since Black can struggle on with: 22...¤d7! Nevertheless, 
+White gets a rook ending a pawn up that looks winning. 20...¥f8 20...¦xd8 21.£xb7+–  
+21.£xf6+– 
+
+
+67. Alexander Alekhine – Rowena Bruce, Plymouth 1938
+11.¤xf7! Classical destruction of the f7-e6 formation. 11...¢xf7 12.£xe6† 1–0 Black foresaw 
+12...¢g7 13.£f7 mate 
+
+
+68. Alexander Alekhine – S. Lopo, Estoril (simul) 1940
+31.¥xf6!±  White wins a pawn since Black cannot take back on f6.
+
+
+69. Alexander Alekhine – A. Aragao, Estoril (simul) 1940
+36...¦xe4! Finishing off a winning position. 37.¦xe4 ¢f5† 38.¢f2 ¢xe4–+ 
+
+
+70. Alexander Alekhine – Salvatierra, Madrid (simul) 1941
+9.¥xh7† ¤xh7 10.¥xe7  ¦e8 11.¥h4 dxc4± Alekhine was not worried about giving back the 
+pawn, since he gets a strong centre. If he was worried, he could have started with 9.cxd5±, which 
+is equally strong. (1–0, 40 moves)
+
+
+71. Alexander Alekhine – J.M. De Cossio, San Sebastian (simul) 1944
+9.¤f6†! gxf6 10.¥xf6  1–0 There is no defence against the mate on g7. 
+
+
+72. Alexander Alekhine – M. Ricondo, Santander (simul) 1945
+14.¤h6†! gxh6 15.¥xf6+–  White checkmates or wins the queen.
+
+
+73. Max Euwe – Eelke Wiersma, Amsterdam 1920
+19.¤g6†! hxg6 20.¦h4 mate 
+
+
+74. Horace Bigelow – Max Euwe, Bromley 1920
+18...£xh2†! Exchanging queens and consolidating the material advantage. 19.¢xh2 ¤g4† 
+20.¢g3 ¤xh6–+ 
+
+
+75. Theodor Gruber – Max Euwe, Vienna 1921
+19...¥xg2! 20.¢xg2 ¦g6†–+  Black wins the queen or the rook on f1.
+
+
+76. Max Euwe – Efim Bogoljubov, Maehrisch Ostrau 1923
+13...£xc3! 14.£xc3 ¤e4† Black wins back his sacrificed piece, leaving him a pawn up. 15.¢f1 
+¤xc3³ 
+
+
+77. Max Euwe – Jacques Davidson, Amsterdam (1) 1924
+27.£xf6†! ¢xf6 28.¤xe4† ¢e5 29.¤xc5 bxc5  The pawn ending is winning, unless Black 
+gets time to collect the queenside pawns. And he doesn’t after: 30.¢f1 (or 30.f3)
+
+
+78. Willem Schelfhout – Max Euwe, Utrecht 1926
+25...¤xe4 26.£xe4 ¥d5–+  If White steps out of the pin with 26.¢h2, there are many moves 
+that keep the pawn: 26...f5, 26...¥d5 or even 26...¤f6 27.¤xe5 ¤xe5 28.£xe5 ¥xb3.
+
+
+79. Birger Rasmusson – Max Euwe, London (ol) 1927
+20...¦xd3! 21.¦exd3 ¦xd3 Or 21...¥xc4 first makes no difference. 22.¦xd3 ¥xc4 23.¢e2–+  
+An extra pawn in a pawn ending wins, unless there are some special circumstances.
+
+
+80. Albert Becker – Max Euwe, Hague 1928
+31...¦xg2! 32.¦xg2 £h3† 33.¢g1 £xg2 mate  Or 33...¦xg2 mate.
+
+
+81. B. Colin – Max Euwe, Bern 1932
+32...£xg2† 33.¦f2 £xf2†! 34.¢xf2 ¦h2† And Black takes the queen: 35.¢f3 ¦xc2–+ 
+
+
+82. Dirk van Foreest – Max Euwe, Netherlands 1932
+18...¦xb2! 19.¦xb2 £xd1†³  Black has won a pawn.
+
+
+83. Alexander Alekhine – Max Euwe, Netherlands (23) 1935
+24...¦xd2! 25.¦xd2 ¤xb3–+  The extra pawn is decisive.
+
+
+84. Max Euwe – Efim Bogoljubov, Bad Nauheim/Stuttgart/Garmisch 1937
+26...¤xd4! 26...¥xd4 picks up the pawn, but not the exchange. Black is not clearly winning yet 
+(zero points). 27.¦xd4 ¥xd4 White cannot take in any way due to mate on e1: 28.¦xd4 £e1 
+mate 
+
+
+85. Nicolaas Cortlever – Max Euwe, Beverwijk 1941
+13.¤xe5! ¤e6 13...fxe5 14.¥g5†+–  14.¤d3!+–  White is not only a pawn up, Black is also 
+far behind in development.
+
+
+86. Max Euwe – Henry Grob, Zurich 1947
+21...¤f3†! Black wins an exchange after: 22.£xf3 £xd2–+ 
+
+
+87. Theo van Scheltinga – Max Euwe, Amsterdam 1948
+38.¥xe6! ¤xe6 Keeping the knight and setting up a blockade on the e-file was not realistic, since 
+White has an f-pawn as well. 39.£f5† Or 39.£e4†. 39...¢h8 40.£xe6±  White’s winning 
+chances should be bigger than Black’s drawing chances, although the game ended in a draw.
+
+
+88. Jan Visser – Max Euwe, Baarn 1949
+32...¦xa5! 33.¦xa5 b3–+  White loses the rook.
+
+
+89. Max Euwe – Nicolaas Cortlever, Amsterdam 1954
+25...£xe5! Removing the defender of the e2-square. 26.dxe5 ¤e2† 27.¢h2 ¤xg3–+ 
+
+
+90. Max Euwe – Rafael Cintron, Munich (ol) 1958
+35.¥xf6! ¥xf6 36.e7† ¢g7 37.exd8=£+–  Opposite-coloured bishops normally improve 
+the drawing chances of the player who has sacrificed material, but Black did not sacrifice the 
+exchange here – he lost it. And without active pieces, he cannot create anything on the dark 
+squares. Instead White’s active pieces and advantage in terrain give him an even greater advantage.
+
+
+91. C.H.O’D. Alexander – Mikhail Botvinnik, Nottingham 1936
+19...¥xb2! 20.£xb2 ¦d1† 21.¥f1 ¦xf1† 22.¢g2 ¦d1µ  Black has won a pawn 
+ 
+(0–1, 35 moves).
+
+
+92. Andor Lilienthal – Mikhail Botvinnik, Moscow 1945
+29...¤xc3! 30.£xa3 30.¦xc3 £xa2 mate  30...¦xa3–+  (0–1, 37 moves)
+
+
+93. Mikhail Botvinnik – Ludek Pachman, Moscow 1947
+17...¦xe3! 18.£xe3 Botvinnik played 18.¦xg7†–+ and resigned after 45 moves. 18...¥f4–+  
+There is both a fork and a pin.
+
+
+94. Mikhail Botvinnik – Tigran Petrosian, Moscow 1966
+34...¥e4 White resigned. 35.¥xe4 35.¦xd2 exd2–+  and the pawn queens, or 35.¦cxe3 ¥xe3 
+36.¦xd2 ¥xf3† 37.¢xf3 ¥xd2  and Black is winning. 35...¦xe2†–+  The bishop will have to 
+sacrifice itself for the e-pawn.
+
+
+95. Bent Larsen – Mikhail Botvinnik, Leiden 1970
+37.£xc7!+–  White wins two pawns due to the back-rank mate (1–0, 47 moves). 37.e5 also 
+looks promising, as it opens up for an attack against h7, but 37...¦d2! 38.£f5 g6 39.£xf6† £xf6 
+40.exf6+– limits White’s advantage to only a winning endgame.
+
+
+96. Vassily Smyslov – Mikhail Govbinder, Moscow 1967
+16.¤xd5! Threatening the queen with check. 16...cxd5 17.£xe5 £xe5 18.¥xe5+–  White 
+has won a pawn with a dominant position (1–0, 24 moves).
+
+
+97. Shenreder – Mikhail Tal, Riga 1951
+17...£xh3†! 18.¢xh3 ¤xf2† 19.¢g2 ¤xd1 20.¦xd1–+  It’s an exchange and a pawn.
+
+
+98. Mikhail Tal – Georgi Tringov, Munich (ol) 1958
+17.£xd7†! ¢xd7 18.¤c5† ¢e7 19.¤xe4+– 
+
+
+99. Hector Rossetto – Mikhail Tal, Portoroz 1958
+39...¦xe3! 40.fxe3 £g2† 41.¢e1 ¤f3 mate 
+
+
+100. Mikhail Tal – Pal Benko, Amsterdam 1964
+19.¦d8†! ¢e7 The point is 19...¢xd8 20.¤xf7† ¢e7 21.¤xe5+– . 20.¦xh8+–  The game 
+finished with: 20...£xg5 21.£d2 1–0
+
+
+101. Mikhail Tal – Naum Levin, Poti 1970
+35.£xd5! ¤xd5 The game move 35...¥f4 is of course hopeless as well (1–0, 41 moves). 36.¦e8† 
+¢h7 37.¦h8 mate 
+
+
+102. Anatoly Shmit – Mikhail Tal, Riga 1971
+33...¦xh2†! 34.¢g1 ¦bg2†! Or 34...¦hg2†. 35.£xg2 The game went 35.¢f1 ¦xg5 0–1. 
+35...¦xg2† 36.¢xg2 ¤e3† 37.¢f3 ¤xd1–+ 
+
+
+103. Mikhail Tal – Nino Kirov, Novi Sad 1974
+20.¥xh7†! 20.£h5 ¤f5 21.g4 does not win a piece, and even loses after 21...¦h6. 20...¢xh7 
+21.£h5† ¦h6 22.£xc5±  White has won a pawn, but it is only a flank pawn.
+
+
+104. Mikhail Tal – Yrjo Rantanen, Tallinn 1979
+27.¥xg7†! ¢g8 28.¥h8! ¢xf7 29.£xf6† ¢g8 30.£g7 mate 
+
+
+105. Mikhail Tal – Karen Grigorian, Yerevan 1980
+31...¦xe2! 32.¦xe2 d3 33.¦xe5 White resigned after 33.¦c3 dxe2† 34.¢e1 ¥b4. 33...dxc2†–+  
+ 
+Black gets a second queen.
+
+
+106. Eduard Meduna – Mikhail Tal, Sochi 1986
+31...¦xc3! 32.¦xc3 £a1† 33.¢g2 £xc3–+  (0–1, 38 moves)
+
+
+107. Mikhail Tal – M. Conway, Boston (simul) 1988
+12.¤xf7! ¢xf7 12...£e7 and White won after 30 moves. 13.£xe6† ¢f8 14.£f7 mate 
+
+
+108. Soenke Maus – Mikhail Tal, Germany 1990
+28...¦e1†! 0–1 White resigned due to: 29.¢h2 29.¦xe1 £xd4–+  29...£xd4 30.¦xd4 
+ 
+¦xa1–+  The game will appear again later in the book.
+
+
+109. Tigran Petrosian – Alexander Konstantinopolsky, Moscow 1947
+27...¤xf4! 28.exf4 ¦xe2  Black is clearly better, but White managed to hold (41 moves).
+
+
+110. Tigran Petrosian – Genrikh Kasparian, Tbilisi 1949
+38.¥xc4!+– 38.¦xe6 fxe6 39.¥xc4? (39.¦xe6 ¢h7=) 39...£xe1†–+ Black cannot take the bishop 
+due to: 38...¥xc4 38...¦d6 39.¥xe6 was just hopeless (1–0, 41 moves). 39.¦e8† ¦xe8 40.¦xe8† 
+¢h7 41.¦h8 mate 
+
+
+111. Tigran Petrosian – Efim Geller, Moscow 1950
+28...¥xg4! 29.£xg4 Petrosian fought on with 29.£g3–+ but he regretted 28.g4? for sure 
+ 
+(0–1, 38 moves). 29...¦g6–+ 
+
+
+112. Abram Poliak – Tigran Petrosian, Moscow 1951
+32...d4! 33.¦xd4 33.£e1 d3–+ and the pawn supported by pieces is too strong. 33...£b6  0–1 
+Or 33...£a7–+, but not 33...¥f6? 34.¦xd7!µ. If you chose a slower way to advance the pawn on 
+the 32nd move, such as 32...¥f6 or 32...£a7†, you also get full points.
+
+
+113. Tigran Petrosian – A. Koliakov, Moscow 1951
+29.¤xd5! 29.¥a6?! ¦d8² 29...¦xc2 30.¤f6† Getting out of Dodge before recapturing the rook. 
+30...¢f8 31.¦xc2+–  In addition to an extra pawn, White’s pieces are much stronger, for 
+instance the bishop on e8 is dominated (1–0, 33 moves).
+
+
+114. Tigran Petrosian – Gedeon Barcza, Saltsjobaden 1952
+24.¤fxe6!+– There are a few alternatives with the same idea: 24.¤gxe6+– or 24.axb5 ¥xb5 
+25.¤gxe6+–. 24...¤xe6 25.¥xd5+–  Since the c6-knight cannot retreat on account of the 
+ 
+a8-rook, White is regaining at least the piece, with a winning position (1–0, 30 moves).
+
+
+115. Iivo Nei – Tigran Petrosian, Moscow 1960
+33.£g8†! A magnet sacrifice leading to a quick mate. Black resigned, rather than face: 33...¢xg8 
+34.¥e6† ¢h8 35.¦g8 mate 
+
+
+116. Tigran Petrosian – Boris Spassky, Moscow (10) 1966
+30.£h8†! 30.¤xf7?! £xe3!² In the game, Black resigned. He is a piece down after: 30...¢xh8 
+31.¤xf7† ¢g7 32.¤xg5+– 
+
+
+117. Tigran Petrosian – Dragoslav Tomic, Vinkovci 1970
+39.¦xg7†! 39.£e8 eyes the pawn on e4, but wins only because White has the same rook sacrifice 
+later. But not: 39.¤f6†?? ¦xf6–+ 39...¦xg7 40.¤f6 mate 
+
+
+118. Dragoljub Janosevic – Tigran Petrosian, Lone Pine 1978
+33...¦g1†! White resigned due to: 34.¦xg1 ¤f2 mate 
+
+
+119. Tigran Petrosian – Borislav Ivkov, Teslic 1979
+35.¦xd4! Black resigned as it’s mate: 35...¦xd4 36.¦xe5† ¢xg4 37.f3 mate  Or 37.h3 mate.
+
+
+120. Tigran Petrosian – Ljubomir Ljubojevic, Niksic 1983
+26.¦xe4! £xe4 26...£g6+– is hopeless for Black when he has lost his only trump, the passed 
+e-pawn (1–0, 28 moves). 27.£f7† ¢h8 28.£f8† ¦xf8 29.¦xf8 mate 
+
+
+121. John Spencer Purdy – Boris Spassky, Antwerp 1955
+10...d3! The bishop on b2 is en prise and 11.¥xg7 dxe2–+  is an intermediate move that wins 
+a piece.
+
+
+122. Yuri Averbakh – Boris Spassky, Moscow 1961
+38...¦f1†! Other moves are obviously also winning, but mate-in-two should be seen and played 
+here. 39.¢xf1 £e1 mate 
+
+
+123. Boris Spassky – Mikhail Shofman, Leningrad 1962
+20.¥a6! ¥xa6 Shofman played 20...c6 but was simply a piece down after 21.¥xb7†. 21.£a8 
+mate 
+
+
+124. Boris Spassky – Alexander Korelov, Yerevan 1962
+38.¤xa6! Neatly picking up a pawn due to: 38...¥xa6 39.¦b6† ¢d7 40.¦xa6+– 
+
+
+125. Boris Spassky – Zvonko Vranesic, Amsterdam 1964
+21.¦xf8†! ¦xf8 22.axb4+–  The two pieces easily outshine the rook.
+
+
+126. Borislav Ivkov – Boris Spassky, Santa Monica 1966
+36...£xf4! There is a fork on e3 coming up. 37.gxf4 ¤e3† 38.¢g3 ¤xd1–+ 
+
+
+127. Boris Spassky – Viktor Korchnoi, Kiev 1968
+35.£h6†! Korchnoi did not let his opponent execute the mate: 35...¢xh6 36.¦h1 mate  
+ 
+Or 35...¢g8 36.¦c8† ¦f8 37.¦xf8 mate.
+
+
+128. Robert Hartoch – Boris Spassky, Amsterdam 1970
+Black is winning with many moves, but only one is a forced mate: 32...£xg1† 33.¢xg1 ¦xg2† 
+34.¢h1 ¦h2† 35.¢g1 ¦cg2† 36.¢f1 ¥b5† 37.¢e1 ¦h1 mate  Or 37...¦g1 mate.
+
+
+129. Boris Spassky – Lajos Portisch, Geneva 1977
+33.f5! ¥xf5 34.¦e7+–  The queen can no longer defend the bishop.
+
+
+130. Boris Spassky – A. Hoffmann, Lugano 1982
+It’s mate in five moves: 30.¥xg6†! 30.¦e2 is winning as well thanks to the continued threat of 
+¥xg6†. 30...¦xg6 31.¦e7† ¢g8 32.£xg6† Or 32.£f7† ¢h8 33.£h7 mate. 32...¢f8 33.£g7 
+mate  Or 33.£f7 mate.
+
+
+131. Boris Spassky – Andreas Dueckstein, Zurich 1984
+29...¦xh1! Black gets two pieces for the rook after: 30.£xh1 ¤xd4 31.cxd4 £xd2–+ 
+
+
+132. Zoltan Ribli – Boris Spassky, Montpellier 1985
+85...£xh6†! 85...£d2† is the complicated way to draw (zero points). The queen endgame with 
+g- and h-pawns is generally drawn with the defending king in front of the pawns. It surprised the 
+whole Swedish team when we learned this at the 2016 Olympiad in Baku. However, 85...£d2† 
+should lose in a practical game. First, Black has to find 86.£f4 £d8† 87.£f6† ¢h7! 88.£xd8 
+with stalemate. 86.¢xh6  ½–½ Stalemate! 86.¢f5 keeps the game going, but it’s an easy draw 
+anyway.
+
+
+133. Boris Spassky – Marc Santo-Roman, Montpellier 1991
+18...¥xa2! White is lost due to: 19.¤xa2 ¤b3† 
+
+
+134. Robert Fischer – J.S. Bennett, USA 1957
+38.¦d8†! Deflection. But not 38.¦c1?? ¥d4†–+. 38...£xd8 39.£xc3† £f6 40.£xf6 mate 
+
+
+135. E. Buerger – Robert Fischer, Milwaukee 1957
+26...¤xd5! 27.¤e6 27.¦xf7 ¥xd4† 28.¢h1 ¤xb4–+  27...¤xf4–+ White resigned after: 
+28.¦xf4 ¦xf4  0–1
+
+
+136. Theodor Ghitescu – Robert Fischer, Leipzig (ol) 1960
+14...¥xh2†!  0–1 Discovered attack.
+
+
+137. Samuel Reshevsky – Robert Fischer, Los Angeles 1961
+28...£xe4! 29.¤xe4 ¤e2† 30.¢h1 ¤xg3†  Black should be winning with the extra exchange, 
+but failed to convert (½–½, 57 moves).
+ 
+138. Robert Fischer – S. Purevzhav, Varna (ol) 1962
+21.¥xg7! exd3 The game ended after 21...¢xg7 22.¤xe4 when either White’s attack or his extra 
+piece would have been enough on their own. 22.f6 Or 22.¥d4+–. 22...dxc2 23.¦h8 mate 
+ 
+139. Mario Bertok – Robert Fischer, Stockholm 1962
+24...¤xe3! Black is a piece up, but there is still work to be done. Fischer decided the game on the 
+spot. 25.£xe3 25.¥xe6 £xg2 mate  25...¥xc4–+  (0–1, 31 moves)
+ 
+140. Robert Fischer – John Fuller, Bay City 1963
+White exploits Black’s last move (14...¤d4) with a simple discovered attack. 15.¤xd4 15.¤f6†? 
+£xf6! and White has to play 16.£xd4³. 15...¦xd4 16.¤f6†! £xf6 17.£xd4  White has 
+a clear advantage and the game ended abruptly after a further blunder by Black: 17...¦d8 
+ 
+18.£e4 ¥d5? 19.£xd5 1–0
+
+
+141. Robert Fischer – J. Richburg, Detroit (simul) 1964
+22.¥xc5! ¥xc5 The game saw 22...£b8+–. 23.b4+–  ¤d7? The only critical move, but it is 
+simply bad: 24.bxc5 ¤xc5? 25.£c2+–
+
+
+142. Robert Fischer – Robert Byrne, New York 1965
+12...¥d6! Moving the threatened piece out of danger with a dangerous threat. Not 12...bxc6 
+13.¥xg4= or 12...¥xe2? 13.¤xe7†±. 13.h3 ¥xe2 14.¤d4 ¥xf1–+  (0–1, 36 moves)
+
+
+143. Robert Fischer – Svetozar Gligoric, Zagreb 1970
+35.¦xf6! Taking the rook loses the queen, so Black resigned. Instead if White had retreated the 
+rook with, for example, 35.¦h3 then he would still have some work to do, although 1–0 does 
+seem the most probable result (no points). 35...£xf6 35...¢xf6 36.¥xg5†+–  36.¤h5†+– 
+
+
+144. Samuel Reshevsky – Robert Fischer, Palma de Mallorca 1970
+29...£d4†! 29...£e3† 30.¦f2 (30.¢h1 £f2–+) 30...¦e7! 31.£a4 ¦a7! will also win. 30.¢h1 
+30.¦f2 ¦e1 mate  30...£f2!–+ 
+
+
+145. Svetozar Gligoric – Robert Fischer, Palma de Mallorca 1970
+29...¤d3! An unexpected fork after White’s last move 29.¦f1-f2?. 30.£xb6 30.¦xd3 £a1†  
+mating. 30...¤xf2†–+  Black is a piece up and has the more active heavy pieces. White resigned 
+a few moves later.
+
+
+146. Vladimir Peresipkin – Anatoly Karpov, Rostov on Don 1971
+36...£xh2†! The only winning move. 0–1 37.¢xh2 ¦h5 mate 
+
+
+147. Anatoly Karpov – Michael Franklin, Hastings 1972
+35.¦g5! Using the fact that the knight on f7 is pinned. 35...£xg5 35...¤xg5 36.¦xg7† ¢xg7 
+37.¤xg5+–  and White is up too much material. 36.¤xg5  ¤xg5 37.d5 1–0
+
+
+148. Ilkka Saren – Anatoly Karpov, Skopje (ol) 1972
+28...¥b6†! The move order 28...¦xf4 doesn’t work as well: 29.¥e6†! ¢h8 30.¤d5µ Even worse 
+is: 28...¤b2? 29.£xf5± 29.¢f1 ¦xf4†! 30.gxf4 £xf4†  0–1 Black has a mating attack.
+
+
+149. Anatoly Karpov – Viktor Kupreichik, Moscow 1976
+38.¦e7†! The only way to promote the pawn. And not: 38.dxc7? ¦c6µ 38...¢f8 38...¢f6 
+39.dxc7+–  39.dxc7+– ¦c6 40.¦d7 Karpov chose a slower way: 40.¦xh7 ¢e8 41.h4+– 
+40...¢e8 41.¦d8† ¢e7 42.c8=£ ¦xc8 43.¦xc8+– 
+
+
+150. Lajos Portisch – Anatoly Karpov, Moscow 1977
+20...¦xe2! 21.£xe2 £xc1†  Black has opened White’s first rank and won a pawn, leaving him 
+up a full exchange, and winning. The game had a quick finish: 22.£f1 £d2 23.cxb6? ¦c8 0–1
+ 
+151. Anatoly Karpov – Mark Taimanov, Leningrad 1977
+38...¤g3†! White resigned in view of 39.hxg3 ¦a8!  with mate.
+
+
+152. Viktor Korchnoi – Anatoly Karpov, Baguio City (17) 1978
+39...¤f3†! 0–1 Mate is coming up: 40.gxf3 ¦g6† 41.¢h1 ¤f2 mate 
+ 
+153. Anatoly Karpov – Efim Geller, Moscow 1983
+31.£xc4! Black resigned instead of permitting: 31...bxc4 32.¦xf7 mate 
+ 
+
+
+154. Anatoly Karpov – Simen Agdestein, Oslo 1984
+32.£xd5! Move order is important here. 32.¥h6† ¢e7± 33.¦xd5? (33.£b4† ¢d7 34.¦d2 ¦xd2 
+35.¥xd2 ¦g6±) 33...¦xe2†!=, or 32.£b4†!? ¢g7 33.£h4 ¦e8!± still with great chances against 
+Black’s exposed king. 32...£xd5 33.¥h6† 33.¥b4†? £c5†= 33...¢e7 34.¦xd5+–  (1–0, 38 
+moves)
+
+
+155. Anatoly Karpov – Anthony Miles, Brussels 1986
+26.¤d5! 26.¤b5 is a worse variant since the queen can escape to e7, but it still gives a winning 
+advantage: 26...£e7 27.¥xf6 £xf6 28.¤xd6+– (full points) 26...¥xb2 26...exd5 27.¥xf6 ¤g6 
+28.¥xd8+–  27.¤xc7+–  (1–0, 40 moves)
+ 
+156. Anatoly Karpov – Viktor Gavrikov, Moscow 1988
+27.¥h7†! Deflection. 27...¢xh7 28.£xf8+–  (1–0, 40 moves)
+ 
+157. Anatoly Karpov – Nigel Short, Linares (7) 1992
+39.¦g8†! Deflection. 39...¢xg8 40.£xf6  (1–0, 45 moves)
+
+
+158. Alexander Chernin – Anatoly Karpov, Tilburg 1992
+21.¤d5! Exploiting the claustrophobic queen on e6. 21...¤c5 Black’s alternatives are no 
+better: 21...cxd5 22.cxd5+– , 21...¦b8 22.¤c7+–  or 21...¦c8 22.¤e7†± . 22.¤c7 £d7 
+ 
+23.¤xe8±  Karpov saved a draw (42 moves).
+
+
+159. Anatoly Karpov – Valery Salov, Linares 1993
+33.£xg6! 1–0 White was winning anyway, but this is too nice to pass up. 33...hxg6 34.¦h4 And 
+35.¦h8 mate  is unavoidable.
+
+
+160. Anatoly Karpov – Loek van Wely, Monte Carlo 1997
+30.¥h7†! Deflecting the knight or king. 30...¤xh7 30...¢h8 31.£xf8 mate  31.£xd7+– 
+ 
+161. Anatoly Karpov – Eric Lobron, Frankfurt 1997
+34...¦xe6! Clearing the back rank in order to force the king to h2, so the bishop falls with check. 
+35.¦xe6 ¦a1† 35...£xf4?! 36.¦e8† ¤f8 37.£h5³ 36.¢h2 £xf4†–+  (0–1, 46 moves)
+
+
+162. Anatoly Karpov – Mikhail Gurevich, Cap d’Agde 2000
+37...¥xe3! Using the fact that pins can sometimes become discovered attacks instead. 38.¥xe3?! 
+38.¥g2 ¥xf2 39.£xf2µ 38...¦g1† 39.¦xg1 £xh4 40.¥g5 £e4†! 41.¥g2 £xd4  White has 
+no time to move the bishop from g2, since the e5-pawn is hanging. After 42.¥f6† ¢g8–+ there 
+is no good discovered check (0–1, 50 moves). 
+
+
+163. Anatoly Karpov – Alexei Shirov, Bastia (rapid) 2003
+29...¦xh2† White resigned due to: 30.¢xh2 £h4 mate 
+
+
+164. Andrei Istratescu – Anatoly Karpov, Bucharest (rapid) 2005
+25...¦xd2! 26.¦xd2 After the game move 26.£h4–+ Black has simply won a piece, so White 
+resigned in a couple of moves. 26...£xc1†–+ 
+
+
+165. Anatoly Karpov – Alexei Shirov, Tallinn (rapid) 2006
+30.¥b5! The X-ray mate threat wins the bishop. Black resigned instead of allowing: 30...¥xb5 
+31.¦d8 mate 
+
+
+166. Anatoly Karpov – Evgenij Agrest, Tallinn (rapid) 2006
+40.¥xg6! ¥xf4 40...fxg6 41.¤xe6† ¢e7 42.¤xc7+–  41.exf4 Or 41.¤xf7+–, or 41.¤xe6† 
+fxe6 42.exf4+–. 41...fxg6 42.¤xe6†+– (1–0, 69 moves)
+
+
+167. Anatoly Karpov – Ehsan Ghaem Maghami, Teheran 2009
+26.¦f8†! Deflection. Worse is 26.£xh7† ¢xh7 27.¦xd7±. 26...¦xf8 27.¦xf8† ¢xf8 
+ 
+28.£xh7+–  (1–0, 42 moves)
+
+
+168. Garry Kasparov – Vladimir Antoshin, Baku 1980
+22.¦xc7! 22.¤d4 threatens 23.¤b5 with mate, but Black can defend after 22...£e7 23.¤b5 
+c6±. 22...¢xc7 23.£a7†  1–0 With the rook coming to c1, the attack will be deadly.
+
+
+169. Vladimir Tukmakov – Garry Kasparov, Frunze 1981
+29...£xc5!  The back-rank mate threat means Black has simply won a rook, leaving him easily 
+winning.
+
+
+170. Garry Kasparov – Comp Mephisto 68000, Hamburg (simul) 1985
+36.¦xe8† ¦xe8 Instead Black soon lost after 36...¢f7+–. 37.£xf6  White is mating.
+
+
+171. Lajos Portisch – Garry Kasparov, Linares 1990
+27...¤e3†  0–1 A discovered attack, which could also be executed with 27...¤f4†–+.
+
+
+172. Garry Kasparov – Matthias Wahls, Baden-Baden 1992
+32.¦xd5! £xd5 33.£xc7+–  1–0
+
+
+173. Garry Kasparov – Jacek Dubiel, Katowice (simul) 1993
+32.¥xc6! ¥xc6 33.£c7† £e7 34.£xc6±  White is a pawn up with good winning chances.
+
+
+174. Yannick Pelletier – Garry Kasparov, Zurich 2001
+31...¥xf2! Winning a second pawn due to: 32.¢xf2 ¦h2†–+ 
+
+
+175. Garry Kasparov – Alexei Shirov, Astana 2001
+35.¦d4!  1–0 Mating. 35.¦g7 is a useless intermediate move that allows Black to defend with 
+35...¥e8 36.¦d4 ¥g6±.
+
+
+176. Ashot Anastasian – Alexander Khalifman, Minsk 1986
+22...¤c5! The pin allows this fork. 23.dxc5 ¦xd3µ  (0–1, 36 moves)
+ 
+177. Jaan Ehlvest – Alexander Khalifman, Rakvere 1993
+32...¦xb2 Picking up a pawn with a small tactic gives Black a winning endgame. 33.¦xb2 
+Instead, White tried to fight with 33.¤b5–+ but in the end it proved fruitless (0–1, 53 moves). 
+33...¥xc3†–+ 
+
+
+178. Alexander Khalifman – Nukhim Rashkovsky, Moscow 1995
+White is obviously much better, but cleanest is: 27.¦xd4! Black resigned in view of: 27...exd4 
+28.£f5† £f7 29.£c8† £e8 30.£xe8 mate 
+
+
+179. Alexander Khalifman – Gennadi Sosonko, St Petersburg 1997
+26.¥f6! The king is too exposed after: 26...gxf6 27.exf6 
+
+
+180. Lenka Ptacnikova – Alexander Khalifman, Stockholm 1997
+37...¦xd4!–+  Black wins back the rook on c1, so he has just won a piece, and will break 
+through easily.
+
+
+181. Alexander Khalifman – Viktor Kupreichik, Stockholm 1997
+26.£xf6†! Other moves take longer to win. 26...£xf6 27.¦xh7 mate 
+
+
+182. Alexander Khalifman – Christian Gabriel, Bad Wiessee 1998
+21.¦xb3! Black resigned since 21...¤xb3 22.£e6† ¢b8 23.£xb3+–  is winning, although it 
+wouldn’t have hurt to fight on.
+
+
+183. Roman Slobodjan – Alexander Khalifman, Germany 1999
+26...£xg5! Picking up this pawn increases the advantage considerably. 27.¥xg5 White tried to 
+fight on with 27.¦ge1, but resigned a few moves later. 27...¤f2 mate 
+
+
+184. Alexander Khalifman – Ivan Bukavshin, Moscow 2011
+24.¥h3†!  1–0 If the king moves, 25.£e5† picks up the rook on h8 (and mates). If the 
+bishop is taken then 25.£f8† mates. And finally, anything put in the way will just be taken. Not 
+ 
+24.¦d6? £b1† 25.¥f1 £h7 26.¥g2 £b1†=.
+
+
+185. Vladimir Kramnik – Dmitry Reinderman, Wijk aan Zee (blitz) 1999
+24.¤xe5! ¤xe5 25.¥xd5†+–  Winning the rook on a8.
+
+
+186. Vladimir Kramnik – Etienne Bacrot, Moscow (blitz) 2007
+38.¦a8! ¢c7 38...¤xa6 39.¦xa6† leaves White with an easily winning endgame. 39.a7 ¦xb7 
+40.¦c8†!  1–0 The pawn promotes.
+
+
+187. Vladimir Kramnik – Levon Aronian, Moscow (blitz) 2009
+The knight seems to be forced back, but can instead go forward to seemingly protected squares. 
+20.¤e5! ¦f8 (20...fxe5? 21.£f7 mate) 21.¤xd7!+–  Black can’t take back since it would leave 
+the rook on a8 unprotected (1–0, 23 moves).
+
+
+188. Vladimir Kramnik – Anish Giri, Leuven (blitz) 2016
+20.e4! The bishop on d6 becomes exposed. 20...¥xe4 20...dxe4 21.¥b5† ¢f8 22.¦xd6+–  
+21.¥xe4+– 
+
+
+189. Viswanathan Anand – Eric Lobron, Dortmund 1996
+36.¤f6! 1–0 With winning threats on h5. But not 36.¤e3?! ¥e5±. 36...£xf6 36...¥xf6 
+37.¦xh5†+– 37.£xh5† ¢g8 38.£xe8†+– 
+
+
+190. Viswanathan Anand – Ruslan Ponomariov, Mainz 2002
+38.e7!  1–0 The only defence against 39.£g7 mate leaves the rook on c8 undefended. 
+
+
+191. Viswanathan Anand – Pascal Charbonneau, Calvia (ol) 2004
+34.¦xf7†! 1–0 The variation goes: 34...¤xf7 35.¤e6† ¦xe6 36.£xd4†+– 
+
+
+192. Magnus Carlsen – Viswanathan Anand, Reykjavik (blitz) 2006
+25.£h6! White removes the queen from danger with a mating threat, leaving the knight on b4 
+to face the gallows. 25...f6 25...¤xb2 26.¤g5+–  with mate. 26.¦xb4+– 
+
+
+193. Roman Skomorokhin – Viswanathan Anand, Bastia 2014
+22...¤xe3!  22...¥xe3†? 23.¥xe3 wins for White. 23.¦xe3 Other moves are no better: 23.¥xe3 
+£xa1–+ or 23...¥xe3† 24.£xe3 £xa1–+. White is so tied up that basically any move wins by 
+eventually bringing one rook into the action. 23...¦fe8 0–1
+
+
+194. Viswanathan Anand – Jon Ludvig Hammer, Stavanger 2015
+34.¥xg6! Winning two more pawns, bringing the total to an overwhelming three. 34...£xg6 
+35.£xe5† ¢g8 36.£xc5 1–0
+
+
+195. Ruslan Ponomariov – Stuart Conquest, Torshavn 2000
+37.¦c7†! 37.£xf5† ¢b8 38.¥xa5 ¢a8!÷ 37...¢b8 37...¢xd8 38.£e7 mate  or 37...¥xc7 
+38.£xc7 mate . 38.¦xc6†  1–0
+
+
+196. Ruslan Ponomariov – Evgeny Bareev, Moscow (4) 2001
+34.¦xf4†!  1–0 Winning the queen. 34.¥xh7 keeps the threat of ¦xf4†, but Black can fight on 
+with 34...£h3±. 34.¦xh7 allows 34...¦b2!=.
+
+
+197. Boris Grachev – Ruslan Ponomariov, Moscow (blitz) 2010
+37.¥h5! Exploiting all the pins! 37.¦xf6!? gxf6 38.¥h5 £b7 39.¥xf7† £xf7 40.£b6± gives 
+Black good drawing chances in a queen ending a pawn down. 37...g6 37...¤xh5 38.£xf7†  
+ 
+¢h8 39.£e8† £f8 40.¦xf8 mate or 37...£f8 38.¥xf7†+–. 38.¦xf6  Or 38.¥xg6 hxg6 
+39.¦xf6+–. In the game, Black resigned in a few moves: 38...£b7 39.¥d1 b2 40.£e8† ¢g7 
+41.£xf7† 1–0
+
+
+198. Ruslan Ponomariov – Vassily Ivanchuk, Khanty-Mansiysk (2) 2011
+37...¥xf3! Winning the g2-pawn and an exchange. 37...¦gxg2† 38.¥xg2 ¦xf5 is too kind: 
+39.¦c1³ 38.¦xf3 ¦gxg2† 39.¢h1 ¦h2† 40.¢g1 ¤e2†  0–1
+
+
+199. Ruslan Ponomariov – Sergei Rublevsky, Khanty-Mansiysk (blitz) 2013
+31.¦e7!+–  Threatening mate, and both defences end up losing the bishop. 31...¦d4 31...¦g6 
+32.¦dxd7+– 32.¦xd4 cxd4 33.£xd4 1–0 Double attack.
+
+
+200. Rustam Kasimdzhanov – Dmitry Kaiumov, Tashkent 1993
+19...¦e1†! Deflection. 20.¦xe1 20.¢f2 £xd5 21.¦xd5 ¦xa1–+  20...£xd5–+  0–1
+
+
+201. Rustam Kasimdzhanov – Eduard Grinshpun, Tashkent 1993
+33.£xh7† £xh7 34.¤xf6†+–  1–0 White wins a piece.
+
+
+202. Andranik Matikozian – Rustam Kasimdzhanov, Szeged 1994
+29...¦xe5! The white queen is doubly pinned and is needed to protect g2. 30.£xh4 30.£xe5 
+£xg2 mate  (or 30...£xd3–+), and 30.£xg6 ¦xe1 mate  (or 30...¤xg6–+). 30...¦xe1† 
+ 
+Or 30...£xd3–+. 31.£xe1 £xd3  0–1
+
+
+203. Rustam Kasimdzhanov – Y.M.A. Kalandar Khaled, Macau 1996
+23.£d8†! An X-ray/reloader theme supported by the strongly-placed bishop on e4. 23...¦xd8 
+23...£f8 24.¥h7†+–  24.¦xd8† £f8 25.¥h7†! Or 25.¦ed1 ¦c7 26.¥h7†±. 25...¢xh7 
+26.¦xf8±  (1–0, 30 moves)
+
+
+204. Rustam Kasimdzhanov – Mohamad Al Modiahki, Teheran 1998
+25.¦xd7! 1–0 Winning another pawn and exchanging some pieces. Too kind is 25.¥g4 ¥xg4 
+26.hxg4±. 25...£xd7 26.¥g4 £d8 27.¥xc8 £xc8 28.£xb5+– 
+
+
+205. Rustam Kasimdzhanov – Mikhail Golubev, Germany 2002
+37.£b8†! The breathing hole on g7 is not enough, neither is either of the two possible blocks 
+on f8. 37.¥xe5? ¤g5† 38.¢g1 (38.¢g3 ¤xe4† 39.fxe4 £g5†–+) 38...¤xf3†–+ 37...¦xb8 
+38.¦xb8† ¢g7 38...¦f8 39.¥xe5† (39.¦xf8† £xf8 40.¥xe5†+–) 39...£g7 40.¦xf8 mate  
+38...£f8 39.¦xf8† ¦xf8 40.¥xe5† ¦f6 41.¥xf6 mate  39.¦g8 mate 
+
+
+206. Rustam Kasimdzhanov – Andrei Volokitin, Germany 2003
+33...£xh1†! Forcing a winning endgame. Not 33...£h2† 34.¦xh2 gxh2† 35.¢h1 ¦g1† 36.£xg1 
+hxg1=£† 37.¢xg1³. 34.¢xh1 g2† 35.¢g1 ¥d4  With his material advantage and dangerous 
+passed pawn, Black is winning. The game ended swiftly: 36.£xd4† cxd4 37.¤xd6 ¤g5 0–1
+
+
+207. Rustam Kasimdzhanov – Shakhriyar Mamedyarov, Baku 2005
+28...¤e3! 28...b4?!µ 29.¥xe3 29.¦xf7 ¤xg4†–+  29...£xf1–+  (0–1, 34 moves)
+
+
+208. Sergey Karjakin – Rustam Kasimdzhanov, Tashkent 2014
+38.¤e6!+– White is clearly better after other moves, but this finishes the game. 38...fxe6 The 
+game try 38...g5 is plain hopeless; the game continued 39.¤xf8 (39.fxg6 and other moves are 
+winning as well) 39...gxf4 40.¤fg6†! fxg6 41.¤xg6† and Black resigned. No better is 38...£c8 
+39.¦xg7  with mate. 39.¤g6† ¢h7 40.¤xf8†+– 
+
+
+209. Jan Timman – Veselin Topalov, Sarajevo 1999
+36...h5†! Deflecting the king from the defence of the rook. 36...¤f6†? 37.¦xf6 ¦xf6 and all the 
+pawns make up for the exchange. 37.¢xh5 ¦xf5  0–1
+
+
+210. Veselin Topalov – Miguel Illescas Cordoba, Cala Galdana 1999
+22.¤f6†!  1–0 Getting rid of the pesky knight on e3 with tempo, leaving White totally winning.
+
+
+211. Veselin Topalov – Arkadij Naiditsch, Dortmund 2005
+27.£f6†! Black resigned. 27...£xf6 28.¦e8† £f8 29.¦xf8 mate 
+
+
+212. Gata Kamsky – Veselin Topalov, Nice (blindfold) 2009
+32...¤xf3! 33.gxf3 ¥xf3†  0–1 Winning the queen.
+
+
+213. Ivan Sokolov – Magnus Carlsen, Hoogeveen 2004
+White wins a pawn by exploiting the potential pin on the eighth rank, either by: 33.¤xc6! ¦xc6 
+34.¦b8 ¢h7 35.¦xd8+–  1–0 Or the almost equally good 33.¦a1, threatening ¦a1-a6, so 
+33...¤d5 34.¤xc6 with the same theme but having given away ...¤f6-d5.
+
+
+214. Gata Kamsky – Magnus Carlsen, Khanty-Mansiysk (2) 2005
+31.b6! 1–0 The pawn queens after 31...¦xf7 32.bxa7+–  and the threat on the rook leaves 
+White a piece up after 31...£xb6 32.£xe7 .
+
+
+215. Hannes Stefansson – Magnus Carlsen, Reykjavik (blitz) 2006
+24...¦xc3 0–1 The rook on d3 is overloaded: 25.¦xc3 ¦xc3 26.£xc3 £xd1–+ 
+
+
+216. Sergey Erenburg – Magnus Carlsen, Reykjavik (blitz) 2006
+34...¦e1† A discovered attack. 35.¦xe1 ¦xe1† 36.¦xe1 £xd3–+ 
+
+
+217. Goran Todorovic – Magnus Carlsen, Internet 2006
+35...¥xh3! 0–1 Black is up too much material after 36.gxh3 £xh3† 37.¢g1 £g3† 38.¢h1 
+£f3† 39.¢g1 £xf6 .
+
+
+218. Magnus Carlsen – Laurent Fressinet, Cap d’Agde 2006
+27.£f5!  1–0 Black is back-rank mated or loses the rook on e6.
+
+
+219. Vassily Ivanchuk – Magnus Carlsen, Monte Carlo (blindfold) 2011
+14.¤db5  1–0 Winning a pawn, with the bishop pair and d6-square, gives a decisive advantage. 
+Somewhat weaker is winning the b6-pawn with: 14.¤cb5 £b8 15.¤xd6 £xd6 16.¤xc6 £xc6 
+17.£d4+–
+
+
+220. Fabiano Caruana – Magnus Carlsen, Shamkir 2014
+25.¤xc7! ¢xc7? Instead the game saw 25...¦d8 26.¤d5± when White had simply won a pawn, 
+also stabilizing the knight on d5. 26.e6†+–  White’s rook will penetrate to the seventh rank 
+with devastating effect.
+
+
+221. Magnus Carlsen – Teimour Radjabov, Wijk aan Zee 2015
+35.¥g7†! £xg7 36.£xe8†  With a winning advantage due to the two pawns, Black’s exposed 
+king and the pawn-like bishop on b6. You don’t have to see any further.
+
+
+222. Magnus Carlsen – Sergey Karjakin, New York (rapid 4) 2016
+50.£h6†  1–0 What a way to finish a World Championship! It’s mate in one however Black 
+takes back. 
+
+
